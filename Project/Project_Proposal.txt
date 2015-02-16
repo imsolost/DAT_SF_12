@@ -1,0 +1,14 @@
+Data Scraper API: https://www.kimonolabs.com/apis/a6w5a4ki
+
+List of Analysis:
+Deck archetype popularity over time
+Deck archetype win ratios (ie which archetypes win most frequently)
+Do certain archetypes rank in the top 4 more often than others?
+Deck supertype win ratios (ie does aggro, control, or combo win more often)
+Do win ratios change over time?
+Do updates to the banned list change deck archetype popularity?
+Do updates to the banned list change deck archetype win ratios?
+Which colors are most prevalent across all archetypes?
+Which colors are most prevalent in the top 4 ranked decks?
+Which cards are most prevalent across all archetypes?
+Which cards are most prevalent in the top 4 ranked decks?
