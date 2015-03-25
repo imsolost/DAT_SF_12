@@ -1,0 +1,34 @@
+Mythic                                 Single   Playset
+Archangel's Light                        0.75       3.0
+Beguiler of Wills                         0.8       3.2
+Drogskol Reaver                           1.7       6.8
+Elbrus, the Binding Blade                3.99     15.96
+Falkenrath Aristocrat                     2.8      11.2
+Havengul Lich                            2.77     11.08
+Helvault                                 0.68      2.72
+Huntmaster of the Fells                  6.61     26.44
+Mikaeus, the Unhallowed                 11.96     47.84
+Moonveil Dragon                          2.48      9.92
+Sorin, Lord of Innistrad                 6.09     24.36
+Vorapede                                 1.61      6.44
+
+Rare                                   Single   Playset
+Geralf's Messenger                       2.74     10.96
+Ghoultree                                0.68      2.72
+Grafdigger's Cage                         3.7      14.8
+Gravecrawler                              6.2      24.8
+Hellrider                                0.66      2.64
+Increasing Ambition                      0.65       2.6
+Increasing Confusion                     1.23      4.92
+Increasing Devotion                      0.51      2.04
+Increasing Savagery                      0.92      3.68
+Increasing Vengeance                     0.62      2.48
+Predator Ooze                            2.19      8.76
+Thalia, Guardian of Thraben              4.75      19.0
+Thraben Doomsayer                        0.73      2.92
+Vault of the Archangel                   1.05       4.2
+
+Common                                 Single   Playset
+Thought Scour                            0.57      2.28
+
+

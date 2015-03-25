@@ -1,0 +1,22 @@
+Mythic                                 Single   Playset
+Dragon Broodmother                       1.93      7.72
+Jenara, Asura of War                      2.1       8.4
+Karrthus, Tyrant of Jund                 1.58      6.32
+Lord of Extinction                       2.68     10.72
+Maelstrom Nexus                          2.55      10.2
+Sen Triplets                             2.46      9.84
+Sphinx of the Steel Wind                 1.28      5.12
+Thraximundar                             0.81      3.24
+Uril, the Miststalker                    1.22      4.88
+
+Rare                                   Single   Playset
+Maelstrom Pulse                          2.46      9.84
+Meddling Mage                            1.24      4.96
+Nemesis of Reason                        0.55       2.2
+Spellbreaker Behemoth                     0.6       2.4
+Wargate                                  1.02      4.08
+
+Uncommon                               Single   Playset
+Zealous Persecution                       1.4       5.6
+
+

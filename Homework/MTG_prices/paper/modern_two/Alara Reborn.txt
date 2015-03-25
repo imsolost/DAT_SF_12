@@ -1,0 +1,48 @@
+Mythic                                 Single   Playset
+Defiler of Souls                         2.69     10.76
+Dragon Broodmother                       15.0      60.0
+Jenara, Asura of War                     9.42     37.68
+Karrthus, Tyrant of Jund                17.72     70.88
+Lord of Extinction                      13.11     52.44
+Maelstrom Nexus                          6.63     26.52
+Sen Triplets                            14.18     56.72
+Sphinx of the Steel Wind                 2.19      8.76
+Thraximundar                             3.17     12.68
+Uril, the Miststalker                    5.37     21.48
+
+Rare                                   Single   Playset
+Dauntless Escort                         1.14      4.56
+Filigree Angel                           0.65       2.6
+Finest Hour                              1.98      7.92
+Glory of Warfare                         1.05       4.2
+Knight of New Alara                      0.91      3.64
+Knotvine Paladin                         0.52      2.08
+Lavalanche                               0.51      2.04
+Lich Lord of Unx                         3.99     15.96
+Lightning Reaver                          0.9       3.6
+Maelstrom Pulse                          8.13     32.52
+Mayael's Aria                            3.77     15.08
+Meddling Mage                            6.49     25.96
+Necromancer's Covenant                    0.7       2.8
+Nemesis of Reason                        6.99     27.96
+Sovereigns of Lost Alara                 2.34      9.36
+Spellbound Dragon                        0.68      2.72
+Spellbreaker Behemoth                    0.99      3.96
+Time Sieve                               1.93      7.72
+Unscythe, Killer of Kings                1.23      4.92
+Wargate                                  1.59      6.36
+
+Uncommon                               Single   Playset
+Ardent Plea                              0.85       3.4
+Bloodbraid Elf                           3.51     14.04
+Lorescale Coatl                          1.75       7.0
+Mage Slayer                               1.1       4.4
+Mind Funeral                             3.15      12.6
+Wall of Denial                           1.74      6.96
+Zealous Persecution                      0.81      3.24
+
+Common                                 Single   Playset
+Qasali Pridemage                         1.81      7.24
+Terminate                                1.15       4.6
+
+

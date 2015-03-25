@@ -1,0 +1,69 @@
+Rare                                   Single   Playset
+Ashling, the Extinguisher                4.04     16.16
+Balefire Liege                           7.19     28.76
+Bloom Tender                            11.98     47.92
+Cascade Bluffs                           22.4      89.6
+Cold-Eyed Selkie                          1.5       6.0
+Crackleburr                              1.61      6.44
+Creakwood Liege                         10.57     42.28
+Deathbringer Liege                      12.57     50.28
+Deity of Scars                           1.99      7.96
+Divinity of Pride                        2.29      9.16
+Dominus of Fealty                         2.7      10.8
+Doomgape                                 0.84      3.36
+Endless Horizons                         5.49     21.96
+Evershrike                               1.11      4.44
+Fable of Wolf and Owl                    2.46      9.84
+Fetid Heath                             21.92     87.68
+Figure of Destiny                        2.19      8.76
+Flooded Grove                           23.12     92.48
+Glen Elendra Archmage                    7.32     29.28
+Hallowed Burial                          7.01     28.04
+Hateflayer                               0.65       2.6
+Helix Pinnacle                           6.83     27.32
+Inundate                                 0.77      3.08
+Light from Within                        1.89      7.56
+Mindwrack Liege                          2.07      8.28
+Mirror Sheen                             0.61      2.44
+Murkfiend Liege                           2.9      11.6
+Necroskitter                             5.64     22.56
+Needle Specter                           0.74      2.96
+Nightmare Incursion                      0.58      2.32
+Nobilis of War                           1.09      4.36
+Overbeing of Myth                        4.44     17.76
+Primalcrux                              10.92     43.68
+Regal Force                             14.42     57.68
+Rise of the Hobgoblins                   3.52     14.08
+Rugged Prairie                          13.27     53.08
+Sanity Grinding                          1.79      7.16
+Sapling of Colfenor                      3.89     15.56
+Scarecrone                               14.0      56.0
+Spirit of the Hearth                      1.5       6.0
+Spitting Image                           1.35       5.4
+Springjack Pasture                       1.22      4.88
+Stigma Lasher                            3.96     15.84
+Stillmoon Cavalier                        4.7      18.8
+Talara's Battalion                       3.59     14.36
+Thunderblust                             1.09      4.36
+Twilight Mire                            33.6     134.4
+Wake Thrasher                            2.84     11.36
+Ward of Bones                            3.96     15.84
+Waves of Aggression                      5.45      21.8
+Worm Harvest                             0.61      2.44
+
+Uncommon                               Single   Playset
+Batwing Brume                            1.05       4.2
+Crumbling Ashes                          0.95       3.8
+Flickerwisp                              0.94      3.76
+Gilder Bairn                             3.37     13.48
+Quillspike                               0.86      3.44
+Spitemare                                0.69      2.76
+Voracious Hatchling                      0.59      2.36
+Wistful Selkie                           0.84      3.36
+
+Common                                 Single   Playset
+Nettle Sentinel                          0.67      2.68
+Slippery Bogle                           1.37      5.48
+Unmake                                   0.85       3.4
+
+

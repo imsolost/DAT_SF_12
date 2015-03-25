@@ -1,0 +1,22 @@
+Mythic                                 Single   Playset
+Elspeth Tirel                            4.06     16.24
+Geth, Lord of the Vault                  1.22      4.88
+Koth of the Hammer                      11.15      44.6
+Lux Cannon                               0.78      3.12
+Mindslaver                               2.55      10.2
+Mox Opal                                38.78    155.12
+Platinum Emperion                        1.97      7.88
+Skithiryx, the Blight Dragon             2.07      8.28
+Sword of Body and Mind                   3.36     13.44
+Venser, the Sojourner                    6.76     27.04
+Wurmcoil Engine                          9.47     37.88
+
+Rare                                   Single   Playset
+Blackcleave Cliffs                       1.47      5.88
+Copperline Gorge                         0.73      2.92
+Darkslick Shores                         2.02      8.08
+Genesis Wave                             1.14      4.56
+Razorverge Thicket                       1.03      4.12
+Seachrome Coast                          1.18      4.72
+
+

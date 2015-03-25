@@ -1,0 +1,20 @@
+Mythic                                 Single   Playset
+Ajani Goldmane                           1.36      5.44
+Baneslayer Angel                         5.62     22.48
+Darksteel Colossus                       2.36      9.44
+Garruk Wildspeaker                       3.73     14.92
+Jace Beleren                             1.86      7.44
+Liliana Vess                             5.39     21.56
+Master of the Wild Hunt                  3.85      15.4
+Platinum Angel                           1.58      6.32
+Sphinx Ambassador                        0.87      3.48
+Time Warp                                7.33     29.32
+Vampire Nocturnus                        3.64     14.56
+
+Rare                                   Single   Playset
+Birds of Paradise                        1.12      4.48
+Honor of the Pure                        0.93      3.72
+Howling Mine                             0.82      3.28
+Polymorph                                0.75       3.0
+
+

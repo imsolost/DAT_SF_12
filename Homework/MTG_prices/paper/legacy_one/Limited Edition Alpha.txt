@@ -1,0 +1,285 @@
+Rare                                   Single   Playset
+Ancestral Recall                      4615.62  18462.48
+Animate Wall                           141.87    567.48
+Ankh of Mishra                          327.0    1308.0
+Armageddon                             449.99   1799.96
+Aspect of Wolf                         165.02    660.08
+Bad Moon                               188.77    755.08
+Badlands                               1513.4    6053.6
+Balance                                381.16   1524.64
+Bayou                                 2144.99   8579.96
+Birds of Paradise                      889.98   3559.92
+Black Lotus                           16000.0   64000.0
+Blaze of Glory                         122.33    489.32
+Blessing                                78.74    314.96
+Braingeyser                            228.71    914.84
+Chaos Orb                              404.58   1618.32
+Chaoslace                              152.49    609.96
+Clockwork Beast                        175.49    701.96
+Cockatrice                              91.99    367.96
+Contract from Below                    120.49    481.96
+Copy Artifact                           370.0    1480.0
+Crusade                                139.12    556.48
+Cyclopean Tomb                         185.13    740.52
+Darkpact                               152.61    610.44
+Deathlace                                90.0     360.0
+Demonic Attorney                       164.99    659.96
+Demonic Hordes                         179.61    718.44
+Dingus Egg                              99.99    399.96
+Disrupting Scepter                     112.49    449.96
+Drain Power                            134.99    539.96
+Earthquake                             164.99    659.96
+Elvish Archers                         272.31   1089.24
+Farmstead                              141.22    564.88
+Fastbond                               329.99   1319.96
+Force of Nature                        179.87    719.48
+Forcefield                             614.99   2459.96
+Fork                                   185.25     741.0
+Fungusaur                              177.97    711.88
+Gaea's Liege                           199.99    799.96
+Gauntlet of Might                       389.5    1558.0
+Goblin King                            198.24    792.96
+Granite Gargoyle                       164.99    659.96
+Helm of Chatzuk                        144.36    577.44
+Howling Mine                           329.99   1319.96
+Illusionary Mask                       284.95    1139.8
+Island Sanctuary                       104.99    419.96
+Jade Monolith                           93.74    374.96
+Jayemdae Tome                          147.23    588.92
+Kormus Bell                             99.99    399.96
+Kudzu                                  110.58    442.32
+Lich                                   251.28   1005.12
+Lifelace                                166.2     664.8
+Living Artifact                        103.87    415.48
+Living Lands                           119.12    476.48
+Lord of Atlantis                       278.87   1115.48
+Lord of the Pit                        288.74   1154.96
+Magical Hack                           169.99    679.96
+Mahamoti Djinn                         228.74    914.96
+Mana Flare                             199.99    799.96
+Mana Short                             199.99    799.96
+Mana Vault                             799.99   3199.96
+Manabarbs                              123.74    494.96
+Meekstone                              123.74    494.96
+Mind Twist                             412.49   1649.96
+Mox Emerald                           2849.95   11399.8
+Mox Jet                                3000.0   12000.0
+Mox Ruby                              2849.95   11399.8
+Natural Selection                      123.74    494.96
+Nether Shadow                          173.96    695.84
+Nevinyrral's Disk                      439.99   1759.96
+Nightmare                              439.98   1759.92
+Northern Paladin                        159.6     638.4
+Personal Incarnation                    103.5     414.0
+Pirate Ship                            192.49    769.96
+Plateau                               1245.49   4981.96
+Power Surge                            182.49    729.96
+Purelace                               104.99    419.96
+Raging River                            167.3     669.2
+Reverse Damage                         123.74    494.96
+Righteousness                          157.49    629.96
+Roc of Kher Ridges                     144.36    577.44
+Rock Hydra                             149.99    599.96
+Royal Assassin                         419.99   1679.96
+Savannah Lions                         164.75     659.0
+Savannah                               1147.5    4590.0
+Scrubland                             1675.18   6700.72
+Sedge Troll                             99.99    399.96
+Shivan Dragon                          319.98   1279.92
+Sleight of Mind                         140.0     560.0
+Smoke                                  119.97    479.88
+Stasis                                 191.39    765.56
+Sunglasses of Urza                     110.49    441.96
+The Hive                               144.36    577.44
+Thoughtlace                             107.5     430.0
+Timber Wolves                          144.36    577.44
+Time Vault                            1006.72   4026.88
+Time Walk                             3399.96  13599.84
+Timetwister                            1252.5    5010.0
+Tropical Island                       3155.74  12622.96
+Tundra                                 3500.0   14000.0
+Two-Headed Giant of Foriys              168.9     675.6
+Underground Sea                       4724.99  18899.96
+Verduran Enchantress                   199.49    797.96
+Vesuvan Doppelganger                   187.72    750.88
+Veteran Bodyguard                      119.69    478.76
+Volcanic Eruption                       99.99    399.96
+Warp Artifact                          104.99    419.96
+Web                                    125.99    503.96
+Wheel of Fortune                       384.87   1539.48
+Will-o'-the-Wisp                       181.87    727.48
+Winter Orb                             344.02   1376.08
+Word of Command                        263.74   1054.96
+Zombie Master                          196.79    787.16
+
+Uncommon                               Single   Playset
+Air Elemental                           10.74     42.96
+Animate Artifact                         5.53     22.12
+Animate Dead                            61.27    245.08
+Basalt Monolith                         36.01    144.04
+Berserk                                163.34    653.36
+Black Knight                            14.83     59.32
+Black Vise                              28.48    113.92
+Black Ward                               7.64     30.56
+Blue Ward                                4.22     16.88
+Bog Wraith                               5.47     21.88
+Burrowing                                4.62     18.48
+Camouflage                               6.85      27.4
+Castle                                   6.38     25.52
+Celestial Prism                          5.69     22.76
+Channel                                 20.77     83.08
+Clone                                   44.77    179.08
+Consecrate Land                          6.02     24.08
+Conservator                              4.09     16.36
+Control Magic                            50.5     202.0
+Conversion                               5.99     23.96
+Copper Tablet                           19.24     76.96
+Counterspell                            85.48    341.92
+Crystal Rod                              5.52     22.08
+Cursed Land                              5.69     22.76
+Deathgrip                                3.89     15.56
+Demonic Tutor                          273.79   1095.16
+Dragon Whelp                             39.0     156.0
+Dwarven Demolition Team                  17.1      68.4
+Earth Elemental                          4.25      17.0
+Evil Presence                            5.28     21.12
+Feedback                                 5.49     21.96
+Fire Elemental                            4.4      17.6
+Flashfires                               5.72     22.88
+Glasses of Urza                          7.33     29.32
+Gloom                                    5.75      23.0
+Goblin Balloon Brigade                   7.11     28.44
+Green Ward                               4.03     16.12
+Hurricane                               11.26     45.04
+Hypnotic Specter                        59.99    239.96
+Ice Storm                               33.57    134.28
+Icy Manipulator                         75.99    303.96
+Instill Energy                           6.93     27.72
+Iron Star                                4.08     16.32
+Ivory Cup                                4.58     18.32
+Jade Statue                             11.69     46.76
+Juggernaut                               31.7     126.8
+Karma                                    9.89     39.56
+Keldon Warlord                           6.64     26.56
+Lance                                    6.46     25.84
+Ley Druid                                4.74     18.96
+Library of Leng                         41.24    164.96
+Lifeforce                                5.47     21.88
+Lifetap                                   5.2      20.8
+Living Wall                              6.49     25.96
+Lure                                     5.99     23.96
+Nettling Imp                             6.37     25.48
+Obsianus Golem                           5.45      21.8
+Orcish Artillery                        21.99     87.96
+Orcish Oriflamme                        19.78     79.12
+Phantasmal Forces                        4.44     17.76
+Phantom Monster                          4.93     19.72
+Psionic Blast                           33.93    135.72
+Red Ward                                 4.39     17.56
+Regrowth                                 41.8     167.2
+Resurrection                            11.14     44.56
+Rod of Ruin                              5.31     21.24
+Sacrifice                                5.25      21.0
+Scavenging Ghoul                         4.15      16.6
+Sengir Vampire                          29.99    119.96
+Serra Angel                             83.13    332.52
+Simulacrum                               5.61     22.44
+Siren's Call                             4.49     17.96
+Sol Ring                               190.01    760.04
+Soul Net                                 4.79     19.16
+Steal Artifact                           5.12     20.48
+Stone Giant                               5.9      23.6
+Swords to Plowshares                   149.97    599.88
+Thicket Basilisk                         6.01     24.04
+Throne of Bone                           4.75      19.0
+Tsunami                                  6.33     25.32
+Tunnel                                   5.65      22.6
+Uthden Troll                             5.99     23.96
+Wall of Air                              5.37     21.48
+Wall of Bone                             5.22     20.88
+Wall of Brambles                         3.89     15.56
+Wall of Fire                             6.32     25.28
+Wall of Ice                              5.27     21.08
+Wall of Stone                             5.7      22.8
+Wall of Swords                           6.12     24.48
+Wall of Water                            4.83     19.32
+Wanderlust                               6.29     25.16
+Water Elemental                          4.77     19.08
+White Knight                            23.15      92.6
+White Ward                               5.35      21.4
+Wooden Sphere                             4.3      17.2
+
+Common                                 Single   Playset
+Benalish Hero                            1.79      7.16
+Blue Elemental Blast                     6.66     26.64
+Circle of Protection Red                 8.99     35.96
+Craw Wurm                                2.63     10.52
+Creature Bond                            1.69      6.76
+Dark Ritual                             36.76    147.04
+Death Ward                               1.69      6.76
+Disenchant                               9.07     36.28
+Disintegrate                             3.51     14.04
+Drain Life                               4.73     18.92
+Drudge Skeletons                          1.9       7.6
+Dwarven Warriors                         1.59      6.36
+Earthbind                                2.65      10.6
+False Orders                             2.19      8.76
+Fear                                     1.69      6.76
+Fireball                                 4.56     18.24
+Firebreathing                             1.9       7.6
+Flight                                    1.6       6.4
+Fog                                      4.46     17.84
+Frozen Shade                             1.75       7.0
+Giant Growth                             6.02     24.08
+Giant Spider                             2.49      9.96
+Gray Ogre                                1.72      6.88
+Grizzly Bears                            1.88      7.52
+Guardian Angel                           2.16      8.64
+Healing Salve                            1.77      7.08
+Hill Giant                               1.59      6.36
+Holy Armor                               1.78      7.12
+Holy Strength                            1.71      6.84
+Howl from Beyond                         1.89      7.56
+Hurloon Minotaur                         1.73      6.92
+Invisibility                             2.07      8.28
+Ironclaw Orcs                            1.58      6.32
+Ironroot Treefolk                         1.6       6.4
+Jump                                      1.7       6.8
+Lightning Bolt                          83.99    335.96
+Llanowar Elves                          12.92     51.68
+Merfolk of the Pearl Trident             1.99      7.96
+Mesa Pegasus                             1.91      7.64
+Mons's Goblin Raiders                    1.91      7.64
+Paralyze                                 1.66      6.64
+Pearled Unicorn                           1.7       6.8
+Pestilence                               3.89     15.56
+Phantasmal Terrain                       1.72      6.88
+Plague Rats                              2.17      8.68
+Power Leak                               1.62      6.48
+Power Sink                               2.69     10.76
+Prodigal Sorcerer                        3.06     12.24
+Psychic Venom                            1.67      6.68
+Raise Dead                               2.34      9.36
+Red Elemental Blast                     22.13     88.52
+Regeneration                             1.58      6.32
+Samite Healer                            1.89      7.56
+Scathe Zombies                           1.85       7.4
+Scryb Sprites                            2.54     10.16
+Sea Serpent                              1.54      6.16
+Shanodin Dryads                          1.68      6.72
+Shatter                                  2.43      9.72
+Sinkhole                                61.86    247.44
+Spell Blast                              1.66      6.64
+Stone Rain                               4.31     17.24
+Stream of Life                           1.76      7.04
+Terror                                   6.97     27.88
+Tranquility                              1.87      7.48
+Twiddle                                  2.11      8.44
+Unholy Strength                          3.49     13.96
+Unsummon                                 3.71     14.84
+Wall of Wood                             1.63      6.52
+War Mammoth                              1.74      6.96
+Weakness                                 1.89      7.56
+Wild Growth                              5.24     20.96
+
+

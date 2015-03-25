@@ -1,0 +1,71 @@
+Rare                                   Single   Playset
+Aegis of Honor                           0.95       3.8
+Braids, Cabal Minion                     2.11      8.44
+Call of the Herd                         0.78      3.12
+Chance Encounter                         1.94      7.76
+Chlorophant                              0.74      2.96
+Crystal Quarry                            3.5      14.0
+Cultural Exchange                        0.99      3.96
+Darkwater Catacombs                      3.79     15.16
+Decimate                                 3.11     12.44
+Deserted Temple                          6.64     26.56
+Devoted Caretaker                        1.25       5.0
+Divert                                   3.33     13.32
+Divine Sacrament                         1.02      4.08
+Entomb                                  25.27    101.08
+Extract                                  1.42      5.68
+Gravestorm                               1.14      4.56
+Ground Seal                              0.76      3.04
+Haunting Echoes                          0.72      2.88
+Iridescent Angel                         1.75       7.0
+Kamahl, Pit Fighter                      0.64      2.56
+Karmic Justice                           6.29     25.16
+Kirtar's Wrath                           0.75       3.0
+Krosan Beast                             1.54      6.16
+Lieutenant Kirtar                        0.92      3.68
+Master Apothecary                        0.78      3.12
+Mindslicer                               0.94      3.76
+Mine Layer                               0.88      3.52
+Mirari                                   1.23      4.92
+Molten Influence                         1.42      5.68
+Mortivore                                1.24      4.96
+Mossfire Valley                          2.11      8.44
+Mystic Enforcer                          0.52      2.08
+New Frontiers                            1.46      5.84
+Nut Collector                            3.14     12.56
+Patron Wizard                            5.78     23.12
+Petrified Field                           3.0      12.0
+Seize the Day                            3.26     13.04
+Shadowblood Ridge                        2.72     10.88
+Shadowmage Infiltrator                   1.65       6.6
+Skycloud Expanse                         2.84     11.36
+Squirrel Mob                             8.43     33.72
+Sungrass Prairie                         2.07      8.28
+Tainted Pact                             0.64      2.56
+Tarnished Citadel                        1.99      7.96
+Terravore                                2.59     10.36
+Time Stretch                              7.0      28.0
+Traumatize                               1.79      7.16
+Upheaval                                 2.22      8.88
+Vampiric Dragon                          2.53     10.12
+Verdant Succession                       0.53      2.12
+Wayward Angel                            0.62      2.48
+
+Uncommon                               Single   Playset
+Barbarian Ring                           0.53      2.12
+Buried Alive                             1.62      6.48
+Cephalid Coliseum                        1.75       7.0
+Diabolic Tutor                           0.54      2.16
+Druid's Call                             1.14      4.56
+Nimble Mongoose                          1.49      5.96
+Price of Glory                           2.92     11.68
+Soulcatcher                               0.6       2.4
+Squirrel Nest                            2.02      8.08
+Standstill                               3.26     13.04
+Zombify                                  0.54      2.16
+
+Common                                 Single   Playset
+Careful Study                            0.89      3.56
+Innocent Blood                            1.1       4.4
+
+

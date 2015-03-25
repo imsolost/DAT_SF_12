@@ -1,0 +1,30 @@
+Mythic                                 Single   Playset
+Angel of Serenity                        3.09     12.36
+Armada Wurm                              2.48      9.92
+Epic Experiment                           3.0      12.0
+Isperia, Supreme Judge                   1.15       4.6
+Jace, Architect of Thought               6.57     26.28
+Jarad, Golgari Lich Lord                 3.66     14.64
+Necropolis Regent                         3.8      15.2
+Niv-Mizzet, Dracogenius                  1.65       6.6
+Rakdos's Return                          2.42      9.68
+Rakdos, Lord of Riots                    3.01     12.04
+Sphinx's Revelation                      12.4      49.6
+Trostani, Selesnya's Voice               3.79     15.16
+Utvara Hellkite                           4.5      18.0
+Vraska the Unseen                        3.73     14.92
+Worldspine Wurm                          5.75      23.0
+
+Rare                                   Single   Playset
+Abrupt Decay                             5.64     22.56
+Blood Crypt                               2.4       9.6
+Deathrite Shaman                         2.39      9.56
+Detention Sphere                         0.53      2.12
+Hallowed Fountain                         3.2      12.8
+Overgrown Tomb                           2.61     10.44
+Rest in Peace                            1.03      4.12
+Steam Vents                              4.56     18.24
+Supreme Verdict                          0.77      3.08
+Temple Garden                            2.04      8.16
+
+

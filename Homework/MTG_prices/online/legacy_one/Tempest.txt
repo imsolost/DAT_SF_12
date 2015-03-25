@@ -1,0 +1,35 @@
+Rare                                   Single   Playset
+Altar of Dementia                        2.94     11.76
+Aluren                                   4.56     18.24
+Coffin Queen                              2.1       8.4
+Corpse Dance                             0.79      3.16
+Earthcraft                               4.27     17.08
+Eladamri, Lord of Leaves                  3.0      12.0
+Grindstone                               8.66     34.64
+Helm of Possession                       1.58      6.32
+Humility                                10.75      43.0
+Intuition                               22.26     89.04
+Jet Medallion                             2.0       8.0
+Meditate                                 5.71     22.84
+Mirri's Guile                            3.08     12.32
+Pearl Medallion                          0.99      3.96
+Recycle                                  0.55       2.2
+Reflecting Pool                          6.21     24.84
+Ruby Medallion                           2.04      8.16
+Sapphire Medallion                       2.57     10.28
+Scroll Rack                              11.1      44.4
+Time Warp                                7.33     29.32
+
+Uncommon                               Single   Playset
+Ancient Tomb                             1.97      7.88
+Choke                                    3.06     12.24
+Dread of Night                           0.62      2.48
+Goblin Bombardment                       0.59      2.36
+Wasteland                               66.52    266.08
+
+Common                                 Single   Playset
+Diabolic Edict                           1.62      6.48
+Lotus Petal                              3.44     13.76
+Rolling Thunder                          1.61      6.44
+
+

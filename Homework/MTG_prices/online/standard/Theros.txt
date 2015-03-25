@@ -1,0 +1,23 @@
+Mythic                                 Single   Playset
+Ashen Rider                              1.05       4.2
+Ashiok, Nightmare Weaver                11.45      45.8
+Elspeth, Sun's Champion                 11.42     45.68
+Erebos, God of the Dead                  1.89      7.56
+Heliod, God of the Sun                   1.17      4.68
+Master of Waves                          6.81     27.24
+Nylea, God of the Hunt                   1.63      6.52
+Polukranos, World Eater                  8.11     32.44
+Purphoros, God of the Forge              3.76     15.04
+Stormbreath Dragon                       9.82     39.28
+Thassa, God of the Sea                   3.73     14.92
+Xenagos, the Reveler                     3.09     12.36
+
+Rare                                   Single   Playset
+Firedrinker Satyr                        0.94      3.76
+Fleecemane Lion                          0.55       2.2
+Hero's Downfall                          2.66     10.64
+Nykthos, Shrine to Nyx                   0.77      3.08
+Temple of Triumph                        0.55       2.2
+Thoughtseize                             7.05      28.2
+
+

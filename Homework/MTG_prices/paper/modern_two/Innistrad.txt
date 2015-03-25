@@ -1,0 +1,48 @@
+Mythic                                 Single   Playset
+Angelic Overseer                         2.03      8.12
+Army of the Damned                       1.84      7.36
+Balefire Dragon                          7.54     30.16
+Essence of the Wild                      0.74      2.96
+Garruk Relentless                        5.69     22.76
+Geist of Saint Traft                     20.0      80.0
+Grimgrin, Corpse-Born                    1.26      5.04
+Grimoire of the Dead                     2.29      9.16
+Liliana of the Veil                     89.29    357.16
+Mikaeus, the Lunarch                     2.49      9.96
+Mirror-Mad Phantasm                      0.67      2.68
+Olivia Voldaren                          5.27     21.08
+Past in Flames                           4.98     19.92
+Reaper from the Abyss                    1.54      6.16
+Skaab Ruinator                           1.02      4.08
+Tree of Redemption                       1.48      5.92
+
+Rare                                   Single   Playset
+Blasphemous Act                          0.77      3.08
+Bloodgift Demon                          0.55       2.2
+Bloodline Keeper                         4.54     18.16
+Champion of the Parish                    2.4       9.6
+Clifftop Retreat                         3.99     15.96
+Endless Ranks of the Dead                1.99      7.96
+Gavony Township                          2.95      11.8
+Hinterland Harbor                        4.49     17.96
+Isolated Chapel                          1.98      7.92
+Kessig Wolf Run                          1.04      4.16
+Laboratory Maniac                        0.88      3.52
+Mayor of Avabruck                         1.1       4.4
+Mentor of the Meek                       0.65       2.6
+Parallel Lives                           5.34     21.36
+Snapcaster Mage                         49.99    199.96
+Stony Silence                            4.11     16.44
+Stromkirk Noble                          0.73      2.92
+Sulfur Falls                             8.16     32.64
+Unbreathing Horde                        0.75       3.0
+Witchbane Orb                            0.72      2.88
+Woodland Cemetery                        4.25      17.0
+
+Uncommon                               Single   Playset
+Invisible Stalker                        0.98      3.92
+
+Common                                 Single   Playset
+Delver of Secrets                        1.54      6.16
+
+

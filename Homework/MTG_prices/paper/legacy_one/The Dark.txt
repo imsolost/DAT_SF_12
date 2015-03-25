@@ -1,0 +1,39 @@
+Rare                                   Single   Playset
+Apprentice Wizard                        0.99      3.96
+Ball Lightning                           5.07     20.28
+Blood Moon                              30.68    122.72
+City of Shadows                          4.09     16.36
+Cleansing                                0.89      3.56
+Dance of Many                            0.94      3.76
+Exorcist                                 1.29      5.16
+Frankenstein's Monster                    0.9       3.6
+Goblin Wizard                            7.94     31.76
+Hidden Path                              0.67      2.68
+Inferno                                  0.91      3.64
+Knights of Thorn                          0.9       3.6
+Leviathan                                0.98      3.92
+Mana Vortex                              3.69     14.76
+Martyr's Cry                             0.64      2.56
+Mind Bomb                                0.68      2.72
+Preacher                                 5.21     20.84
+Safe Haven                               0.93      3.72
+Scarwood Bandits                         0.63      2.52
+Season of the Witch                      0.95       3.8
+Sorrow's Path                            0.87      3.48
+Stone Calendar                           2.11      8.44
+Tracker                                  0.64      2.56
+Witch Hunter                             0.79      3.16
+Worms of the Earth                       1.03      4.12
+
+Uncommon                               Single   Playset
+Amnesia                                   0.6       2.4
+Dark Sphere                              0.75       3.0
+Eater of the Dead                        0.67      2.68
+Elves of Deep Shadow                     1.01      4.04
+Fellwar Stone                            0.93      3.72
+Maze of Ith                             21.03     84.12
+Merfolk Assassin                         0.62      2.48
+Tivadar's Crusade                        0.82      3.28
+Tormod's Crypt                           2.32      9.28
+
+

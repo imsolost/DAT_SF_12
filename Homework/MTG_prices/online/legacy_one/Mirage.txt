@@ -1,0 +1,22 @@
+Rare                                   Single   Playset
+Cadaverous Bloom                         0.94      3.76
+Cursed Totem                             5.03     20.12
+Early Harvest                            0.54      2.16
+Flash                                    2.34      9.36
+Hall of Gemstone                         1.05       4.2
+Infernal Contract                         0.9       3.6
+Lion's Eye Diamond                      19.29     77.16
+Phyrexian Dreadnought                    5.54     22.16
+Polymorph                                0.94      3.76
+Seeds of Innocence                       0.85       3.4
+Shallow Grave                            5.04     20.16
+Teferi's Isle                            0.67      2.68
+Tombstone Stairwell                      0.84      3.36
+Zirilan of the Claw                      2.18      8.72
+
+Uncommon                               Single   Playset
+Enlightened Tutor                       18.79     75.16
+Mystical Tutor                          11.13     44.52
+Worldly Tutor                            2.73     10.92
+
+

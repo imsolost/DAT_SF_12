@@ -1,0 +1,26 @@
+Mythic                                 Single   Playset
+Apocalypse Hydra                         1.22      4.88
+Child of Alara                           1.22      4.88
+Ethersworn Adjudicator                   0.98      3.92
+Maelstrom Archangel                      2.05       8.2
+Mirror-Sigil Sergeant                    0.52      2.08
+Nicol Bolas, Planeswalker                2.46      9.84
+Progenitus                               1.81      7.24
+Thornling                                0.64      2.56
+
+Rare                                   Single   Playset
+Banefire                                 1.66      6.64
+Font of Mythos                           0.62      2.48
+Inkwell Leviathan                         0.7       2.8
+Knight of the Reliquary                  1.87      7.48
+Mark of Asylum                           0.59      2.36
+Master Transmuter                         0.7       2.8
+Noble Hierarch                           28.7     114.8
+Nyxathid                                 1.12      4.48
+Sigil of the Empty Throne                0.67      2.68
+Wall of Reverence                        0.65       2.6
+
+Uncommon                               Single   Playset
+Path to Exile                            5.93     23.72
+
+

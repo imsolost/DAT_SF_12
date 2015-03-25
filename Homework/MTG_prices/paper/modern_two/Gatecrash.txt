@@ -1,0 +1,48 @@
+Mythic                                 Single   Playset
+Aurelia's Fury                           1.03      4.12
+Aurelia, the Warleader                   4.35      17.4
+Borborygmos Enraged                      0.71      2.84
+Deathpact Angel                          0.86      3.44
+Domri Rade                                7.0      28.0
+Duskmantle Seer                          0.79      3.16
+Enter the Infinite                       1.05       4.2
+Giant Adephage                           1.15       4.6
+Gideon, Champion of Justice              4.75      19.0
+Hellkite Tyrant                          3.77     15.08
+Lazav, Dimir Mastermind                  1.62      6.48
+Lord of the Void                         3.19     12.76
+Master Biomancer                         3.04     12.16
+Obzedat, Ghost Council                    2.0       8.0
+Prime Speaker Zegana                     1.66      6.64
+
+Rare                                   Single   Playset
+Angelic Skirmisher                        0.6       2.4
+Assemble the Legion                      0.83      3.32
+Blind Obedience                          0.87      3.48
+Boros Reckoner                           2.39      9.56
+Breeding Pool                           10.14     40.56
+Consuming Aberration                     2.46      9.84
+Crypt Ghast                              1.05       4.2
+Godless Shrine                            9.5      38.0
+Gyre Sage                                0.74      2.96
+High Priest of Penance                   0.61      2.44
+Immortal Servitude                        0.6       2.4
+Legion Loyalist                          1.99      7.96
+Merciless Eviction                       0.55       2.2
+Mind Grind                               1.66      6.64
+Nightveil Specter                        1.23      4.92
+Sacred Foundry                          11.12     44.48
+Stomping Ground                           8.6      34.4
+Sylvan Primordial                        0.51      2.04
+Thespian's Stage                         1.46      5.84
+Watery Grave                             9.67     38.68
+
+Uncommon                               Single   Playset
+Boros Charm                               2.4       9.6
+Burning-Tree Emissary                    0.88      3.52
+Experiment One                           0.98      3.92
+Rapid Hybridization                      0.74      2.96
+Simic Charm                              0.74      2.96
+Skullcrack                               1.16      4.64
+
+

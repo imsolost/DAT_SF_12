@@ -1,0 +1,23 @@
+Mythic                                 Single   Playset
+Avacyn, Angel of Hope                    8.83     35.32
+Bonfire of the Damned                    2.65      10.6
+Bruna, Light of Alabaster                0.56      2.24
+Craterhoof Behemoth                     20.23     80.92
+Entreat the Angels                      19.33     77.32
+Gisela, Blade of Goldnight               1.39      5.56
+Griselbrand                             44.98    179.92
+Misthollow Griffin                       1.59      6.36
+Sigarda, Host of Herons                 10.73     42.92
+Tamiyo, the Moon Sage                    4.51     18.04
+Temporal Mastery                         4.89     19.56
+Tibalt, the Fiend-Blooded                1.12      4.48
+
+Rare                                   Single   Playset
+Cavern of Souls                          9.55      38.2
+Desolate Lighthouse                      0.56      2.24
+Restoration Angel                        5.08     20.32
+Terminus                                 0.53      2.12
+Vexing Devil                             1.39      5.56
+Wild Defiance                            1.05       4.2
+
+

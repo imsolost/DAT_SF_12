@@ -1,0 +1,27 @@
+Mythic                                 Single   Playset
+Blood Baron of Vizkopa                   2.07      8.28
+Council of the Absolute                  0.75       3.0
+Deadbridge Chant                         1.19      4.76
+Legion's Initiative                       1.2       4.8
+Master of Cruelties                       3.3      13.2
+Maze's End                                1.2       4.8
+Progenitor Mimic                         2.85      11.4
+Ral Zarek                                6.59     26.36
+Reap Intellect                           0.73      2.92
+Savageborn Hydra                          1.9       7.6
+Voice of Resurgence                      18.0      72.0
+
+Rare                                   Single   Playset
+Advent of the Wurm                       0.72      2.88
+Breaking // Entering                     0.72      2.88
+Mirko Vosk, Mind Drinker                 0.94      3.76
+Render Silent                            0.54      2.16
+Tajic, Blade of the Legion               0.54      2.16
+Varolz, the Scar-Striped                 0.71      2.84
+Vorel of the Hull Clade                  0.54      2.16
+
+Uncommon                               Single   Playset
+Unflinching Courage                      0.56      2.24
+Wear // Tear                              0.9       3.6
+
+

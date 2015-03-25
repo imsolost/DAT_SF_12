@@ -1,0 +1,33 @@
+Mythic                                 Single   Playset
+Blightsteel Colossus                    21.38     85.52
+Consecrated Sphinx                      12.95      51.8
+Glissa, the Traitor                      1.88      7.52
+Hero of Bladehold                        8.59     34.36
+Hero of Oxid Ridge                        1.0       4.0
+Massacre Wurm                            5.17     20.68
+Praetor's Counsel                        1.74      6.96
+Sword of Feast and Famine               15.94     63.76
+Tezzeret, Agent of Bolas                15.27     61.08
+Thrun, the Last Troll                   12.98     51.92
+
+Rare                                   Single   Playset
+Black Sun's Zenith                        2.0       8.0
+Blue Sun's Zenith                        0.85       3.4
+Creeping Corrosion                       1.03      4.12
+Darksteel Plate                          7.12     28.48
+Green Sun's Zenith                       7.59     30.36
+Inkmoth Nexus                            12.0      48.0
+Mirran Crusader                          3.66     14.64
+Mirrorworks                              1.37      5.48
+Myr Turbine                              1.16      4.64
+Phyrexian Crusader                       3.38     13.52
+Phyrexian Revoker                        1.49      5.96
+Psychosis Crawler                         1.1       4.4
+Sangromancer                             1.74      6.96
+Shimmer Myr                              0.93      3.72
+Titan Forge                              0.52      2.08
+
+Uncommon                               Single   Playset
+Go for the Throat                        2.37      9.48
+
+

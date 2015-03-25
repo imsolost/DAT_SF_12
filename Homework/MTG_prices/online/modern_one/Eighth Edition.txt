@@ -1,0 +1,21 @@
+Rare                                   Single   Playset
+Birds of Paradise                        1.14      4.56
+Blood Moon                              19.22     76.88
+Bribery                                  4.16     16.64
+City of Brass                            3.39     13.56
+Defense Grid                             2.86     11.44
+Elvish Champion                          0.51      2.04
+Ensnaring Bridge                        10.62     42.48
+Goblin King                               1.0       4.0
+Grave Pact                               0.55       2.2
+Howling Mine                             0.73      2.92
+Intruder Alarm                           0.98      3.92
+Lord of the Undead                       1.14      4.56
+Phyrexian Arena                          4.25      17.0
+Planar Portal                            1.03      4.12
+Wrath of God                             5.29     21.16
+
+Uncommon                               Single   Playset
+Choke                                    2.04      8.16
+
+

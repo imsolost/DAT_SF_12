@@ -1,0 +1,11 @@
+Rare                                   Single   Playset
+Boom // Bust                             0.97      3.88
+Damnation                               18.04     72.16
+Extirpate                                0.75       3.0
+Porphyry Nodes                           0.74      2.96
+Urborg, Tomb of Yawgmoth                 3.66     14.64
+
+Uncommon                               Single   Playset
+Harmonize                                0.85       3.4
+
+

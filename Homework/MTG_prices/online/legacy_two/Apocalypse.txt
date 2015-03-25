@@ -1,0 +1,17 @@
+Rare                                   Single   Playset
+Battlefield Forge                        8.92     35.68
+Caves of Koilos                          5.89     23.56
+Lightning Angel                          0.78      3.12
+Llanowar Wastes                          6.16     24.64
+Mystic Snake                             0.72      2.88
+Pernicious Deed                         22.39     89.56
+Phyrexian Arena                          5.64     22.56
+Shivan Reef                              6.76     27.04
+Spiritmonger                             0.67      2.68
+Vindicate                               17.33     69.32
+Yavimaya Coast                           4.13     16.52
+
+Common                                 Single   Playset
+Standard Bearer                          1.99      7.96
+
+

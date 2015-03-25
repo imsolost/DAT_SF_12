@@ -1,0 +1,35 @@
+Rare                                   Single   Playset
+Ashenmoor Liege                          0.59      2.36
+Boartusk Liege                           1.07      4.28
+Demigod of Revenge                       0.52      2.08
+Deus of Calamity                         1.56      6.24
+Fire-Lit Thicket                         1.63      6.52
+Fracturing Gust                          9.17     36.68
+Fulminator Mage                         31.06    124.24
+Graven Cairns                             1.1       4.4
+Greater Auramancy                        5.48     21.92
+Mana Reflection                          1.99      7.96
+Mystic Gate                              2.74     10.96
+Painter's Servant                        2.09      8.36
+Prismatic Omen                           2.05       8.2
+Puppeteer Clique                         0.59      2.36
+Reflecting Pool                          5.44     21.76
+Rhys the Redeemed                        1.78      7.12
+Runed Halo                               5.31     21.24
+Savor the Moment                         1.32      5.28
+Sunken Ruins                             4.32     17.28
+Sygg, River Cutthroat                    1.33      5.32
+Vexing Shusher                           2.73     10.92
+Wheel of Sun and Moon                    0.64      2.56
+Wilt-Leaf Liege                         19.66     78.64
+Wooded Bastion                           1.34      5.36
+
+Uncommon                               Single   Playset
+Cursecatcher                             0.79      3.16
+Kitchen Finks                            0.69      2.76
+Spectral Procession                      2.68     10.72
+
+Common                                 Single   Playset
+Smash to Smithereens                     0.51      2.04
+
+

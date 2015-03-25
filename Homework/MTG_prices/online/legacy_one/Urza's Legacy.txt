@@ -1,0 +1,17 @@
+Rare                                   Single   Playset
+Defense Grid                             3.53     14.12
+Defense of the Heart                     1.19      4.76
+Goblin Welder                            5.08     20.32
+Grim Monolith                            9.84     39.36
+No Mercy                                 0.84      3.36
+
+Uncommon                               Single   Playset
+Avalanche Riders                         0.98      3.92
+Mother of Runes                          2.36      9.44
+
+Common                                 Single   Playset
+Rancor                                   0.65       2.6
+Snap                                     2.37      9.48
+Unearth                                  0.97      3.88
+
+

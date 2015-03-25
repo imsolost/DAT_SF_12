@@ -1,0 +1,94 @@
+Rare                                   Single   Playset
+Ashenmoor Liege                          5.22     20.88
+Augury Adept                             0.99      3.96
+Boartusk Liege                            4.7      18.8
+Boon Reflection                          5.33     21.32
+Cauldron of Souls                        4.28     17.12
+Cemetery Puca                            1.39      5.56
+Counterbore                              0.52      2.08
+Demigod of Revenge                       3.49     13.96
+Deus of Calamity                         1.81      7.24
+Din of the Fireherd                      0.52      2.08
+Dire Undercurrents                       1.55       6.2
+Dramatic Entrance                        0.69      2.76
+Dusk Urchins                             0.65       2.6
+Elemental Mastery                        2.24      8.96
+Enchanted Evening                        4.43     17.72
+Everlasting Torment                      3.14     12.56
+Fire-Lit Thicket                        11.35      45.4
+Fracturing Gust                          4.04     16.16
+Fulminator Mage                         39.99    159.96
+Furystoke Giant                          0.66      2.64
+Ghastlord of Fugue                        5.8      23.2
+Glen Elendra Liege                       2.09      8.36
+Godhead of Awe                           3.18     12.72
+Graven Cairns                            7.29     29.16
+Greater Auramancy                       11.81     47.24
+Grim Poppet                              0.78      3.12
+Heartmender                              0.66      2.64
+Knollspine Dragon                        4.43     17.72
+Mana Reflection                         18.46     73.84
+Mass Calcify                             1.21      4.84
+Memory Plunder                           3.31     13.24
+Midnight Banshee                          2.0       8.0
+Mirrorweave                              1.99      7.96
+Mossbridge Troll                         1.18      4.72
+Mystic Gate                             17.13     68.52
+Oona, Queen of the Fae                   2.51     10.04
+Oracle of Nectars                        2.58     10.32
+Order of Whiteclay                       5.78     23.12
+Oversoul of Dusk                         2.56     10.24
+Painter's Servant                        9.78     39.12
+Polluted Bonds                           3.22     12.88
+Prismatic Omen                           7.99     31.96
+Puca's Mischief                          0.97      3.88
+Puppeteer Clique                         5.34     21.36
+Rage Reflection                          1.45       5.8
+Reaper King                              3.32     13.28
+Reflecting Pool                          6.31     25.24
+Rhys the Redeemed                        18.8      75.2
+Runed Halo                               6.68     26.72
+Savor the Moment                         2.08      8.32
+Spiteful Visions                         0.65       2.6
+Sunken Ruins                             17.0      68.0
+Swans of Bryn Argoll                     1.88      7.52
+Sygg, River Cutthroat                    5.99     23.96
+Thistledown Liege                        1.71      6.84
+Thought Reflection                       0.97      3.88
+Twilight Shepherd                        1.97      7.88
+Vexing Shusher                           7.85      31.4
+Wheel of Sun and Moon                     3.9      15.6
+Wilt-Leaf Liege                         30.99    123.96
+Windbrisk Raptor                         0.71      2.84
+Wooded Bastion                          12.17     48.68
+Woodfall Primus                          4.38     17.52
+Wort, the Raidmother                     1.15       4.6
+Wound Reflection                         5.47     21.88
+
+Uncommon                               Single   Playset
+Beseech the Queen                        3.43     13.72
+Bloodmark Mentor                         0.99      3.96
+Boggart Ram-Gang                         0.87      3.48
+Cursecatcher                             7.29     29.16
+Drove of Elves                           1.46      5.84
+Firespout                                1.13      4.52
+Guttural Response                        5.99     23.96
+Inkfathom Infiltrator                    1.25       5.0
+Kitchen Finks                            3.99     15.96
+Kulrath Knight                           1.24      4.96
+Leechridden Swamp                        1.22      4.88
+Mistveil Plains                          2.55      10.2
+Murderous Redcap                         0.81      3.24
+Prison Term                              0.94      3.76
+Spectral Procession                      1.25       5.0
+Umbral Mantle                             2.1       8.4
+Wilt-Leaf Cavaliers                      0.65       2.6
+
+Common                                 Single   Playset
+Cerulean Wisps                           1.05       4.2
+Manamorphose                             3.03     12.12
+Shield of the Oversoul                   1.56      6.24
+Smash to Smithereens                     4.92     19.68
+Steel of the Godhead                     0.99      3.96
+
+

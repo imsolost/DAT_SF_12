@@ -1,0 +1,17 @@
+Mythic                                 Single   Playset
+Blightsteel Colossus                     8.44     33.76
+Consecrated Sphinx                       4.03     16.12
+Hero of Bladehold                        3.76     15.04
+Massacre Wurm                            1.38      5.52
+Sword of Feast and Famine               10.51     42.04
+Tezzeret, Agent of Bolas                12.35      49.4
+Thrun, the Last Troll                    8.23     32.92
+
+Rare                                   Single   Playset
+Blue Sun's Zenith                        0.72      2.88
+Creeping Corrosion                       1.62      6.48
+Green Sun's Zenith                       1.86      7.44
+Inkmoth Nexus                            9.44     37.76
+Mirran Crusader                          1.92      7.68
+
+

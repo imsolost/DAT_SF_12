@@ -1,0 +1,52 @@
+Mythic                                 Single   Playset
+Ajani Steadfast                          8.06     32.24
+Chandra, Pyromaster                      7.79     31.16
+Garruk, Apex Predator                   15.62     62.48
+Jace, the Living Guildpact                3.7      14.8
+Liliana Vess                             9.45      37.8
+Nissa, Worldwaker                       19.67     78.68
+Perilous Vault                          10.47     41.88
+Sliver Hivelord                          7.17     28.68
+Soul of Innistrad                        2.67     10.68
+Soul of New Phyrexia                     2.65      10.6
+Soul of Ravnica                          0.75       3.0
+Soul of Shandalar                        0.94      3.76
+Soul of Theros                            3.6      14.4
+Soul of Zendikar                         0.81      3.24
+The Chain Veil                           1.09      4.36
+
+Rare                                   Single   Playset
+Aegis Angel                              0.69      2.76
+Battlefield Forge                         9.0      36.0
+Caves of Koilos                          2.49      9.96
+Chasm Skulker                             2.2       8.8
+Chief Engineer                            0.8       3.2
+Chord of Calling                         3.99     15.96
+Crucible of Fire                         1.57      6.28
+Genesis Hydra                            2.81     11.24
+Goblin Rabblemaster                      15.1      60.4
+Hornet Nest                              2.26      9.04
+Hornet Queen                             5.24     20.96
+Hushwing Gryff                           2.96     11.84
+Indulgent Tormentor                      0.59      2.36
+Llanowar Wastes                           6.3      25.2
+Ob Nixilis, Unshackled                   0.99      3.96
+Obelisk of Urd                           2.37      9.48
+Phyrexian Revoker                        1.25       5.0
+Polymorphist's Jest                      1.31      5.24
+Preeminent Captain                       0.65       2.6
+Scuttling Doom Engine                    1.04      4.16
+Shivan Reef                              6.94     27.76
+Sliver Hive                              3.72     14.88
+Terra Stomper                            1.45       5.8
+Urborg, Tomb of Yawgmoth                  9.2      36.8
+Waste Not                                4.69     18.76
+Yavimaya Coast                           4.34     17.36
+Yisan, the Wanderer Bard                 0.59      2.36
+
+Uncommon                               Single   Playset
+Darksteel Citadel                         0.8       3.2
+Ensoul Artifact                          1.25       5.0
+Stoke the Flames                          4.5      18.0
+
+

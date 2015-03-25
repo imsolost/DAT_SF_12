@@ -1,0 +1,52 @@
+Rare                                   Single   Playset
+Adarkar Valkyrie                         2.29      9.16
+Allosaurus Rider                         0.79      3.16
+Arcum Dagsson                            4.94     19.76
+Braid of Fire                            8.51     34.04
+Commandeer                               3.39     13.56
+Darien, King of Kjeldor                  5.93     23.72
+Dark Depths                             49.78    199.12
+Field Marshal                             5.2      20.8
+Fury of the Horde                        2.62     10.48
+Garza Zol, Plague Queen                  0.75       3.0
+Haakon, Stromgald Scourge                3.32     13.28
+Herald of Leshrac                         1.3       5.2
+Jester's Scepter                         0.62      2.48
+Karplusan Minotaur                       0.66      2.64
+Lightning Serpent                        1.23      4.92
+Lovisa Coldeyes                          0.71      2.84
+Ohran Viper                               1.7       6.8
+Panglacial Wurm                          2.84     11.36
+Phyrexian Soulgorger                     0.81      3.24
+Rimescale Dragon                         1.08      4.32
+Scrying Sheets                           5.29     21.16
+Soul Spike                               1.99      7.96
+Sunscour                                 0.74      2.96
+Thrumming Stone                          6.25      25.0
+Zur the Enchanter                         8.5      34.0
+
+Uncommon                               Single   Playset
+Arctic Flats                             0.92      3.68
+Blizzard Specter                         0.94      3.76
+Boreal Shelf                             0.69      2.76
+Coldsteel Heart                          1.79      7.16
+Counterbalance                          15.99     63.96
+Frost Marsh                              0.94      3.76
+Jotun Grunt                              0.69      2.76
+Juniper Order Ranger                     1.24      4.96
+Lightning Storm                          0.59      2.36
+Mishra's Bauble                          9.99     39.96
+Stromgald Crusader                       2.39      9.56
+Tresserhorn Sinks                         0.6       2.4
+
+Common                                 Single   Playset
+Martyr of Sands                          1.42      5.68
+Rite of Flame                            1.55       6.2
+Rune Snag                                0.75       3.0
+Snow-Covered Forest                       0.7       2.8
+Snow-Covered Island                       0.9       3.6
+Snow-Covered Mountain                    2.25       9.0
+Snow-Covered Plains                      0.75       3.0
+Snow-Covered Swamp                       0.69      2.76
+
+

@@ -1,0 +1,10 @@
+Rare                                   Single   Playset
+Cataclysm                                1.38      5.52
+City of Traitors                        24.37     97.48
+Mind Over Matter                         0.59      2.36
+Oath of Druids                           2.04      8.16
+Seismic Assault                          0.94      3.76
+Sphere of Resistance                     1.01      4.04
+Survival of the Fittest                  0.81      3.24
+
+

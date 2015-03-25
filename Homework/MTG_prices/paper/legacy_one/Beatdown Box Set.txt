@@ -1,0 +1,20 @@
+Rare                                   Single   Playset
+Ball Lightning                           2.88     11.52
+Shivan Dragon                             0.7       2.8
+
+Uncommon                               Single   Playset
+Diabolic Vision                          0.87      3.48
+Erhnam Djinn                             0.69      2.76
+Sengir Vampire                           1.33      5.32
+
+Common                                 Single   Playset
+Brainstorm                               1.63      6.52
+Counterspell                             2.09      8.36
+Dark Ritual                               1.6       6.4
+Diabolic Edict                           1.42      5.68
+Impulse                                  1.38      5.52
+Kird Ape                                 0.99      3.96
+Lightning Bolt                           2.39      9.56
+Llanowar Elves                           0.66      2.64
+
+

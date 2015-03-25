@@ -1,0 +1,24 @@
+Mythic                                 Single   Playset
+Ajani, Caller of the Pride               1.59      6.36
+Akroma's Memorial                        1.84      7.36
+Chandra, the Firebrand                   1.19      4.76
+Elderscale Wurm                          1.33      5.32
+Garruk, Primal Hunter                    2.69     10.76
+Jace, Memory Adept                       1.05       4.2
+Liliana of the Dark Realms               2.56     10.24
+Nicol Bolas, Planeswalker                1.93      7.72
+Omniscience                             20.06     80.24
+Primordial Hydra                         2.94     11.76
+Sublime Archangel                        3.72     14.88
+Thundermaw Hellkite                     12.77     51.08
+Vampire Nocturnus                        2.04      8.16
+Worldfire                                1.32      5.28
+
+Rare                                   Single   Playset
+Master of the Pearl Trident               1.1       4.4
+Thragtusk                                1.75       7.0
+
+Uncommon                               Single   Playset
+Rancor                                   0.79      3.16
+
+

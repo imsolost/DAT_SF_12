@@ -1,0 +1,61 @@
+Mythic                                 Single   Playset
+Elspeth Tirel                           13.18     52.72
+Geth, Lord of the Vault                  6.45      25.8
+Indomitable Archangel                    1.86      7.44
+Koth of the Hammer                        6.3      25.2
+Liege of the Tangle                       2.1       8.4
+Lux Cannon                               2.25       9.0
+Mindslaver                               4.36     17.44
+Molten-Tail Masticore                    0.75       3.0
+Mox Opal                                49.46    197.84
+Platinum Emperion                        6.49     25.96
+Quicksilver Gargantuan                   0.83      3.32
+Skithiryx, the Blight Dragon            10.55      42.2
+Sword of Body and Mind                   9.95      39.8
+Venser, the Sojourner                    7.99     31.96
+Wurmcoil Engine                         13.87     55.48
+
+Rare                                   Single   Playset
+Argentum Armor                           0.86      3.44
+Asceticism                               6.33     25.32
+Blackcleave Cliffs                       5.93     23.72
+Contagion Engine                         2.26      9.04
+Copperline Gorge                         3.47     13.88
+Darkslick Shores                          3.7      14.8
+Darksteel Juggernaut                     1.18      4.72
+Engulfing Slagwurm                       0.93      3.72
+Etched Champion                          4.92     19.68
+Ezuri, Renegade Leader                    1.9       7.6
+Genesis Wave                             5.66     22.64
+Grand Architect                          0.88      3.52
+Hand of the Praetors                     1.07      4.28
+Inexorable Tide                          0.51      2.04
+Kuldotha Forgemaster                     2.97     11.88
+Leonin Arbiter                           1.99      7.96
+Mimic Vat                                2.35       9.4
+Myr Battlesphere                         0.64      2.56
+Necrotic Ooze                            1.17      4.68
+Nim Deathmantle                          1.15       4.6
+Painful Quandary                         1.81      7.24
+Prototype Portal                         1.09      4.36
+Ratchet Bomb                             0.63      2.52
+Razorverge Thicket                        4.5      18.0
+Seachrome Coast                           3.6      14.4
+Semblance Anvil                          0.75       3.0
+Steel Hellkite                           1.35       5.4
+Sunblast Angel                           0.78      3.12
+Tempered Steel                           1.25       5.0
+True Conviction                          1.65       6.6
+Venser's Journal                         3.39     13.56
+
+Uncommon                               Single   Playset
+Exsanguinate                             1.14      4.56
+Memnite                                  1.06      4.24
+Myr Galvanizer                           0.73      2.92
+Necropede                                0.52      2.08
+Palladium Myr                             0.8       3.2
+
+Common                                 Single   Playset
+Ichorclaw Myr                            1.14      4.56
+
+

@@ -1,0 +1,20 @@
+Rare                                   Single   Playset
+Avatar of Fury                           0.97      3.88
+Avatar of Hope                           0.68      2.72
+Avatar of Might                          0.56      2.24
+Avatar of Will                           0.65       2.6
+Avatar of Woe                            2.83     11.32
+Celestial Convergence                     0.6       2.4
+Copper-Leaf Angel                        0.62      2.48
+Denying Wind                             0.52      2.08
+Dual Nature                              0.54      2.16
+Mageta the Lion                          0.77      3.08
+Overburden                               1.21      4.84
+Plague Wind                              2.55      10.2
+Rhystic Tutor                            0.71      2.84
+Squirrel Wrangler                         1.1       4.4
+
+Common                                 Single   Playset
+Rhystic Study                            3.43     13.72
+
+

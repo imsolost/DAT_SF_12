@@ -1,0 +1,44 @@
+Rare                                   Single   Playset
+Argivian Archaeologist                  16.19     64.76
+Bronze Tablet                            1.03      4.12
+Candelabra of Tawnos                   364.81   1459.24
+Clockwork Avian                          1.42      5.68
+Colossus of Sardia                       3.13     12.52
+Coral Helm                               0.87      3.48
+Gaea's Avenger                            3.6      14.4
+Golgothian Sylex                         1.92      7.68
+Hurkyl's Recall                         23.61     94.44
+Mishra's War Machine                      1.0       4.0
+Mishra's Workshop                       595.0    2380.0
+Obelisk of Undoing                       1.03      4.12
+Shapeshifter                             1.72      6.88
+Shatterstorm                            14.99     59.96
+Tawnos's Coffin                         22.78     91.12
+Tetravus                                 1.37      5.48
+Triskelion                                7.6      30.4
+Urza's Avenger                           2.33      9.32
+Urza's Miter                              3.0      12.0
+Yawgmoth Demon                           2.49      9.96
+
+Uncommon                               Single   Playset
+Armageddon Clock                         0.89      3.56
+Ashnod's Altar                           4.35      17.4
+Circle of Protection Artifacts           1.02      4.08
+Citanul Druid                            0.57      2.28
+Cursed Rack                              0.62      2.48
+Energy Flux                              1.27      5.08
+Feldon's Cane                            1.93      7.72
+Gate to Phyrexia                         7.39     29.56
+Ivory Tower                              3.34     13.36
+Jalum Tome                               0.72      2.88
+Millstone                                1.91      7.64
+Power Artifact                          17.81     71.24
+Rocket Launcher                          0.63      2.52
+Su-Chi                                   4.01     16.04
+The Rack                                  7.0      28.0
+Transmute Artifact                      39.89    159.56
+
+Common                                 Single   Playset
+Ornithopter                              1.44      5.76
+
+

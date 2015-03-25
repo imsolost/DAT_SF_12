@@ -1,0 +1,71 @@
+Rare                                   Single   Playset
+Ankh of Mishra                           0.59      2.36
+Armageddon                               2.61     10.44
+Bad Moon                                 1.68      6.72
+Badlands                                74.55     298.2
+Balance                                  1.32      5.28
+Bayou                                  155.25     621.0
+Birds of Paradise                        4.64     18.56
+Braingeyser                              2.02      8.08
+Copy Artifact                            5.39     21.56
+Crusade                                  0.96      3.84
+Demonic Hordes                           0.99      3.96
+Drain Power                              0.64      2.56
+Earthquake                               0.62      2.48
+Fastbond                                 3.84     15.36
+Fork                                      4.6      18.4
+Goblin King                              1.17      4.68
+Howling Mine                             2.54     10.16
+Hurkyl's Recall                          5.13     20.52
+Island Sanctuary                         0.55       2.2
+Ivory Tower                              1.42      5.68
+Lord of Atlantis                         3.96     15.84
+Lord of the Pit                          0.52      2.08
+Mana Flare                                2.0       8.0
+Mana Short                               0.73      2.92
+Mana Vault                                6.3      25.2
+Meekstone                                1.39      5.56
+Millstone                                0.54      2.16
+Mind Twist                               2.95      11.8
+Nether Shadow                            3.26     13.04
+Nevinyrral's Disk                        2.58     10.32
+Nightmare                                0.73      2.92
+Plateau                                 59.93    239.72
+Royal Assassin                           1.23      4.92
+Savannah Lions                           0.79      3.16
+Savannah                                75.62    302.48
+Scrubland                               72.73    290.92
+Serendib Efreet                          0.93      3.72
+Shivan Dragon                            0.99      3.96
+Sorceress Queen                           0.6       2.4
+Stasis                                    1.5       6.0
+Taiga                                    66.3     265.2
+Tropical Island                        190.44    761.76
+Tundra                                 205.34    821.36
+Underground Sea                        282.47   1129.88
+Vesuvan Doppelganger                     3.41     13.64
+Volcanic Island                        275.17   1100.68
+Wheel of Fortune                        19.52     78.08
+Will-o'-the-Wisp                         1.61      6.44
+Winter Orb                               3.05      12.2
+Wrath of God                             4.36     17.44
+Zombie Master                            2.45       9.8
+
+Uncommon                               Single   Playset
+Animate Dead                             1.01      4.04
+Basalt Monolith                          0.81      3.24
+Control Magic                            0.61      2.44
+Counterspell                             0.98      3.92
+Demonic Tutor                           14.93     59.72
+Hypnotic Specter                          0.9       3.6
+Regrowth                                 1.39      5.56
+Shatterstorm                             0.93      3.72
+Sol Ring                                 4.64     18.56
+Swords to Plowshares                     2.62     10.48
+The Rack                                 2.08      8.32
+
+Common                                 Single   Playset
+Dark Ritual                               0.7       2.8
+Lightning Bolt                           2.04      8.16
+
+

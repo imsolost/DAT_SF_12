@@ -1,0 +1,54 @@
+Rare                                   Single   Playset
+Bifurcate                                0.67      2.68
+Black Market                            12.35      49.4
+Bribery                                 16.12     64.48
+Cave-In                                  0.74      2.96
+Charisma                                 3.26     13.04
+Cho-Manno, Revolutionary                 0.55       2.2
+Collective Unconscious                   0.67      2.68
+Conspiracy                               1.09      4.36
+Crackdown                                3.05      12.2
+Dawnstrider                              0.68      2.72
+Delraich                                 0.85       3.4
+Dust Bowl                                7.69     30.76
+Food Chain                              16.79     67.16
+Forced March                             0.73      2.92
+Fountain Watch                           2.79     11.16
+High Market                               5.6      22.4
+Honor the Fallen                         0.82      3.28
+Ivory Mask                                0.8       3.2
+Jhovall Queen                            0.53      2.12
+Magistrate's Scepter                     4.35      17.4
+Misdirection                             8.96     35.84
+Nether Spirit                            3.24     12.96
+Power Matrix                             1.46      5.84
+Puppet's Verdict                         0.57      2.28
+Rishadan Port                           99.54    398.16
+Rushwood Elemental                        1.1       4.4
+Saprazzan Heir                           0.83      3.32
+Spontaneous Generation                   0.63      2.52
+Squee, Goblin Nabob                       2.6      10.4
+Statecraft                               0.57      2.28
+Thrashing Wumpus                         0.53      2.12
+Tidal Kraken                             0.61      2.44
+Tower of the Magistrate                  3.49     13.96
+Two-Headed Dragon                        1.44      5.76
+Unmask                                   4.53     18.12
+Vine Dryad                               0.58      2.32
+Wave of Reckoning                        0.57      2.28
+
+Uncommon                               Single   Playset
+Haunted Crossroads                       0.62      2.48
+Soothsaying                              1.05       4.2
+Story Circle                             0.72      2.88
+Thwart                                   0.79      3.16
+
+Common                                 Single   Playset
+Ancestral Mask                           0.56      2.24
+Brainstorm                               1.58      6.32
+Counterspell                             0.93      3.72
+Dark Ritual                              0.75       3.0
+Invigorate                               0.82      3.28
+Spidersilk Armor                          0.7       2.8
+
+

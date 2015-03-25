@@ -1,0 +1,38 @@
+Rare                                   Single   Playset
+Cataclysm                                8.06     32.24
+City of Traitors                        67.99    271.96
+Coat of Arms                             7.54     30.16
+Dominating Licid                         0.83      3.32
+Equilibrium                              1.56      6.24
+Erratic Portal                            1.4       5.6
+Ertai, Wizard Adept                      5.34     21.36
+Hatred                                    4.8      19.2
+Limited Resources                        0.61      2.44
+Manabond                                 2.84     11.36
+Memory Crystal                           0.54      2.16
+Mind Over Matter                         9.63     38.52
+Mirri, Cat Warrior                       0.85       3.4
+Oath of Druids                           5.72     22.88
+Oath of Lieges                           0.74      2.96
+Paladin en-Vec                           0.84      3.36
+Pandemonium                              1.05       4.2
+Pit Spawn                                 0.7       2.8
+Plaguebearer                             0.85       3.4
+Ravenous Baboons                         0.51      2.04
+Recurring Nightmare                     10.93     43.72
+Seismic Assault                          1.66      6.64
+Sphere of Resistance                     4.36     17.44
+Spike Weaver                             3.76     15.04
+Survival of the Fittest                 48.66    194.64
+Wall of Nets                             0.74      2.96
+
+Uncommon                               Single   Playset
+Forbid                                    1.1       4.4
+Price of Progress                        7.96     31.84
+Reconnaissance                           0.92      3.68
+
+Common                                 Single   Playset
+Culling the Weak                         0.56      2.24
+Soul Warden                              0.69      2.76
+
+

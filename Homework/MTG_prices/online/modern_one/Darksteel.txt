@@ -1,0 +1,29 @@
+Rare                                   Single   Playset
+Arcbound Ravager                         4.54     18.16
+Blinkmoth Nexus                          2.29      9.16
+Darksteel Colossus                       1.75       7.0
+Darksteel Forge                          1.27      5.08
+Darksteel Reactor                        0.81      3.24
+Leonin Shikari                           1.16      4.64
+Memnarch                                 2.69     10.76
+Mycosynth Lattice                        4.22     16.88
+Myr Matrix                               0.78      3.12
+Panoptic Mirror                          0.83      3.32
+Reshape                                  1.72      6.88
+Savage Beating                           0.62      2.48
+Serum Powder                             5.76     23.04
+Sundering Titan                         12.17     48.68
+Sword of Fire and Ice                    6.84     27.36
+Sword of Light and Shadow                3.56     14.24
+Trinisphere                              7.67     30.68
+Viridian Zealot                          0.68      2.72
+Well of Lost Dreams                      0.64      2.56
+
+Uncommon                               Single   Playset
+Aether Vial                              3.62     14.48
+Genesis Chamber                          0.89      3.56
+
+Common                                 Single   Playset
+Spire Golem                              0.65       2.6
+
+

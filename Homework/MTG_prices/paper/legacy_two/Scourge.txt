@@ -1,0 +1,43 @@
+Rare                                   Single   Playset
+Ambush Commander                         1.71      6.84
+Bladewing the Risen                      1.46      5.84
+Call to the Grave                        0.83      3.32
+Dawn Elemental                           0.93      3.72
+Day of the Dragons                       0.95       3.8
+Decree of Annihilation                    1.2       4.8
+Decree of Justice                        1.91      7.64
+Decree of Pain                           2.28      9.12
+Decree of Savagery                       0.59      2.36
+Decree of Silence                        0.68      2.72
+Dragon Mage                              5.38     21.52
+Dragon Tyrant                            2.72     10.88
+Dragonstorm                              1.22      4.88
+Eternal Dragon                           1.98      7.92
+Forgotten Ancient                        3.49     13.96
+Lethal Vapors                            0.55       2.2
+Mind's Desire                            0.79      3.16
+Raven Guild Master                       1.85       7.4
+Siege-Gang Commander                     1.79      7.16
+Sliver Overlord                         16.19     64.76
+Soul Collector                           0.56      2.24
+Stifle                                   9.63     38.52
+Sulfuric Vortex                          1.71      6.84
+Xantid Swarm                             3.31     13.24
+
+Uncommon                               Single   Playset
+Alpha Status                             0.89      3.56
+Brain Freeze                             1.34      5.36
+Daru Warchief                            1.37      5.48
+Dragonspeaker Shaman                     5.51     22.04
+Goblin Warchief                          2.46      9.84
+Long-Term Plans                          0.85       3.4
+Pemmin's Aura                            0.88      3.52
+Temple of the False God                  0.61      2.44
+Tendrils of Agony                        0.97      3.88
+Undead Warchief                           3.7      14.8
+Wirewood Symbiote                         2.8      11.2
+
+Common                                 Single   Playset
+Goblin War Strike                        0.76      3.04
+
+

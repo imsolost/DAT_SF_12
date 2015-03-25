@@ -1,0 +1,67 @@
+Rare                                   Single   Playset
+Aladdin                                   6.3      25.2
+Aladdin's Lamp                           5.68     22.72
+Aladdin's Ring                           4.76     19.04
+Ali from Cairo                          47.59    190.36
+Bottle of Suleiman                       3.41     13.64
+City in a Bottle                        12.34     49.36
+Dancing Scimitar                         4.82     19.28
+Drop of Honey                           47.49    189.96
+Ebony Horse                               2.5      10.0
+Elephant Graveyard                      29.39    117.56
+Erhnam Djinn                            17.09     68.36
+Guardian Beast                           47.5     190.0
+Island Fish Jasconius                    3.45      13.8
+Island of Wak-Wak                       41.35     165.4
+Jandor's Ring                            2.84     11.36
+Jandor's Saddlebags                      2.83     11.32
+Jihad                                   28.79    115.16
+Juzam Djinn                            179.04    716.16
+King Suleiman                            7.59     30.36
+Mijae Djinn                              4.66     18.64
+Old Man of the Sea                      43.91    175.64
+Pyramids                                10.15      40.6
+Repentant Blacksmith                     2.56     10.24
+Ring of Ma'ruf                          17.21     68.84
+Serendib Djinn                           18.7      74.8
+Serendib Efreet                         31.82    127.28
+Shahrazad                               48.92    195.68
+Singing Tree                            21.31     85.24
+Ydwen Efreet                             8.65      34.6
+
+Uncommon                               Single   Playset
+Abu Ja'far                               3.58     14.32
+Ali Baba                                 1.93      7.72
+Bazaar of Baghdad                       373.5    1494.0
+Brass Man                                1.94      7.76
+City of Brass                           59.95     239.8
+Cyclone                                  1.61      6.44
+Desert Twister                           4.99     19.96
+Diamond Valley                         149.27    597.08
+Eye for an Eye                           2.46      9.84
+Flying Carpet                            1.77      7.08
+Jeweled Bird                             1.55       6.2
+Library of Alexandria                  278.83   1115.32
+Magnetic Mountain                        1.43      5.72
+Merchant Ship                            2.76     11.04
+Oasis                                    2.01      8.04
+Sandals of Abdallah                      2.14      8.56
+Sindbad                                  1.81      7.24
+Sorceress Queen                          8.73     34.92
+
+Common                                 Single   Playset
+Army of Allah                            1.84      7.36
+Camel                                    0.62      2.48
+Cuombajj Witches                         0.76      3.04
+Desert                                   0.84      3.36
+Erg Raiders                              0.62      2.48
+Flying Men                               1.31      5.24
+Kird Ape                                 3.28     13.12
+Oubliette                               10.65      42.6
+Rukh Egg                                  2.5      10.0
+Stone-Throwing Devils                    2.49      9.96
+Unstable Mutation                        0.63      2.52
+War Elephant                             0.57      2.28
+Wyluli Wolf                              0.86      3.44
+
+

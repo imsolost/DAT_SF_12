@@ -1,0 +1,81 @@
+Rare                                   Single   Playset
+Ajani Goldmane                           9.14     36.56
+Ancient Amphitheater                     0.89      3.56
+Ashling the Pilgrim                      0.89      3.56
+Auntie's Hovel                           2.28      9.12
+Austere Command                          6.76     27.04
+Brigid, Hero of Kinsbaile                0.69      2.76
+Brion Stoutarm                           0.65       2.6
+Cairn Wanderer                            1.9       7.6
+Chandra Nalaar                           4.34     17.36
+Cloudthresher                             0.8       3.2
+Cryptic Command                         57.75     231.0
+Dauntless Dourbark                       3.66     14.64
+Deathrender                              2.69     10.76
+Dolmen Gate                              3.58     14.32
+Doran, the Siege Tower                  12.72     50.88
+Dread                                    3.31     13.24
+Forced Fruition                          6.27     25.08
+Gaddock Teeg                            10.57     42.28
+Garruk Wildspeaker                       8.74     34.96
+Gilt-Leaf Palace                          1.9       7.6
+Guile                                     1.3       5.2
+Horde of Notions                         0.72      2.88
+Immaculate Magistrate                    4.95      19.8
+Incandescent Soulstoke                   2.31      9.24
+Jace Beleren                             8.95      35.8
+Knucklebone Witch                        0.52      2.08
+Liliana Vess                             9.45      37.8
+Mad Auntie                               0.61      2.44
+Militia's Pride                          1.96      7.84
+Mirror Entity                            2.12      8.48
+Mistbind Clique                          6.65      26.6
+Mosswort Bridge                          1.75       7.0
+Nath of the Gilt-Leaf                    1.65       6.6
+Nova Chaser                              2.77     11.08
+Oona's Prowler                           2.37      9.48
+Primal Command                           7.42     29.68
+Profane Command                          1.35       5.4
+Purity                                   1.46      5.84
+Rings of Brighthearth                   21.36     85.44
+Scion of Oona                            2.71     10.84
+Secluded Glen                             5.0      20.0
+Shapesharer                              1.42      5.68
+Shelldock Isle                           0.99      3.96
+Sower of Temptation                     21.95      87.8
+Spinerock Knoll                          2.76     11.04
+Thorn of Amethyst                        3.21     12.84
+Thoughtseize                            36.79    147.16
+Thousand-Year Elixir                     2.37      9.48
+Timber Protector                         7.34     29.36
+Vigor                                   15.14     60.56
+Wanderwine Hub                           2.59     10.36
+Wanderwine Prophets                      0.77      3.08
+Wild Ricochet                            0.59      2.36
+Windbrisk Heights                        3.04     12.16
+Wort, Boggart Auntie                     1.35       5.4
+Wren's Run Packmaster                    1.81      7.24
+
+Uncommon                               Single   Playset
+Elvish Harbinger                         1.94      7.76
+Elvish Promenade                         2.49      9.96
+Flamekin Harbinger                       1.49      5.96
+Imperious Perfect                        3.29     13.16
+Jagged-Scar Archers                      1.78      7.12
+Knight of Meadowgrain                    2.25       9.0
+Merrow Commerce                          1.31      5.24
+Merrow Reejerey                          4.64     18.56
+Shriekmaw                                1.36      5.44
+Silvergill Adept                         2.42      9.68
+Treefolk Harbinger                       1.78      7.12
+Vivid Crag                               0.58      2.32
+Vivid Marsh                              0.56      2.24
+Vivid Meadow                             0.53      2.12
+Wren's Run Vanquisher                    0.75       3.0
+
+Common                                 Single   Playset
+Lys Alana Huntmaster                     0.53      2.12
+Ponder                                   1.04      4.16
+Springleaf Drum                          0.94      3.76
+
+

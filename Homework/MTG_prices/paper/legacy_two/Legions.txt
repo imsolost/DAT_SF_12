@@ -1,0 +1,26 @@
+Rare                                   Single   Playset
+Akroma, Angel of Wrath                   7.12     28.48
+Brood Sliver                             3.64     14.56
+Caller of the Claw                       1.31      5.24
+Essence Sliver                           2.95      11.8
+Graveborn Muse                           0.71      2.84
+Imperial Hellkite                        0.53      2.12
+Kilnmouth Dragon                         1.24      4.96
+Magma Sliver                             6.41     25.64
+Phage the Untouchable                    2.45       9.8
+Riptide Director                         0.62      2.48
+Scion of Darkness                        1.69      6.76
+Seedborn Muse                           12.36     49.44
+Synapse Sliver                           5.65      22.6
+Toxin Sliver                            10.99     43.96
+Windborn Muse                            1.31      5.24
+
+Uncommon                               Single   Playset
+Gempalm Incinerator                      1.33      5.32
+Noxious Ghoul                            0.73      2.92
+Root Sliver                               1.7       6.8
+Shifting Sliver                          2.25       9.0
+Ward Sliver                              1.27      5.08
+Wirewood Channeler                       0.75       3.0
+
+

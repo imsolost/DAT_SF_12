@@ -1,0 +1,48 @@
+Mythic                                 Single   Playset
+Ajani, Caller of the Pride               5.23     20.92
+Archangel of Thune                       14.9      59.6
+Chandra, Pyromaster                      7.73     30.92
+Darksteel Forge                          4.05      16.2
+Devout Invocation                        1.09      4.36
+Garruk, Caller of Beasts                  6.4      25.6
+Jace, Memory Adept                       5.39     21.56
+Kalonian Hydra                            7.7      30.8
+Liliana of the Dark Realms               5.27     21.08
+Primeval Bounty                          3.71     14.84
+Ring of Three Wishes                     1.99      7.96
+Rise of the Dark Realms                  4.43     17.72
+Scourge of Valkas                        4.82     19.28
+Shadowborn Demon                         1.27      5.08
+Windreader Sphinx                        0.78      3.12
+
+Rare                                   Single   Playset
+Bonescythe Sliver                        2.08      8.32
+Chandra's Phoenix                        0.65       2.6
+Door of Destinies                        3.43     13.72
+Fiendslayer Paladin                       1.4       5.6
+Galerider Sliver                         4.09     16.36
+Lifebane Zombie                          0.99      3.96
+Liliana's Reaver                         0.62      2.48
+Megantic Sliver                          0.77      3.08
+Mutavault                               10.79     43.16
+Quicken                                  0.73      2.92
+Sanguine Bond                            1.32      5.28
+Scavenging Ooze                          5.49     21.96
+Seraph of the Sword                      0.65       2.6
+Silence                                   0.9       3.6
+Strionic Resonator                       0.75       3.0
+Syphon Sliver                            2.05       8.2
+Thorncaster Sliver                       0.85       3.4
+Tidebinder Mage                          0.79      3.16
+Traumatize                                1.5       6.0
+Vastwood Hydra                           0.75       3.0
+Witchstalker                             0.75       3.0
+
+Uncommon                               Single   Playset
+Manaweft Sliver                          1.65       6.6
+Young Pyromancer                         2.53     10.12
+
+Common                                 Single   Playset
+Shadowborn Apostle                       0.99      3.96
+
+

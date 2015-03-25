@@ -1,0 +1,76 @@
+Rare                                   Single   Playset
+Altar of Dementia                        4.37     17.48
+Aluren                                   4.94     19.76
+Apocalypse                               2.72     10.88
+Auratog                                  0.59      2.36
+Avenging Angel                           0.62      2.48
+Booby Trap                               0.53      2.12
+Caldera Lake                             0.67      2.68
+Coffin Queen                             4.85      19.4
+Commander Greven il-Vec                  0.71      2.84
+Corpse Dance                             2.37      9.48
+Cursed Scroll                             6.3      25.2
+Death Pits of Rath                       0.52      2.08
+Dirtcowl Wurm                            0.71      2.84
+Dregs of Sorrow                          0.72      2.88
+Earthcraft                               23.7      94.8
+Eladamri's Vineyard                      0.96      3.84
+Eladamri, Lord of Leaves                10.05      40.2
+Emerald Medallion                        2.81     11.24
+Extinction                               0.87      3.48
+Furnace of Rath                           0.9       3.6
+Grindstone                              14.78     59.12
+Hanna's Custody                          0.95       3.8
+Helm of Possession                       3.48     13.92
+Humility                                13.29     53.16
+Intuition                               23.75      95.0
+Jet Medallion                            4.56     18.24
+Living Death                             2.57     10.28
+Mana Severance                           0.75       3.0
+Meditate                                  3.6      14.4
+Mirri's Guile                           12.04     48.16
+Pearl Medallion                          4.72     18.88
+Pine Barrens                             0.59      2.36
+Rathi Dragon                             0.66      2.64
+Recycle                                   0.7       2.8
+Reflecting Pool                          7.63     30.52
+Ruby Medallion                           5.17     20.68
+Salt Flats                               0.74      2.96
+Sapphire Medallion                       6.09     24.36
+Sarcomancy                                2.2       8.8
+Scroll Rack                              21.3      85.2
+Selenia, Dark Angel                      0.89      3.56
+Shocker                                  0.95       3.8
+Skyshroud Forest                         0.76      3.04
+Soltari Guerrillas                        0.6       2.4
+Static Orb                               1.35       5.4
+Time Warp                               11.39     45.56
+Tradewind Rider                          1.85       7.4
+Verdant Force                            0.95       3.8
+Vhati il-Dal                             0.51      2.04
+Whim of Volrath                          0.71      2.84
+Winds of Rath                            2.05       8.2
+
+Uncommon                               Single   Playset
+Ancient Tomb                            14.64     58.56
+Choke                                    6.49     25.96
+Dauthi Embrace                           0.51      2.04
+Dread of Night                           0.54      2.16
+Flickering Ward                          1.43      5.72
+Goblin Bombardment                        1.1       4.4
+Horned Sliver                            3.52     14.08
+Perish                                   1.17      4.68
+Propaganda                               1.93      7.72
+Reanimate                                6.16     24.64
+Soltari Monk                             0.56      2.24
+Wasteland                               74.99    299.96
+
+Common                                 Single   Playset
+Capsize                                  0.72      2.88
+Counterspell                             0.81      3.24
+Dark Ritual                              0.72      2.88
+Diabolic Edict                           0.57      2.28
+Lotus Petal                              3.83     15.32
+Muscle Sliver                             0.7       2.8
+
+

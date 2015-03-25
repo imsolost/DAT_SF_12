@@ -1,0 +1,20 @@
+Mythic                                 Single   Playset
+Drogskol Reaver                          0.98      3.92
+Falkenrath Aristocrat                    4.27     17.08
+Havengul Lich                            1.48      5.92
+Huntmaster of the Fells                  2.67     10.68
+Mikaeus, the Unhallowed                  5.49     21.96
+Sorin, Lord of Innistrad                 6.49     25.96
+Vorapede                                 1.43      5.72
+
+Rare                                   Single   Playset
+Geralf's Messenger                       0.84      3.36
+Grafdigger's Cage                        4.01     16.04
+Gravecrawler                             2.16      8.64
+Thalia, Guardian of Thraben              2.92     11.68
+Vault of the Archangel                   1.15       4.6
+
+Uncommon                               Single   Playset
+Lingering Souls                          0.98      3.92
+
+

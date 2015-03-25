@@ -1,0 +1,49 @@
+Rare                                   Single   Playset
+Ankh of Mishra                           0.63      2.52
+Armageddon                               2.61     10.44
+Bad Moon                                 1.58      6.32
+Balance                                  1.33      5.32
+Ball Lightning                           2.37      9.48
+Birds of Paradise                        4.23     16.92
+Crusade                                  0.93      3.72
+Drain Power                              0.65       2.6
+Earthquake                               0.57      2.28
+Goblin King                              1.12      4.48
+Howling Mine                             2.37      9.48
+Hurkyl's Recall                          4.87     19.48
+Ivory Tower                               1.4       5.6
+Land Tax                                12.95      51.8
+Lord of Atlantis                         3.96     15.84
+Mana Flare                               2.04      8.16
+Mana Short                               0.72      2.88
+Mana Vault                                6.2      24.8
+Meekstone                                1.44      5.76
+Mind Twist                               2.87     11.48
+Nether Shadow                            3.01     12.04
+Nevinyrral's Disk                        2.62     10.48
+Royal Assassin                           0.91      3.64
+Savannah Lions                           0.79      3.16
+Shivan Dragon                            0.71      2.84
+Stasis                                   1.49      5.96
+Sylvan Library                          19.47     77.88
+Will-o'-the-Wisp                         1.51      6.04
+Winds of Change                          2.34      9.36
+Winter Orb                                3.0      12.0
+Wrath of God                             4.29     17.16
+Zombie Master                             2.4       9.6
+
+Uncommon                               Single   Playset
+Animate Dead                             0.99      3.96
+Control Magic                            0.66      2.64
+Counterspell                             0.91      3.64
+Hypnotic Specter                         0.88      3.52
+Mishra's Factory                         1.74      6.96
+Strip Mine                               4.76     19.04
+Swords to Plowshares                     2.48      9.92
+The Rack                                 2.11      8.44
+
+Common                                 Single   Playset
+Dark Ritual                              0.71      2.84
+Lightning Bolt                            2.0       8.0
+
+

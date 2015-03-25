@@ -1,0 +1,44 @@
+Mythic                                 Single   Playset
+Avacyn, Angel of Hope                   34.47    137.88
+Bonfire of the Damned                    4.47     17.88
+Bruna, Light of Alabaster                1.99      7.96
+Craterhoof Behemoth                     13.23     52.92
+Descent into Madness                     0.71      2.84
+Entreat the Angels                       8.99     35.96
+Gisela, Blade of Goldnight              11.11     44.44
+Griselbrand                             17.03     68.12
+Malignus                                 1.47      5.88
+Misthollow Griffin                       1.11      4.44
+Primal Surge                             1.09      4.36
+Sigarda, Host of Herons                  7.25      29.0
+Tamiyo, the Moon Sage                   17.99     71.96
+Temporal Mastery                          6.0      24.0
+Tibalt, the Fiend-Blooded                2.75      11.0
+
+Rare                                   Single   Playset
+Angel of Jubilation                       1.9       7.6
+Cathars' Crusade                         1.13      4.52
+Cavern of Souls                          22.5      90.0
+Champion of Lambholt                     0.55       2.2
+Conjurer's Closet                        0.57      2.28
+Deadeye Navigator                         0.9       3.6
+Descendants' Path                         1.0       4.0
+Exquisite Blood                          5.42     21.68
+Harvester of Souls                       0.82      3.28
+Herald of War                            1.13      4.52
+Killing Wave                             0.75       3.0
+Moonsilver Spear                         0.67      2.68
+Reforge the Soul                         1.46      5.84
+Restoration Angel                        7.99     31.96
+Silverblade Paladin                      0.93      3.72
+Somberwald Sage                          0.77      3.08
+Terminus                                 3.14     12.56
+Vexing Devil                              9.1      36.4
+Wild Defiance                            3.33     13.32
+Wolfir Silverheart                       0.73      2.92
+Zealous Conscripts                       0.51      2.04
+
+Uncommon                               Single   Playset
+Blood Artist                             2.12      8.48
+
+

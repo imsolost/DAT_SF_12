@@ -1,0 +1,54 @@
+Rare                                   Single   Playset
+Acquire                                  1.56      6.24
+All Suns' Dawn                           0.71      2.84
+Artificer's Intuition                    0.94      3.76
+Auriok Champion                         18.98     75.92
+Beacon of Creation                       2.39      9.56
+Beacon of Immortality                    5.09     20.36
+Beacon of Tomorrows                      6.58     26.32
+Beacon of Unrest                         3.98     15.92
+Bringer of the Black Dawn                1.59      6.36
+Bringer of the Blue Dawn                 2.47      9.88
+Bringer of the Green Dawn                1.03      4.12
+Bringer of the Red Dawn                  1.15       4.6
+Bringer of the White Dawn                1.26      5.04
+Clearwater Goblet                        0.75       3.0
+Crucible of Worlds                      29.49    117.96
+Door to Nothingness                      0.79      3.16
+Doubling Cube                            7.01     28.04
+Engineered Explosives                    8.54     34.16
+Eon Hub                                  0.81      3.24
+Fist of Suns                             4.25      17.0
+Helm of Kaldra                           5.37     21.48
+Joiner Adept                             1.46      5.84
+Mephidross Vampire                       4.83     19.32
+Mycosynth Golem                         12.57     50.28
+Plunge into Darkness                     0.74      2.96
+Raksha Golden Cub                        2.73     10.92
+Silent Arbiter                           2.44      9.76
+Solarion                                 0.61      2.44
+Staff of Domination                     14.31     57.24
+Summoner's Egg                           1.45       5.8
+Summoning Station                        0.71      2.84
+Tornado Elemental                        0.81      3.24
+Vedalken Orrery                          3.54     14.16
+Vedalken Shackles                       12.37     49.48
+
+Uncommon                               Single   Playset
+Blasting Station                         2.88     11.52
+Energy Chamber                           1.11      4.44
+Eternal Witness                          2.68     10.72
+Grafted Wargear                           1.1       4.4
+Krark-Clan Ironworks                     3.63     14.52
+Magma Jet                                1.22      4.88
+Night's Whisper                          1.19      4.76
+Paradise Mantle                          1.28      5.12
+Relentless Rats                          1.61      6.44
+Steelshaper's Gift                       3.51     14.04
+
+Common                                 Single   Playset
+Condescend                               0.99      3.96
+Cranial Plating                           1.9       7.6
+Serum Visions                            8.54     34.16
+
+

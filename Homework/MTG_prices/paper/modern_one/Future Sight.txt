@@ -1,0 +1,52 @@
+Rare                                   Single   Playset
+Akroma's Memorial                       11.35      45.4
+Baru, Fist of Krosa                      0.54      2.16
+Bitter Ordeal                             5.0      20.0
+Bridge from Below                        6.27     25.08
+Cloud Key                                5.48     21.92
+Coalition Relic                          5.75      23.0
+Daybreak Coronet                        33.59    134.36
+Epochrasite                              0.68      2.72
+Force of Savagery                        0.97      3.88
+Glittering Wish                          7.97     31.88
+Graven Cairns                            7.12     28.48
+Grove of the Burnwillows                36.87    147.48
+Heartwood Storyteller                    2.48      9.92
+Horizon Canopy                          35.43    141.72
+Intervention Pact                        0.85       3.4
+Jhoira of the Ghitu                      1.99      7.96
+Korlash, Heir to Blackblade               5.7      22.8
+Magus of the Future                      1.55       6.2
+Magus of the Moat                        3.57     14.28
+Magus of the Moon                        9.91     39.64
+Muraganda Petroglyphs                     1.0       4.0
+Nimbus Maze                              4.99     19.96
+Oriss, Samite Guardian                    0.6       2.4
+Pact of Negation                        21.42     85.68
+Pact of the Titan                        1.15       4.6
+Pyromancer's Swath                       0.79      3.16
+Rites of Flourishing                      0.8       3.2
+River of Tears                            8.1      32.4
+Scourge of Kher Ridges                   3.66     14.64
+Scout's Warning                          0.53      2.12
+Shimian Specter                          0.51      2.04
+Slaughter Pact                           8.52     34.08
+Sliver Legion                           47.99    191.96
+Steamflogger Boss                        0.65       2.6
+Summoner's Pact                         11.02     44.08
+Tarmogoyf                              203.51    814.04
+Tombstalker                              2.79     11.16
+Venser, Shaper Savant                   12.99     51.96
+
+Uncommon                               Single   Playset
+Aven Mindcensor                          10.9      43.6
+Dryad Arbor                              6.89     27.56
+Mystic Speculation                       0.81      3.24
+Narcomoeba                               1.02      4.08
+Spin into Myth                           0.56      2.24
+Street Wraith                            1.37      5.48
+Sword of the Meek                        2.21      8.84
+Tolaria West                             5.59     22.36
+Utopia Mycon                             2.16      8.64
+
+

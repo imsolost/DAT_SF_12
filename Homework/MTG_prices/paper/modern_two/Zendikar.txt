@@ -1,0 +1,62 @@
+Mythic                                 Single   Playset
+Chandra Ablaze                           8.59     34.36
+Eldrazi Monument                        10.44     41.76
+Eternity Vessel                          1.39      5.56
+Felidar Sovereign                        9.99     39.96
+Iona, Shield of Emeria                  28.03    112.12
+Kalitas, Bloodchief of Ghet              5.69     22.76
+Lorthos, the Tidemaker                   1.79      7.16
+Lotus Cobra                              7.29     29.16
+Mindbreak Trap                           7.44     29.76
+Nissa Revane                            12.97     51.88
+Ob Nixilis, the Fallen                    7.0      28.0
+Obsidian Fireheart                       1.14      4.56
+Rampaging Baloths                        1.72      6.88
+Sorin Markov                            15.86     63.44
+Warren Instigator                        8.04     32.16
+
+Rare                                   Single   Playset
+Archive Trap                              4.3      17.2
+Archmage Ascension                       0.56      2.24
+Arid Mesa                               32.28    129.12
+Beastmaster Ascension                    2.22      8.88
+Blade of the Bloodchief                  2.63     10.52
+Blood Tribute                            0.54      2.16
+Bloodchief Ascension                     3.99     15.96
+Bloodghast                               10.5      42.0
+Celestial Mantle                         3.65      14.6
+Cosi's Trickster                         0.75       3.0
+Crypt of Agadeem                         0.71      2.84
+Day of Judgment                          1.56      6.24
+Emeria Angel                             1.04      4.16
+Emeria, the Sky Ruin                     2.72     10.88
+Goblin Guide                            19.98     79.92
+Hellkite Charger                         1.36      5.44
+Luminarch Ascension                      4.37     17.48
+Malakir Bloodwitch                       1.03      4.12
+Marsh Flats                             25.96    103.84
+Misty Rainforest                        35.79    143.16
+Oracle of Mul Daya                      11.99     47.96
+Oran-Rief, the Vastwood                  1.59      6.36
+Pyromancer Ascension                     5.57     22.28
+Rite of Replication                      2.49      9.96
+Sadistic Sacrament                       0.94      3.76
+Scalding Tarn                           57.05     228.2
+Scute Mob                                1.84      7.36
+Summoning Trap                           1.04      4.16
+Terra Stomper                            1.69      6.76
+Valakut, the Molten Pinnacle             2.63     10.52
+Verdant Catacombs                       33.93    135.72
+
+Uncommon                               Single   Playset
+Gatekeeper of Malakir                    0.96      3.84
+Hedron Crab                              3.34     13.36
+Vampire Nighthawk                        1.07      4.28
+
+Common                                 Single   Playset
+Expedition Map                            2.2       8.8
+Spell Pierce                             2.31      9.24
+Spreading Seas                           0.65       2.6
+Vines of Vastwood                        2.47      9.88
+
+

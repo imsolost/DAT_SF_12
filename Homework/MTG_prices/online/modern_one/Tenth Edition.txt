@@ -1,0 +1,38 @@
+Rare                                   Single   Playset
+Adarkar Wastes                           1.46      5.84
+Arcanis the Omnipotent                   0.79      3.16
+Battlefield Forge                        8.66     34.64
+Beacon of Unrest                         0.85       3.4
+Birds of Paradise                        1.58      6.32
+Brushland                                1.73      6.92
+Caves of Koilos                          3.57     14.28
+Crucible of Worlds                      13.69     54.76
+Doomed Necromancer                       0.54      2.16
+Doubling Cube                            1.12      4.48
+Elvish Champion                          0.62      2.48
+Evacuation                               0.55       2.2
+Field Marshal                            1.35       5.4
+Goblin King                              1.81      7.24
+Grave Pact                               0.65       2.6
+Howling Mine                             1.15       4.6
+Hurkyl's Recall                         34.82    139.28
+Karplusan Forest                         0.98      3.92
+Llanowar Wastes                          4.36     17.44
+Lord of the Undead                        1.7       6.8
+Platinum Angel                           1.49      5.96
+Reya Dawnbringer                         1.11      4.44
+Sculpting Steel                          1.68      6.72
+Seedborn Muse                            0.87      3.48
+Seismic Assault                          1.61      6.44
+Shivan Reef                              4.34     17.36
+Squee, Goblin Nabob                      0.67      2.68
+Sulfurous Springs                        1.32      5.28
+Time Stretch                             1.16      4.64
+Underground River                        1.49      5.96
+Wrath of God                             7.65      30.6
+Yavimaya Coast                           2.44      9.76
+
+Uncommon                               Single   Playset
+Shatterstorm                             2.85      11.4
+
+

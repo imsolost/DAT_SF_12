@@ -1,0 +1,58 @@
+Mythic                                 Single   Playset
+Angelic Destiny                          7.12     28.48
+Bloodlord of Vaasgoth                    1.49      5.96
+Chandra, the Firebrand                   3.61     14.44
+Frost Titan                              1.04      4.16
+Furyborn Hellkite                        2.89     11.56
+Garruk, Primal Hunter                     6.6      26.4
+Gideon Jura                              4.75      19.0
+Grave Titan                              5.06     20.24
+Inferno Titan                            1.34      5.36
+Jace, Memory Adept                       5.27     21.08
+Primeval Titan                          16.58     66.32
+Primordial Hydra                         6.88     27.52
+Sorin Markov                            15.99     63.96
+Sun Titan                                2.65      10.6
+Time Reversal                            0.86      3.44
+
+Rare                                   Single   Playset
+Adaptive Automaton                       3.82     15.28
+Aegis Angel                              0.81      3.24
+Birds of Paradise                        4.42     17.68
+Call to the Grave                         0.7       2.8
+Cemetery Reaper                          1.92      7.68
+Chandra's Phoenix                        0.91      3.64
+Day of Judgment                          1.59      6.36
+Dragonskull Summit                       2.09      8.36
+Drowned Catacomb                         2.33      9.32
+Dungrove Elder                           2.56     10.24
+Elvish Archdruid                         1.11      4.44
+Gideon's Avenger                         0.77      3.08
+Glacial Fortress                         1.67      6.68
+Goblin Chieftain                          2.7      10.8
+Grand Abolisher                          4.37     17.48
+Grim Lavamancer                          5.52     22.08
+Honor of the Pure                        1.47      5.88
+Lord of the Unreal                       0.85       3.4
+Phantasmal Image                         6.99     27.96
+Quicksilver Amulet                       6.83     27.32
+Rites of Flourishing                     0.71      2.84
+Rootbound Crag                           1.58      6.32
+Royal Assassin                           0.55       2.2
+Rune-Scarred Demon                       5.68     22.72
+Solemn Simulacrum                        4.44     17.76
+Sorin's Vengeance                        0.94      3.76
+Sunpetal Grove                           2.23      8.92
+Vengeful Pharaoh                         1.04      4.16
+Visions of Beyond                        2.62     10.48
+
+Uncommon                               Single   Playset
+Goblin Grenade                           0.84      3.36
+Spirit Mantle                             1.7       6.8
+Swiftfoot Boots                          0.59      2.36
+Timely Reinforcements                    0.94      3.76
+
+Common                                 Single   Playset
+Ponder                                    1.0       4.0
+
+

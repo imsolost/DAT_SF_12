@@ -1,0 +1,22 @@
+Mythic                                 Single   Playset
+Brutal Hordechief                        1.99      7.96
+Monastery Mentor                        13.86     55.44
+Shaman of the Great Hunt                 3.29     13.16
+Soulfire Grand Master                    9.97     39.88
+Torrent Elemental                        1.23      4.92
+Ugin, the Spirit Dragon                 11.26     45.04
+Warden of the First Tree                 2.26      9.04
+Whisperwood Elemental                   10.44     41.76
+
+Rare                                   Single   Playset
+Crux of Fate                             1.51      6.04
+Mardu Strike Leader                      0.66      2.64
+Mastery of the Unseen                    0.55       2.2
+Outpost Siege                            2.54     10.16
+Tasigur, the Golden Fang                 4.95      19.8
+
+Uncommon                               Single   Playset
+Valorous Stance                           0.8       3.2
+Wild Slash                               0.97      3.88
+
+

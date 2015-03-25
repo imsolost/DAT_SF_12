@@ -1,0 +1,75 @@
+Rare                                   Single   Playset
+Aggravated Assault                       8.95      35.8
+Akroma's Vengeance                       1.19      4.76
+Arcanis the Omnipotent                   3.85      15.4
+Aurification                             0.75       3.0
+Aven Brigadier                           0.86      3.44
+Blatant Thievery                         6.17     24.68
+Blistering Firecat                       1.46      5.84
+Bloodstained Mire                        24.7      98.8
+Clone                                    0.51      2.04
+Cover of Darkness                        2.53     10.12
+Cryptic Gateway                          1.72      6.88
+Doomed Necromancer                       1.29      5.16
+Dragon Roost                             0.79      3.16
+Elvish Vanguard                          2.59     10.36
+Enchantress's Presence                   4.44     17.76
+Exalted Angel                            2.99     11.96
+False Cure                                1.2       4.8
+Flooded Strand                          37.16    148.64
+Future Sight                             1.74      6.96
+Goblin Piledriver                       16.63     66.52
+Goblin Sharpshooter                      2.82     11.28
+Grand Coliseum                           1.46      5.84
+Gratuitous Violence                      5.73     22.92
+Gravespawn Sovereign                     0.99      3.96
+Grinning Demon                           0.62      2.48
+Harsh Mercy                              0.65       2.6
+Insurrection                             2.44      9.76
+Jareth, Leonine Titan                    3.24     12.96
+Kamahl, Fist of Krosa                    3.55      14.2
+Mana Echoes                              7.49     29.96
+Mobilization                              1.6       6.4
+Oblation                                 0.75       3.0
+Oversold Cemetery                         4.5      18.0
+Patriarch's Bidding                      7.01     28.04
+Polluted Delta                          40.05     160.2
+Quicksilver Dragon                       0.58      2.32
+Ravenous Baloth                          0.51      2.04
+Riptide Laboratory                       4.26     17.04
+Riptide Replicator                       0.74      2.96
+Rorix Bladewing                          0.75       3.0
+Rotlung Reanimator                       1.96      7.84
+Shared Triumph                           1.64      6.56
+Silklash Spider                          0.58      2.32
+Silvos, Rogue Elemental                  1.85       7.4
+Skirk Fire Marshal                       0.75       3.0
+Slate of Ancestry                        0.95       3.8
+Starstorm                                0.95       3.8
+Steely Resolve                           2.69     10.76
+True Believer                            1.34      5.36
+Undead Gladiator                          0.9       3.6
+Unholy Grotto                            3.94     15.76
+Visara the Dreadful                      3.84     15.36
+Voice of the Woods                       0.77      3.08
+Voidmage Prodigy                         0.71      2.84
+Weathered Wayfarer                       6.18     24.72
+Wheel and Deal                           3.25      13.0
+Windswept Heath                         27.51    110.04
+Wooded Foothills                        25.19    100.76
+Words of War                             0.56      2.24
+Words of Waste                           0.83      3.32
+Words of Worship                         0.77      3.08
+
+Uncommon                               Single   Playset
+Blackmail                                2.89     11.56
+Chain of Vapor                           0.99      3.96
+Explosive Vegetation                     1.65       6.6
+Heedless One                             1.46      5.84
+Soulless One                             1.18      4.72
+Wirewood Lodge                           1.68      6.72
+
+Common                                 Single   Playset
+Wellwisher                               0.62      2.48
+
+

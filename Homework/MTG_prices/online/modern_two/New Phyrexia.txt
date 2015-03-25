@@ -1,0 +1,33 @@
+Mythic                                 Single   Playset
+Batterskull                             41.64    166.56
+Elesh Norn, Grand Cenobite              12.98     51.92
+Jin-Gitaxias, Core Augur                 2.42      9.68
+Karn Liberated                          32.43    129.72
+Phyrexian Obliterator                   11.31     45.24
+Sheoldred, Whispering One                1.03      4.12
+Sword of War and Peace                   9.53     38.12
+Urabrask the Hidden                      1.03      4.12
+Vorinclex, Voice of Hunger               2.89     11.56
+
+Rare                                   Single   Playset
+Birthing Pod                             0.88      3.52
+Blade Splicer                            2.37      9.48
+Caged Sun                                0.85       3.4
+Melira, Sylvok Outcast                   0.78      3.12
+Phyrexian Metamorph                      3.09     12.36
+Phyrexian Unlife                         1.62      6.48
+Puresteel Paladin                        1.72      6.88
+Spellskite                              27.96    111.84
+Surgical Extraction                      8.84     35.36
+Torpor Orb                               2.37      9.48
+
+Uncommon                               Single   Playset
+Beast Within                             0.79      3.16
+Dismember                                 4.1      16.4
+Mental Misstep                           0.73      2.92
+
+Common                                 Single   Playset
+Gitaxian Probe                           2.08      8.32
+Mutagenic Growth                          0.7       2.8
+
+

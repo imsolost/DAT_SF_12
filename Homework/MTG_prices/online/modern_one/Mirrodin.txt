@@ -1,0 +1,26 @@
+Rare                                   Single   Playset
+Auriok Steelshaper                       0.59      2.36
+Chalice of the Void                      7.32     29.28
+Chrome Mox                               8.47     33.88
+Extraplanar Lens                         2.21      8.84
+Glimmervoid                               1.7       6.8
+Goblin Charbelcher                       8.07     32.28
+Mesmeric Orb                             2.31      9.24
+Mind's Eye                               1.14      4.56
+Mindslaver                               2.53     10.12
+Oblivion Stone                          14.15      56.6
+Platinum Angel                            1.6       6.4
+Proteus Staff                            1.44      5.76
+Sculpting Steel                          1.58      6.32
+Solemn Simulacrum                        1.92      7.68
+Sword of Kaldra                          0.55       2.2
+Tooth and Nail                           1.23      4.92
+
+Uncommon                               Single   Playset
+Isochron Scepter                         0.98      3.92
+Lightning Greaves                        1.26      5.04
+
+Common                                 Single   Playset
+Molten Rain                              0.89      3.56
+
+

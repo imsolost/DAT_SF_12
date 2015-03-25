@@ -1,0 +1,30 @@
+Rare                                   Single   Playset
+Ascendant Evincar                        0.98      3.92
+Belbe's Portal                           1.73      6.92
+Blinding Angel                           1.94      7.76
+Divining Witch                           0.55       2.2
+Kor Haven                                7.59     30.36
+Lin Sivvi, Defiant Hero                  1.12      4.48
+Moggcatcher                              5.99     23.96
+Parallax Tide                             0.8       3.2
+Parallax Wave                            2.42      9.68
+Predator, Flagship                       1.19      4.76
+Rootwater Thief                          1.36      5.44
+Saproling Burst                          0.76      3.04
+Seahunter                                0.75       3.0
+Skyshroud Poacher                        2.14      8.56
+Stronghold Gambit                        1.03      4.12
+Tangle Wire                              3.56     14.24
+Volrath the Fallen                        0.7       2.8
+
+Uncommon                               Single   Playset
+Massacre                                 0.61      2.44
+Submerge                                 2.44      9.76
+Terrain Generator                        1.32      5.28
+
+Common                                 Single   Playset
+Daze                                     3.38     13.52
+Flame Rift                               0.74      2.96
+Skyshroud Claim                          1.43      5.72
+
+

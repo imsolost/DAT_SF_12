@@ -1,0 +1,36 @@
+Rare                                   Single   Playset
+Balthor the Defiled                      2.61     10.44
+Breaking Point                           1.13      4.52
+Burning Wish                            14.55      58.2
+Commander Eesha                          1.51      6.04
+Crush of Wurms                           0.89      3.56
+Cunning Wish                             6.89     27.56
+Epic Struggle                            1.25       5.0
+Fledgling Dragon                         0.95       3.8
+Genesis                                 10.05      40.2
+Glory                                    1.35       5.4
+Guiltfeeder                              1.89      7.56
+Hunting Grounds                          2.39      9.56
+Jeska, Warrior Adept                     0.67      2.68
+Living Wish                              4.48     17.92
+Mirari's Wake                             7.5      30.0
+Nomad Mythmaker                          1.32      5.28
+Phantom Nishoba                          1.34      5.36
+Seedtime                                 0.65       2.6
+Silver Seraph                            1.25       5.0
+Solitary Confinement                     4.49     17.96
+Spelljack                                2.62     10.48
+Sylvan Safekeeper                        1.45       5.8
+Test of Endurance                        5.73     22.92
+Worldgorger Dragon                       7.68     30.72
+
+Uncommon                               Single   Playset
+Anger                                    1.49      5.96
+Brawn                                    0.65       2.6
+Browbeat                                 1.25       5.0
+Cabal Therapy                            11.2      44.8
+Soulcatchers' Aerie                      0.79      3.16
+Stitch Together                          0.71      2.84
+Wonder                                   0.66      2.64
+
+

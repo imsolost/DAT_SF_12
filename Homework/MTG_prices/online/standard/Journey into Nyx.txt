@@ -1,0 +1,30 @@
+Mythic                                 Single   Playset
+Ajani, Mentor of Heroes                  5.68     22.72
+Athreos, God of Passage                   4.8      19.2
+Godsend                                  1.17      4.68
+Iroas, God of Victory                    1.39      5.56
+Keranos, God of Storms                  11.54     46.16
+Kruphix, God of Horizons                 1.59      6.36
+Pharika, God of Affliction               4.09     16.36
+Prophetic Flamespeaker                   1.82      7.28
+Sage of Hours                            1.69      6.76
+
+Rare                                   Single   Playset
+Doomwake Giant                           1.44      5.76
+Eidolon of Blossoms                      0.66      2.64
+Eidolon of the Great Revel              16.23     64.92
+Hall of Triumph                          0.91      3.64
+Harness by Force                         1.14      4.56
+Hypnotic Siren                           1.05       4.2
+Launch the Fleet                         1.01      4.04
+Mana Confluence                          9.81     39.24
+Master of the Feast                       0.8       3.2
+Setessan Tactics                         1.16      4.64
+Silence the Believers                    1.29      5.16
+Temple of Epiphany                       9.38     37.52
+Temple of Malady                        14.21     56.84
+
+Uncommon                               Single   Playset
+Banishing Light                          1.71      6.84
+
+

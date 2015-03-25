@@ -1,0 +1,27 @@
+Rare                                   Single   Playset
+Battlefield Forge                        9.89     39.56
+Caves of Koilos                           4.1      16.4
+Cromat                                   1.89      7.56
+Death Grasp                              0.59      2.36
+Desolation Angel                         1.25       5.0
+Guided Passage                           0.71      2.84
+Legacy Weapon                            0.75       3.0
+Lightning Angel                          0.93      3.72
+Llanowar Wastes                          8.32     33.28
+Mystic Snake                             2.39      9.56
+Penumbra Wurm                            0.52      2.08
+Pernicious Deed                          7.49     29.96
+Phyrexian Arena                          8.93     35.72
+Shivan Reef                              8.33     33.32
+Spiritmonger                             2.09      8.36
+Unnatural Selection                      0.58      2.32
+Vindicate                                16.0      64.0
+Yavimaya Coast                           5.69     22.76
+
+Uncommon                               Single   Playset
+Dragon Arch                              1.48      5.92
+Fire // Ice                              0.62      2.48
+Goblin Ringleader                        1.95       7.8
+Sylvan Messenger                         0.74      2.96
+
+

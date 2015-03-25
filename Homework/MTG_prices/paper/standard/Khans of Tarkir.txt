@@ -1,0 +1,48 @@
+Mythic                                 Single   Playset
+Anafenza, the Foremost                    6.5      26.0
+Ashcloud Phoenix                          3.5      14.0
+Clever Impersonator                      2.99     11.96
+Empty the Pits                           0.95       3.8
+Hooded Hydra                             2.49      9.96
+Narset, Enlightened Master               1.48      5.92
+Pearl Lake Ancient                       1.11      4.44
+Sarkhan, the Dragonspeaker               10.4      41.6
+See the Unwritten                        4.71     18.84
+Sidisi, Brood Tyrant                     4.28     17.12
+Sorin, Solemn Visitor                   12.12     48.48
+Surrak Dragonclaw                         1.5       6.0
+Ugin's Nexus                             0.79      3.16
+Wingmate Roc                              6.2      24.8
+Zurgo Helmsmasher                        0.93      3.72
+
+Rare                                   Single   Playset
+Bloodsoaked Champion                     1.95       7.8
+Bloodstained Mire                        8.95      35.8
+Butcher of the Horde                     1.24      4.96
+Crackling Doom                           1.25       5.0
+Crater's Claws                           1.25       5.0
+Deflecting Palm                          0.79      3.16
+Dig Through Time                         5.93     23.72
+End Hostilities                          1.75       7.0
+Flooded Strand                          13.99     55.96
+Hardened Scales                           1.0       4.0
+Jeskai Ascendancy                        1.95       7.8
+Mantis Rider                             1.28      5.12
+Polluted Delta                          13.28     53.12
+Rakshasa Deathdealer                      1.0       4.0
+Rattleclaw Mystic                        1.47      5.88
+Savage Knuckleblade                      1.09      4.36
+Siege Rhino                              7.23     28.92
+Temur Ascendancy                         0.67      2.68
+Utter End                                1.31      5.24
+Windswept Heath                         10.11     40.44
+Wooded Foothills                         9.73     38.92
+
+Uncommon                               Single   Playset
+Hordeling Outburst                       1.15       4.6
+Monastery Swiftspear                      2.3       9.2
+Murderous Cut                            0.62      2.48
+Sandsteppe Citadel                       0.56      2.24
+Seeker of the Way                        0.73      2.92
+
+

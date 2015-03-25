@@ -1,0 +1,53 @@
+Rare                                   Single   Playset
+Absorb                                   3.28     13.12
+Artifact Mutation                        1.79      7.16
+Atalya, Samite Master                    0.56      2.24
+Aura Mutation                            1.38      5.52
+Bind                                      0.6       2.4
+Blazing Specter                          0.75       3.0
+Captain Sisay                            2.79     11.16
+Collective Restraint                     2.85      11.4
+Crosis, the Purger                        3.6      14.4
+Crusading Knight                         0.74      2.96
+Crypt Angel                              0.82      3.28
+Darigaaz, the Igniter                    1.32      5.28
+Devouring Strossus                       0.52      2.08
+Do or Die                                1.96      7.84
+Dromar, the Banisher                     4.23     16.92
+Dueling Grounds                          1.89      7.56
+Elvish Champion                           3.0      12.0
+Empress Galina                            3.0      12.0
+Hanna, Ship's Navigator                  4.88     19.52
+Kangee, Aerie Keeper                     0.58      2.32
+Kavu Titan                               0.85       3.4
+Molimo, Maro-Sorcerer                    0.57      2.28
+Obliterate                               1.77      7.08
+Phyrexian Altar                         17.37     69.48
+Planar Portal                            3.94     15.76
+Restock                                  0.77      3.08
+Reya Dawnbringer                         3.19     12.76
+Rith, the Awakener                        1.7       6.8
+Rout                                      2.8      11.2
+Saproling Symbiosis                      3.25      13.0
+Skizzik                                  0.93      3.72
+Teferi's Moat                            0.55       2.2
+Teferi's Response                        0.68      2.72
+Treva, the Renewer                       1.28      5.12
+Tsabo Tavoc                              0.93      3.72
+Tsabo's Decree                           0.71      2.84
+Twilight's Call                          0.67      2.68
+Undermine                                2.07      8.28
+Urza's Filter                            0.65       2.6
+Urza's Rage                              0.96      3.84
+Utopia Tree                              1.22      4.88
+Verdeloth the Ancient                    0.75       3.0
+
+Uncommon                               Single   Playset
+Aura Shards                              4.43     17.72
+Fact or Fiction                          1.39      5.56
+Fires of Yavimaya                        0.55       2.2
+Sterling Grove                           5.21     20.84
+Tangle                                   1.42      5.68
+Wash Out                                 0.92      3.68
+
+

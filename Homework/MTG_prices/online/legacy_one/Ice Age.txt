@@ -1,0 +1,12 @@
+Uncommon                               Single   Playset
+Ashen Ghoul                              0.84      3.36
+Swords to Plowshares                     1.01      4.04
+
+Common                                 Single   Playset
+Dark Ritual                              3.18     12.72
+Incinerate                               0.55       2.2
+Kjeldoran Dead                           0.86      3.44
+Soul Burn                                0.63      2.52
+Tinder Wall                              0.51      2.04
+
+

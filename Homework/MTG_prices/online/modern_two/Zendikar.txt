@@ -1,0 +1,28 @@
+Mythic                                 Single   Playset
+Chandra Ablaze                           1.59      6.36
+Eldrazi Monument                         2.66     10.64
+Felidar Sovereign                        2.88     11.52
+Iona, Shield of Emeria                  19.43     77.72
+Kalitas, Bloodchief of Ghet              0.93      3.72
+Lotus Cobra                              6.42     25.68
+Mindbreak Trap                           8.18     32.72
+Nissa Revane                             3.29     13.16
+Ob Nixilis, the Fallen                   1.03      4.12
+Rampaging Baloths                        0.52      2.08
+Sorin Markov                             2.49      9.96
+Warren Instigator                        5.95      23.8
+
+Rare                                   Single   Playset
+Archive Trap                             0.97      3.88
+Arid Mesa                                9.97     39.88
+Bloodghast                               8.88     35.52
+Emeria, the Sky Ruin                     1.79      7.16
+Goblin Guide                              5.3      21.2
+Marsh Flats                              8.86     35.44
+Misty Rainforest                        15.84     63.36
+Oracle of Mul Daya                       0.73      2.92
+Pyromancer Ascension                     3.17     12.68
+Scalding Tarn                           23.09     92.36
+Verdant Catacombs                       14.08     56.32
+
+

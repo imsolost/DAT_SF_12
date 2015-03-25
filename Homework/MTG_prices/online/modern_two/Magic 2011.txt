@@ -1,0 +1,25 @@
+Mythic                                 Single   Playset
+Ajani Goldmane                           1.55       6.2
+Baneslayer Angel                          5.7      22.8
+Demon of Death's Gate                    1.28      5.12
+Frost Titan                              0.91      3.64
+Garruk Wildspeaker                       4.58     18.32
+Grave Titan                              3.54     14.16
+Inferno Titan                            2.71     10.84
+Jace Beleren                             1.64      6.56
+Liliana Vess                              5.1      20.4
+Platinum Angel                           1.59      6.36
+Primeval Titan                          33.26    133.04
+Sun Titan                                2.08      8.32
+
+Rare                                   Single   Playset
+Birds of Paradise                        1.07      4.28
+Fauna Shaman                             1.44      5.76
+Honor of the Pure                        0.67      2.68
+Leyline of Sanctity                     17.39     69.56
+Leyline of the Void                      1.92      7.68
+Obstinate Baloth                         2.08      8.32
+Serra Ascendant                          4.52     18.08
+Steel Overseer                           1.64      6.56
+
+

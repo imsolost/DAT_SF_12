@@ -1,0 +1,29 @@
+Rare                                   Single   Playset
+Catastrophe                              3.29     13.16
+Dirtcowl Wurm                             0.6       2.4
+Living Death                             2.49      9.96
+Spike Weaver                             4.22     16.88
+Subversion                               0.96      3.84
+Wrath of God                             6.12     24.48
+
+Uncommon                               Single   Playset
+Argothian Elder                          0.83      3.32
+Control Magic                            1.48      5.92
+Fecundity                                0.69      2.76
+Land Tax                                12.95      51.8
+Reanimate                                6.64     26.56
+Sengir Vampire                           0.71      2.84
+Skyshroud Elite                          1.12      4.48
+Spike Feeder                             0.99      3.96
+Swords to Plowshares                     3.75      15.0
+Windfall                                 1.47      5.88
+
+Common                                 Single   Playset
+Dark Ritual                              1.54      6.16
+Exhume                                   1.77      7.08
+Llanowar Elves                            1.5       6.0
+Man-o'-War                               0.71      2.84
+Mana Leak                                0.94      3.76
+Soul Warden                              0.99      3.96
+
+

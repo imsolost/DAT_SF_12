@@ -1,0 +1,26 @@
+Mythic                                 Single   Playset
+Anafenza, the Foremost                   3.41     13.64
+Ashcloud Phoenix                         3.17     12.68
+Clever Impersonator                      1.43      5.72
+Empty the Pits                           0.58      2.32
+Hooded Hydra                             1.28      5.12
+Narset, Enlightened Master               0.94      3.76
+Pearl Lake Ancient                       1.21      4.84
+Sarkhan, the Dragonspeaker               7.07     28.28
+See the Unwritten                        2.79     11.16
+Sidisi, Brood Tyrant                     3.71     14.84
+Sorin, Solemn Visitor                    8.76     35.04
+Surrak Dragonclaw                        1.06      4.24
+Wingmate Roc                             5.56     22.24
+Zurgo Helmsmasher                        0.66      2.64
+
+Rare                                   Single   Playset
+Bloodstained Mire                        2.51     10.04
+Dig Through Time                         2.13      8.52
+Flooded Strand                           4.39     17.56
+Polluted Delta                           3.89     15.56
+Siege Rhino                              1.87      7.48
+Windswept Heath                          2.71     10.84
+Wooded Foothills                         2.67     10.68
+
+

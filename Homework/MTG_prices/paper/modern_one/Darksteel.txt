@@ -1,0 +1,46 @@
+Rare                                   Single   Playset
+Aether Snap                               0.6       2.4
+Ageless Entity                           0.54      2.16
+Arcbound Overseer                        1.77      7.08
+Arcbound Ravager                        18.88     75.52
+Arcbound Reclaimer                       0.92      3.68
+Blinkmoth Nexus                         11.35      45.4
+Darksteel Colossus                       7.34     29.36
+Darksteel Forge                          3.97     15.88
+Darksteel Reactor                        3.89     15.56
+Death Cloud                              0.99      3.96
+Eater of Days                            1.38      5.52
+Fangren Firstborn                        0.79      3.16
+Flamebreak                               1.25       5.0
+Heartseeker                              0.68      2.72
+Last Word                                0.85       3.4
+Leonin Shikari                           8.17     32.68
+Memnarch                                 8.43     33.72
+Mycosynth Lattice                       19.81     79.24
+Myr Matrix                               2.84     11.36
+Panoptic Mirror                          3.59     14.36
+Pristine Angel                           1.86      7.44
+Reshape                                  2.11      8.44
+Savage Beating                           4.56     18.24
+Serum Powder                             1.89      7.56
+Shield of Kaldra                          3.8      15.2
+Slobad, Goblin Tinkerer                  0.57      2.28
+Spellbinder                              0.53      2.12
+Sundering Titan                          5.32     21.28
+Sword of Fire and Ice                    47.6     190.4
+Sword of Light and Shadow               23.99     95.96
+Trinisphere                              5.11     20.44
+Viridian Zealot                          1.27      5.08
+Well of Lost Dreams                      1.42      5.68
+
+Uncommon                               Single   Playset
+Aether Vial                             22.91     91.64
+Arcbound Crusher                         0.74      2.96
+Coretapper                               0.99      3.96
+Genesis Chamber                          2.42      9.68
+Skullclamp                               3.06     12.24
+
+Common                                 Single   Playset
+Darksteel Citadel                        0.94      3.76
+
+

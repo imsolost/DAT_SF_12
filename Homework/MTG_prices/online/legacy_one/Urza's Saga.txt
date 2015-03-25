@@ -1,0 +1,29 @@
+Rare                                   Single   Playset
+Argothian Enchantress                    8.01     32.04
+Back to Basics                           7.95      31.8
+Catastrophe                              1.05       4.2
+Contamination                            0.68      2.72
+Energy Field                             2.82     11.28
+Exploration                              18.8      75.2
+Fluctuator                               0.55       2.2
+Gaea's Cradle                           27.65     110.6
+Gilded Drake                             4.71     18.84
+Phyrexian Tower                          5.71     22.84
+Serra's Sanctum                          9.44     37.76
+Show and Tell                           47.25     189.0
+Smokestack                               0.98      3.92
+Sneak Attack                            24.54     98.16
+Time Spiral                             10.48     41.92
+Tolarian Academy                         2.91     11.64
+Worship                                  0.72      2.88
+Yawgmoth's Will                          1.36      5.44
+
+Uncommon                               Single   Playset
+Carpet of Flowers                        1.48      5.92
+Worn Powerstone                          0.65       2.6
+
+Common                                 Single   Playset
+Curfew                                   0.98      3.92
+Exhume                                   0.57      2.28
+
+

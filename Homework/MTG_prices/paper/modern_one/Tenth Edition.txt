@@ -1,0 +1,101 @@
+Rare                                   Single   Playset
+Abundance                                2.57     10.28
+Adarkar Wastes                           3.74     14.96
+Ambassador Laquatus                      0.99      3.96
+Angelic Chorus                           3.59     14.36
+Arcanis the Omnipotent                   4.18     16.72
+Ascendant Evincar                        0.95       3.8
+Avatar of Might                          0.68      2.72
+Battlefield Forge                        9.89     39.56
+Beacon of Immortality                    5.37     21.48
+Beacon of Unrest                         3.84     15.36
+Birds of Paradise                         4.2      16.8
+Brushland                                3.11     12.44
+Caves of Koilos                          3.31     13.24
+Cho-Manno, Revolutionary                 0.64      2.56
+Citanul Flute                            1.43      5.72
+Clone                                    0.62      2.48
+Coat of Arms                             7.39     29.56
+Crucible of Worlds                      30.92    123.68
+Doomed Necromancer                       2.57     10.28
+Doubling Cube                            7.29     29.16
+Dragon Roost                             1.23      4.92
+Elvish Champion                          3.57     14.28
+Elvish Piper                             7.71     30.84
+Evacuation                               2.14      8.56
+Field Marshal                            6.12     24.48
+Furnace of Rath                          1.11      4.44
+Gaea's Herald                            0.91      3.64
+Glorious Anthem                           1.7       6.8
+Goblin King                              3.23     12.92
+Grave Pact                               8.99     35.96
+Graveborn Muse                           0.88      3.52
+Howling Mine                             2.62     10.48
+Hurkyl's Recall                         10.31     41.24
+Hypnotic Specter                         1.78      7.12
+Joiner Adept                             1.93      7.72
+Karplusan Forest                         3.36     13.44
+Legacy Weapon                            0.93      3.72
+Llanowar Wastes                          7.85      31.4
+Lord of the Undead                        9.0      36.0
+Loxodon Warhammer                        1.45       5.8
+Loyal Sentry                             0.66      2.64
+Mirri, Cat Warrior                       0.95       3.8
+Mobilization                             1.89      7.56
+Molimo, Maro-Sorcerer                    0.52      2.08
+Mortivore                                1.23      4.92
+Nomad Mythmaker                          1.79      7.16
+Paladin en-Vec                           1.29      5.16
+Pariah                                   2.77     11.08
+Phage the Untouchable                    2.77     11.08
+Pithing Needle                           1.75       7.0
+Plague Wind                              2.86     11.44
+Platinum Angel                           7.52     30.08
+Quirion Dryad                            0.78      3.12
+Relentless Assault                       0.51      2.04
+Reya Dawnbringer                         3.32     13.28
+Rhox                                     0.53      2.12
+Royal Assassin                           0.88      3.52
+Sculpting Steel                          6.16     24.64
+Seedborn Muse                            12.8      51.2
+Seismic Assault                          1.57      6.28
+Shivan Reef                              8.06     32.24
+Siege-Gang Commander                     1.99      7.96
+Squee, Goblin Nabob                      2.09      8.36
+Story Circle                             1.57      6.28
+Sulfurous Springs                        2.37      9.48
+Time Stop                                1.67      6.68
+Time Stretch                             7.82     31.28
+Traumatize                               1.86      7.44
+Troll Ascetic                            0.95       3.8
+True Believer                            1.69      6.76
+Twincast                                 2.62     10.48
+Underground River                        3.35      13.4
+Underworld Dreams                        2.26      9.04
+Verdant Force                             0.9       3.6
+Voice of All                             0.75       3.0
+Windborn Muse                             1.4       5.6
+Wrath of God                              7.1      28.4
+Yavimaya Coast                           5.84     23.36
+
+Uncommon                               Single   Playset
+Aura of Silence                          1.92      7.68
+Blanchwood Armor                         0.69      2.76
+Chromatic Star                           1.49      5.96
+Diabolic Tutor                           0.59      2.36
+Faerie Conclave                          1.16      4.64
+Mind Stone                               0.73      2.92
+Mogg Fanatic                             0.54      2.16
+Ornithopter                              0.61      2.44
+Primal Rage                              1.54      6.16
+Relentless Rats                          1.63      6.52
+Rule of Law                              1.19      4.76
+Shatterstorm                             3.65      14.6
+Soul Warden                              0.82      3.28
+Spark Elemental                          0.55       2.2
+Sylvan Scrying                           3.38     13.52
+Telling Time                             0.88      3.52
+Treetop Village                          1.94      7.76
+Whispersilk Cloak                        0.71      2.84
+
+

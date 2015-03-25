@@ -1,0 +1,49 @@
+Mythic                                 Single   Playset
+Angel of Serenity                        1.78      7.12
+Armada Wurm                              0.96      3.84
+Epic Experiment                          0.77      3.08
+Isperia, Supreme Judge                   0.75       3.0
+Jace, Architect of Thought               2.92     11.68
+Jarad, Golgari Lich Lord                 1.22      4.88
+Necropolis Regent                        1.16      4.64
+Niv-Mizzet, Dracogenius                  1.25       5.0
+Rakdos's Return                          1.22      4.88
+Rakdos, Lord of Riots                     1.5       6.0
+Sphinx's Revelation                      6.91     27.64
+Trostani, Selesnya's Voice               2.35       9.4
+Utvara Hellkite                           5.5      22.0
+Vraska the Unseen                        3.48     13.92
+Worldspine Wurm                          3.99     15.96
+
+Rare                                   Single   Playset
+Abrupt Decay                             12.0      48.0
+Ash Zealot                               0.74      2.96
+Blood Crypt                              7.46     29.84
+Chromatic Lantern                        5.85      23.4
+Counterflux                              0.78      3.12
+Cyclonic Rift                            2.63     10.52
+Deathrite Shaman                         8.16     32.64
+Desecration Demon                        1.43      5.72
+Detention Sphere                         0.95       3.8
+Dreadbore                                1.42      5.68
+Hallowed Fountain                        7.99     31.96
+Lotleth Troll                            0.99      3.96
+Loxodon Smiter                           1.47      5.88
+Mizzium Mortars                          0.51      2.04
+Overgrown Tomb                            8.5      34.0
+Pack Rat                                 1.76      7.04
+Pithing Needle                           0.95       3.8
+Precinct Captain                         0.53      2.12
+Rest in Peace                            1.63      6.52
+Steam Vents                             13.39     53.56
+Supreme Verdict                          3.05      12.2
+Temple Garden                            8.96     35.84
+Underworld Connections                   0.54      2.16
+
+Uncommon                               Single   Playset
+Azorius Charm                            0.64      2.56
+Golgari Charm                            0.63      2.52
+Izzet Charm                              0.71      2.84
+Judge's Familiar                         0.79      3.16
+
+

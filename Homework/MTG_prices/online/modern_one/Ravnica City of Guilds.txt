@@ -1,0 +1,21 @@
+Rare                                   Single   Playset
+Birds of Paradise                        1.32      5.28
+Chord of Calling                         1.02      4.08
+Cloudstone Curio                         1.38      5.52
+Dark Confidant                          16.92     67.68
+Doubling Season                          2.16      8.64
+Glimpse the Unthinkable                  8.13     32.52
+Golgari Grave-Troll                      7.89     31.56
+Life from the Loam                       4.32     17.28
+Overgrown Tomb                           2.22      8.88
+Privileged Position                      1.99      7.96
+Sacred Foundry                           5.61     22.44
+Shadow of Doubt                           4.0      16.0
+Temple Garden                            2.24      8.96
+Watery Grave                             3.55      14.2
+
+Uncommon                               Single   Playset
+Lightning Helix                          0.98      3.92
+Remand                                   7.48     29.92
+
+

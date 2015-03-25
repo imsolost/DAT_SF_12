@@ -1,0 +1,45 @@
+Mythic                                 Single   Playset
+Abyssal Persecutor                       3.72     14.88
+Admonition Angel                         5.24     20.96
+Avenger of Zendikar                      4.71     18.84
+Comet Storm                              1.19      4.76
+Dragonmaster Outcast                    16.81     67.24
+Eye of Ugin                              9.99     39.96
+Jace, the Mind Sculptor                 94.24    376.96
+Novablast Wurm                           2.39      9.56
+Omnath, Locus of Mana                    9.41     37.64
+Wrexial, the Risen Deep                  1.55       6.2
+
+Rare                                   Single   Playset
+Amulet of Vigor                           8.5      34.0
+Anowon, the Ruin Sage                     1.8       7.2
+Basilisk Collar                          7.84     31.36
+Butcher of Malakir                       0.67      2.68
+Celestial Colonnade                     18.32     73.28
+Creeping Tar Pit                         9.96     39.84
+Death's Shadow                           2.74     10.96
+Harabaz Druid                            0.76      3.04
+Joraga Warcaller                         3.53     14.12
+Kalastria Highborn                       2.89     11.56
+Lavaclaw Reaches                         1.35       5.4
+Lodestone Golem                          1.25       5.0
+Marshal's Anthem                         0.59      2.36
+Quest for Ula's Temple                   1.25       5.0
+Quest for the Nihil Stone                0.95       3.8
+Raging Ravine                            3.85      15.4
+Stirring Wildwood                        3.63     14.52
+Stoneforge Mystic                       33.97    135.88
+Terastodon                               0.65       2.6
+Wolfbriar Elemental                      0.67      2.68
+
+Uncommon                               Single   Playset
+Everflowing Chalice                      0.78      3.12
+Leatherback Baloth                       1.02      4.08
+Tectonic Edge                            2.45       9.8
+
+Common                                 Single   Playset
+Explore                                  0.75       3.0
+Groundswell                              0.83      3.32
+Searing Blaze                            1.02      4.08
+
+

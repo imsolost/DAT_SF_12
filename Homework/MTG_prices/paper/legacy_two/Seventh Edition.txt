@@ -1,0 +1,62 @@
+Rare                                   Single   Playset
+Adarkar Wastes                           1.96      7.84
+Birds of Paradise                        4.64     18.56
+Brushland                                1.48      5.92
+City of Brass                            3.28     13.12
+Coat of Arms                             7.97     31.88
+Crimson Hellkite                         0.75       3.0
+Darkest Hour                             0.91      3.64
+Dregs of Sorrow                          0.73      2.92
+Early Harvest                            0.68      2.72
+Earthquake                               0.69      2.76
+Elvish Archers                           0.53      2.12
+Elvish Champion                          2.99     11.96
+Elvish Piper                             7.27     29.08
+Ensnaring Bridge                        18.75      75.0
+Equilibrium                              1.66      6.64
+Evacuation                                1.4       5.6
+Fervor                                   0.66      2.64
+Final Fortune                            1.05       4.2
+Glorious Anthem                          1.09      4.36
+Goblin King                              1.25       5.0
+Howling Mine                             2.49      9.96
+Intrepid Hero                            1.14      4.56
+Karplusan Forest                         1.57      6.28
+Lord of Atlantis                         4.48     17.92
+Mana Short                               0.85       3.4
+Meekstone                                1.83      7.32
+Northern Paladin                         0.67      2.68
+Opposition                               2.84     11.36
+Oppression                               0.52      2.08
+Pariah                                   2.61     10.44
+Persecute                                0.87      3.48
+Seismic Assault                          1.41      5.64
+Serra Angel                               0.6       2.4
+Shivan Dragon                            0.61      2.44
+Southern Paladin                         0.62      2.48
+Static Orb                               1.54      6.16
+Stronghold Assassin                      0.58      2.32
+Sulfurous Springs                        1.47      5.88
+Tainted Aether                           0.87      3.48
+Teferi's Puzzle Box                      2.82     11.28
+Temporal Adept                            0.6       2.4
+Thorn Elemental                          0.51      2.04
+Underground River                        2.07      8.28
+Verduran Enchantress                     0.57      2.28
+Vernal Bloom                             1.68      6.72
+Wildfire                                 0.56      2.24
+Worship                                  1.84      7.36
+Wrath of God                             5.35      21.4
+
+Uncommon                               Single   Playset
+Arcane Laboratory                        0.74      2.96
+Crypt Rats                               0.62      2.48
+Engineered Plague                        0.91      3.64
+Goblin Matron                            0.75       3.0
+Pillage                                  0.51      2.04
+
+Common                                 Single   Playset
+Counterspell                              1.0       4.0
+Sleight of Hand                          2.61     10.44
+
+

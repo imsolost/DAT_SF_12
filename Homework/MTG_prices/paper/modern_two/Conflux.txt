@@ -1,0 +1,47 @@
+Mythic                                 Single   Playset
+Apocalypse Hydra                         8.58     34.32
+Child of Alara                           3.79     15.16
+Conflux                                  2.85      11.4
+Ethersworn Adjudicator                   4.86     19.44
+Maelstrom Archangel                      11.0      44.0
+Malfegor                                 1.33      5.32
+Mirror-Sigil Sergeant                    1.77      7.08
+Nicol Bolas, Planeswalker                 8.5      34.0
+Progenitus                              11.89     47.56
+Thornling                                 1.8       7.2
+
+Rare                                   Single   Playset
+Banefire                                 2.95      11.8
+Bloodhall Ooze                           0.95       3.8
+Exotic Orchard                           1.93      7.72
+Font of Mythos                           5.99     23.96
+Giltspire Avenger                        0.86      3.44
+Gwafa Hazid, Profiteer                   0.78      3.12
+Inkwell Leviathan                         3.1      12.4
+Kederekt Parasite                        1.05       4.2
+Knight of the Reliquary                   5.4      21.6
+Magister Sphinx                          0.95       3.8
+Mark of Asylum                           1.04      4.16
+Martial Coup                             2.48      9.92
+Master Transmuter                        8.26     33.04
+Meglonoth                                0.81      3.24
+Noble Hierarch                          63.36    253.44
+Nyxathid                                 2.86     11.44
+Obelisk of Alara                         1.26      5.04
+Rakka Mar                                0.65       2.6
+Sigil of the Empty Throne                4.31     17.24
+Soul's Majesty                           0.66      2.64
+Sphinx Summoner                          1.49      5.96
+Telemin Performance                       1.0       4.0
+Voracious Dragon                         0.74      2.96
+Wall of Reverence                        1.77      7.08
+
+Uncommon                               Single   Playset
+Ancient Ziggurat                         4.08     16.32
+Countersquall                            0.76      3.04
+Hellspark Elemental                       1.0       4.0
+Path to Exile                            6.62     26.48
+Reliquary Tower                           2.5      10.0
+Volcanic Fallout                         0.73      2.92
+
+

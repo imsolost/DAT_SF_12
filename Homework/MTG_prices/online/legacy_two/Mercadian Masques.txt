@@ -1,0 +1,33 @@
+Rare                                   Single   Playset
+Black Market                             6.96     27.84
+Bribery                                  5.09     20.36
+Charisma                                 1.24      4.96
+Crackdown                                1.64      6.56
+Dust Bowl                               12.99     51.96
+Food Chain                              19.92     79.68
+Fountain Watch                           1.41      5.64
+High Market                              7.34     29.36
+Honor the Fallen                          1.5       6.0
+Magistrate's Scepter                     2.25       9.0
+Misdirection                           107.88    431.52
+Nether Spirit                            4.87     19.48
+Pulverize                                3.45      13.8
+Rishadan Brigand                         1.16      4.64
+Rishadan Port                          147.42    589.68
+Saprazzan Heir                            1.5       6.0
+Squee, Goblin Nabob                      1.39      5.56
+Tower of the Magistrate                  3.85      15.4
+Trade Routes                             0.59      2.36
+Unmask                                   22.5      90.0
+Wave of Reckoning                        0.59      2.36
+
+Common                                 Single   Playset
+Ancestral Mask                           5.75      23.0
+Brainstorm                               1.96      7.84
+Gush                                     1.03      4.12
+Invigorate                               2.27      9.08
+Land Grant                               1.62      6.48
+Snuff Out                                2.48      9.92
+Spidersilk Armor                         2.24      8.96
+
+

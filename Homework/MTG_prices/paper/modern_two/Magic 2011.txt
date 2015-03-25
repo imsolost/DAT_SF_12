@@ -1,0 +1,61 @@
+Mythic                                 Single   Playset
+Ajani Goldmane                           9.39     37.56
+Baneslayer Angel                        12.34     49.36
+Chandra Nalaar                           4.52     18.08
+Demon of Death's Gate                    4.97     19.88
+Frost Titan                               1.1       4.4
+Gaea's Revenge                           1.56      6.24
+Garruk Wildspeaker                        8.6      34.4
+Grave Titan                              4.99     19.96
+Inferno Titan                            1.28      5.12
+Jace Beleren                             8.74     34.96
+Liliana Vess                              9.4      37.6
+Platinum Angel                           7.73     30.92
+Primeval Titan                          15.56     62.24
+Sun Titan                                2.84     11.36
+Time Reversal                            0.85       3.4
+
+Rare                                   Single   Playset
+Angelic Arbiter                          1.09      4.36
+Birds of Paradise                        4.44     17.76
+Captivating Vampire                      6.79     27.16
+Day of Judgment                          1.55       6.2
+Dragonskull Summit                        2.0       8.0
+Drowned Catacomb                         2.38      9.52
+Elvish Archdruid                          1.1       4.4
+Fauna Shaman                             8.64     34.56
+Glacial Fortress                         1.66      6.64
+Goblin Chieftain                         2.58     10.32
+Honor of the Pure                        1.49      5.96
+Knight Exemplar                           2.9      11.6
+Leyline of Anticipation                  5.04     20.16
+Leyline of Punishment                     0.7       2.8
+Leyline of Sanctity                     31.61    126.44
+Leyline of the Void                      4.02     16.08
+Merfolk Sovereign                        0.65       2.6
+Mystifying Maze                          0.93      3.72
+Nantuko Shade                            0.55       2.2
+Obstinate Baloth                         2.03      8.12
+Overwhelming Stampede                    1.24      4.96
+Protean Hydra                             1.5       6.0
+Rootbound Crag                           1.68      6.72
+Serra Ascendant                         17.85      71.4
+Silence                                  0.99      3.96
+Steel Overseer                           8.01     32.04
+Sunpetal Grove                           2.19      8.76
+Sword of Vengeance                       1.37      5.48
+Traumatize                               1.52      6.08
+
+Uncommon                               Single   Playset
+Ajani's Pridemate                        0.79      3.16
+Liliana's Caress                         3.13     12.52
+Relentless Rats                          1.56      6.24
+Whispersilk Cloak                        0.56      2.24
+
+Common                                 Single   Playset
+Cultivate                                0.95       3.8
+Lightning Bolt                           2.46      9.84
+Preordain                                0.99      3.96
+Pyretic Ritual                            1.0       4.0
+
+

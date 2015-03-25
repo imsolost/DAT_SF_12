@@ -1,0 +1,33 @@
+Rare                                   Single   Playset
+Acquire                                  1.44      5.76
+Auriok Champion                         25.82    103.28
+Beacon of Creation                       1.39      5.56
+Beacon of Immortality                     0.6       2.4
+Beacon of Tomorrows                      1.86      7.44
+Beacon of Unrest                         0.72      2.88
+Bringer of the Blue Dawn                 0.59      2.36
+Crucible of Worlds                      13.79     55.16
+Doubling Cube                             1.1       4.4
+Engineered Explosives                    8.88     35.52
+Fist of Suns                             1.13      4.52
+Helm of Kaldra                            1.9       7.6
+Mephidross Vampire                       0.57      2.28
+Mycosynth Golem                          2.26      9.04
+Plunge into Darkness                     1.36      5.44
+Silent Arbiter                           1.58      6.32
+Staff of Domination                      4.24     16.96
+Vedalken Orrery                          2.83     11.32
+Vedalken Shackles                        7.59     30.36
+
+Uncommon                               Single   Playset
+Blasting Station                         0.57      2.28
+Eternal Witness                          0.73      2.92
+Krark-Clan Ironworks                     0.81      3.24
+Night's Whisper                          0.79      3.16
+Steelshaper's Gift                       0.78      3.12
+
+Common                                 Single   Playset
+Condescend                               0.88      3.52
+Serum Visions                            3.88     15.52
+
+

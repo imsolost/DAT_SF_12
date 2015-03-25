@@ -1,0 +1,36 @@
+Mythic                                 Single   Playset
+Brutal Hordechief                        6.13     24.52
+Ghastly Conscription                     0.74      2.96
+Monastery Mentor                        20.46     81.84
+Shaman of the Great Hunt                 7.68     30.72
+Soulfire Grand Master                   13.56     54.24
+Temporal Trespass                        1.79      7.16
+Torrent Elemental                        2.98     11.92
+Ugin, the Spirit Dragon                 33.42    133.68
+Warden of the First Tree                  5.0      20.0
+Whisperwood Elemental                   14.74     58.96
+
+Rare                                   Single   Playset
+Alesha, Who Smiles at Death              1.06      4.24
+Atarka, World Render                     0.66      2.64
+Citadel Siege                            0.96      3.84
+Crux of Fate                              3.8      15.2
+Dromoka, the Eternal                     0.69      2.76
+Flamewake Phoenix                        1.97      7.88
+Frontier Siege                           1.75       7.0
+Kolaghan, the Storm's Fury               0.79      3.16
+Mardu Strike Leader                      1.35       5.4
+Mastery of the Unseen                    3.63     14.52
+Monastery Siege                          0.68      2.72
+Outpost Siege                             4.0      16.0
+Silumgar, the Drifting Death             0.98      3.92
+Soulflayer                               0.91      3.64
+Tasigur, the Golden Fang                  8.0      32.0
+Yasova Dragonclaw                        0.81      3.24
+
+Uncommon                               Single   Playset
+Reality Shift                            0.75       3.0
+Valorous Stance                          2.01      8.04
+Wild Slash                               0.99      3.96
+
+

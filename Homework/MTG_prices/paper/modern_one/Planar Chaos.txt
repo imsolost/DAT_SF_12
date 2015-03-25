@@ -1,0 +1,54 @@
+Rare                                   Single   Playset
+Akroma, Angel of Fury                    5.41     21.64
+Benalish Commander                       1.25       5.0
+Body Double                              1.44      5.76
+Boom // Bust                             1.71      6.84
+Braids, Conjurer Adept                   0.93      3.72
+Chronozoa                                1.53      6.12
+Crovax, Ascendant Hero                   0.79      3.16
+Damnation                                45.6     182.4
+Extirpate                                3.14     12.56
+Fungal Behemoth                          0.63      2.52
+Gaea's Anthem                            1.64      6.56
+Groundbreaker                             1.3       5.2
+Heroes Remembered                        0.58      2.32
+Imp's Mischief                           0.59      2.36
+Intet, the Dreamer                       1.03      4.12
+Life and Limb                            0.81      3.24
+Magus of the Bazaar                      0.87      3.48
+Magus of the Coffers                     1.12      4.48
+Mirri the Cursed                         2.21      8.84
+Numot, the Devastator                    0.87      3.48
+Porphyry Nodes                           2.75      11.0
+Radha, Heir to Keld                      1.26      5.04
+Retether                                 1.44      5.76
+Shivan Wumpus                            0.65       2.6
+Temporal Extortion                       3.61     14.44
+Teneb, the Harvester                     0.94      3.76
+Urborg, Tomb of Yawgmoth                10.13     40.52
+Vorosh, the Hunter                       1.03      4.12
+Wild Pair                                1.78      7.12
+
+Uncommon                               Single   Playset
+Aether Membrane                           0.8       3.2
+Big Game Hunter                          0.63      2.52
+Darkheart Sliver                         0.72      2.88
+Dormant Sliver                           0.71      2.84
+Frozen Aether                            0.93      3.72
+Harmonize                                1.42      5.68
+Kavu Predator                            0.71      2.84
+Keen Sense                               3.49     13.96
+Necrotic Sliver                          4.07     16.28
+Phantasmagorian                          0.72      2.88
+Pongify                                  0.81      3.24
+Psychotrope Thallid                       1.1       4.4
+Rebuff the Wicked                         2.0       8.0
+
+Common                                 Single   Playset
+Dash Hopes                               0.94      3.76
+Dawn Charm                               0.59      2.36
+Essence Warden                            0.8       3.2
+Simian Spirit Guide                      2.61     10.44
+Sinew Sliver                             1.62      6.48
+
+

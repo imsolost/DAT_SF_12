@@ -1,0 +1,16 @@
+Rare                                   Single   Playset
+Burning-Tree Shaman                      0.64      2.56
+Debtors' Knell                           0.76      3.04
+Ghostway                                 3.59     14.36
+Godless Shrine                           4.01     16.04
+Leyline of Lifeforce                     0.81      3.24
+Leyline of the Void                      2.28      9.12
+Niv-Mizzet, the Firemind                 0.72      2.88
+Orzhov Pontiff                            1.4       5.6
+Steam Vents                              5.14     20.56
+Stomping Ground                          4.46     17.84
+
+Uncommon                               Single   Playset
+Shattering Spree                         1.43      5.72
+
+

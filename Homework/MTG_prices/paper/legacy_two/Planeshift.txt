@@ -1,0 +1,37 @@
+Rare                                   Single   Playset
+Cloud Cover                              0.71      2.84
+Diabolic Intent                          9.03     36.12
+Doomsday Specter                         0.69      2.76
+Draco                                    1.91      7.64
+Dralnu's Crusade                         0.54      2.16
+Eladamri's Call                          7.47     29.88
+Ertai, the Corrupted                     0.72      2.88
+Forsaken City                            0.82      3.28
+Goblin Game                              0.51      2.04
+Lord of the Undead                       7.01     28.04
+March of Souls                           0.59      2.36
+Meddling Mage                            6.62     26.48
+Meteor Crater                            1.32      5.28
+Nemata, Grove Guardian                    1.5       6.0
+Orim's Chant                             8.21     32.84
+Phyrexian Scuta                          0.61      2.44
+Phyrexian Tyranny                        2.63     10.52
+Questing Phelddagrif                     0.51      2.04
+Quirion Dryad                            0.65       2.6
+Shivan Wurm                               1.2       4.8
+Skyship Weatherlight                     0.87      3.48
+Tahngarth, Talruum Hero                  0.66      2.64
+Urza's Guilt                             0.52      2.08
+
+Uncommon                               Single   Playset
+Crosis's Catacombs                       0.65       2.6
+Darigaaz's Caldera                       0.53      2.12
+Dromar's Cavern                          0.61      2.44
+Flametongue Kavu                         0.56      2.24
+Treva's Ruins                            0.75       3.0
+Voice of All                             0.51      2.04
+
+Common                                 Single   Playset
+Terminate                                0.99      3.96
+
+

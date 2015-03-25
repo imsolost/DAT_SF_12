@@ -1,0 +1,52 @@
+Rare                                   Single   Playset
+Avatar of Discord                        1.27      5.08
+Blood Crypt                             12.57     50.28
+Breeding Pool                           14.41     57.64
+Bronze Bombshell                         0.88      3.52
+Celestial Ancient                        0.66      2.64
+Crime // Punishment                      1.26      5.04
+Cytoplast Manipulator                    3.59     14.36
+Cytoplast Root-Kin                        2.0       8.0
+Demonfire                                0.75       3.0
+Dovescape                                2.04      8.16
+Evolution Vat                            0.68      2.72
+Experiment Kraj                          3.06     12.24
+Grand Arbiter Augustin IV                4.23     16.92
+Hallowed Fountain                       14.25      57.0
+Hide // Seek                             1.59      6.36
+Infernal Tutor                          13.64     54.56
+Loaming Shaman                           1.49      5.96
+Momir Vig, Simic Visionary               6.57     26.28
+Odds // Ends                             0.65       2.6
+Pillar of the Paruns                     2.56     10.24
+Pride of the Clouds                      3.29     13.16
+Proclamation of Rebirth                  3.13     12.52
+Proper Burial                            0.69      2.76
+Protean Hulk                             2.02      8.08
+Rain of Gore                             4.29     17.16
+Rakdos Pit Dragon                        1.04      4.16
+Rakdos the Defiler                       3.32     13.28
+Ratcatcher                               3.24     12.96
+Research // Development                  0.56      2.24
+Simic Sky Swallower                      1.66      6.64
+Sprouting Phytohydra                     2.08      8.32
+Stalking Vengeance                       0.86      3.44
+Tidespout Tyrant                         6.64     26.56
+Voidslime                                8.05      32.2
+Walking Archive                          0.66      2.64
+War's Toll                               0.99      3.96
+
+Uncommon                               Single   Playset
+Ghost Quarter                             0.8       3.2
+Plaxcaster Frogling                      1.56      6.24
+Simic Guildmage                          0.59      2.36
+Spell Snare                              4.99     19.96
+Trygon Predator                          0.88      3.52
+
+Common                                 Single   Playset
+Azorius Signet                           0.65       2.6
+Coiling Oracle                           0.86      3.44
+Simic Growth Chamber                      1.4       5.6
+Utopia Sprawl                            1.56      6.24
+
+

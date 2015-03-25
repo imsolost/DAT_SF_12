@@ -1,0 +1,43 @@
+Rare                                   Single   Playset
+Ashen Powder                             0.72      2.88
+Cadaverous Bloom                         0.89      3.56
+Catacomb Dragon                          1.02      4.08
+Chaosphere                               0.66      2.64
+Crimson Hellkite                         0.71      2.84
+Cursed Totem                             1.83      7.32
+Early Harvest                            0.69      2.76
+Final Fortune                            1.01      4.04
+Flash                                    1.69      6.76
+Forsaken Wastes                          0.91      3.64
+Hall of Gemstone                         0.76      3.04
+Hammer of Bogardan                       0.64      2.56
+Infernal Contract                        0.59      2.36
+Lion's Eye Diamond                      83.32    333.28
+Mist Dragon                              0.57      2.28
+Natural Balance                          0.63      2.52
+Phyrexian Dreadnought                   15.75      63.0
+Polymorph                                0.72      2.88
+Reparations                              0.71      2.84
+Sacred Mesa                              0.74      2.96
+Shallow Grave                            6.99     27.96
+Shimmer                                  0.51      2.04
+Spirit of the Night                      2.74     10.96
+Teeka's Dragon                           1.55       6.2
+Teferi's Isle                            0.78      3.12
+Tombstone Stairwell                      0.75       3.0
+Volcanic Dragon                          0.56      2.24
+Zirilan of the Claw                      7.17     28.68
+Zuberi, Golden Feather                   0.52      2.08
+
+Uncommon                               Single   Playset
+Bad River                                0.59      2.36
+Dissipate                                0.89      3.56
+Enlightened Tutor                        14.5      58.0
+Mind Harness                             0.69      2.76
+Mystical Tutor                           6.58     26.32
+Worldly Tutor                             6.2      24.8
+
+Common                                 Single   Playset
+Dark Ritual                              0.75       3.0
+
+

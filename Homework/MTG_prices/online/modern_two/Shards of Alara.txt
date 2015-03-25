@@ -1,0 +1,17 @@
+Mythic                                 Single   Playset
+Ajani Vengeant                          12.08     48.32
+Elspeth, Knight-Errant                   5.89     23.56
+Empyrial Archangel                       0.76      3.04
+Godsire                                  0.81      3.24
+Hellkite Overlord                        0.78      3.12
+Rafiq of the Many                        1.77      7.08
+Sarkhan Vol                              1.35       5.4
+Tezzeret the Seeker                     16.46     65.84
+
+Rare                                   Single   Playset
+Ad Nauseam                               0.98      3.92
+Death Baron                              0.62      2.48
+Master of Etherium                        1.7       6.8
+Ranger of Eos                            2.72     10.88
+
+

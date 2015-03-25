@@ -1,0 +1,18 @@
+Rare                                   Single   Playset
+An-Zerrin Ruins                          0.64      2.56
+Autumn Willow                            1.36      5.44
+Aysen Crusader                           0.82      3.28
+Baron Sengir                             2.38      9.52
+Didgeridoo                               2.74     10.96
+Faerie Noble                             0.68      2.72
+Koskun Falls                             0.79      3.16
+Leeches                                  1.42      5.68
+Mystic Decree                            0.62      2.48
+Serra Aviary                             0.52      2.08
+Wall of Kelp                             1.04      4.16
+Willow Priestess                         0.64      2.56
+
+Common                                 Single   Playset
+Merchant Scroll                          1.07      4.28
+
+

@@ -1,0 +1,32 @@
+Rare                                   Single   Playset
+Ambassador Laquatus                      0.91      3.64
+Chainer, Dementia Master                 0.92      3.68
+Devastating Dreams                       0.76      3.04
+Grim Lavamancer                          6.95      27.8
+Hypnox                                   0.57      2.28
+Ichorid                                 12.85      51.4
+Insidious Dreams                          1.8       7.2
+Laquatus's Champion                       0.9       3.6
+Llawan, Cephalid Empress                 2.12      8.48
+Mutilate                                 1.58      6.32
+Nantuko Shade                            0.95       3.8
+Overmaster                               1.55       6.2
+Parallel Evolution                       3.79     15.16
+Radiate                                  0.75       3.0
+Skullscorch                               0.6       2.4
+
+Uncommon                               Single   Playset
+Breakthrough                             0.97      3.88
+Cabal Coffers                           11.94     47.76
+Chainer's Edict                          0.93      3.72
+Circular Logic                           0.91      3.64
+Tainted Field                            0.96      3.84
+Tainted Isle                             1.28      5.12
+Tainted Peak                             0.89      3.56
+Tainted Wood                             0.89      3.56
+Zombie Trailblazer                        0.8       3.2
+
+Common                                 Single   Playset
+Cabal Ritual                             1.28      5.12
+
+

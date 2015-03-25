@@ -1,0 +1,93 @@
+Rare                                   Single   Playset
+Abundance                                2.37      9.48
+Angelic Chorus                           3.66     14.64
+Argothian Enchantress                   14.38     57.52
+Argothian Wurm                            1.1       4.4
+Attunement                                0.8       3.2
+Back to Basics                           6.46     25.84
+Barrin, Master Wizard                    0.66      2.64
+Brand                                    0.89      3.56
+Catastrophe                              3.72     14.88
+Child of Gaea                            0.65       2.6
+Citanul Flute                            1.16      4.64
+Citanul Hierophants                      1.11      4.44
+Contamination                            6.63     26.52
+Copper Gnomes                            2.16      8.64
+Crater Hellion                           0.83      3.32
+Darkest Hour                             0.95       3.8
+Endless Wurm                             1.14      4.56
+Energy Field                             7.68     30.72
+Exploration                             12.12     48.48
+Fault Line                               0.79      3.16
+Fluctuator                               2.17      8.68
+Gaea's Cradle                          160.69    642.76
+Gamble                                  21.77     87.08
+Gilded Drake                            18.03     72.12
+Glorious Anthem                           1.6       6.4
+Great Whale                              3.57     14.28
+Greater Good                              7.6      30.4
+Herald of Serra                          0.69      2.76
+Hidden Herd                              0.53      2.12
+Ill-Gotten Gains                         1.58      6.32
+Intrepid Hero                            0.95       3.8
+Karn, Silver Golem                       6.55      26.2
+Lifeline                                 3.32     13.28
+Lightning Dragon                         1.42      5.68
+Lotus Blossom                            1.25       5.0
+Mishra's Helix                           1.29      5.16
+Morphling                                4.55      18.2
+Noetic Scales                            0.76      3.04
+Opal Archangel                            0.8       3.2
+Oppression                               0.66      2.64
+Pariah                                   2.45       9.8
+Persecute                                0.92      3.68
+Phyrexian Processor                      1.67      6.68
+Phyrexian Tower                         14.69     58.76
+Planar Birth                             0.78      3.12
+Remembrance                              0.63      2.52
+Serra Avatar                             2.29      9.16
+Serra's Sanctum                         31.06    124.24
+Shivan Gorge                             0.79      3.16
+Shivan Hellkite                          0.81      3.24
+Show and Tell                           63.69    254.76
+Smokestack                               6.65      26.6
+Sneak Attack                             54.9     219.6
+Soul Sculptor                             0.6       2.4
+Sporogenesis                             0.55       2.2
+Stroke of Genius                         3.82     15.28
+Sunder                                   1.75       7.0
+Tainted Aether                           1.04      4.16
+Temporal Aperture                        1.22      4.88
+Thran Quarry                              2.6      10.4
+Time Spiral                             19.66     78.64
+Tolarian Academy                        22.38     89.52
+Vernal Bloom                             1.65       6.6
+Whirlwind                                0.83      3.32
+Wildfire                                 0.61      2.44
+Worship                                  1.71      6.84
+Yawgmoth's Will                         18.41     73.64
+
+Uncommon                               Single   Playset
+Arcane Laboratory                        0.65       2.6
+Blanchwood Armor                         0.56      2.24
+Blasted Landscape                        0.64      2.56
+Carpet of Flowers                         2.2       8.8
+Fecundity                                0.52      2.08
+Fog Bank                                  1.0       4.0
+Gaea's Embrace                           0.65       2.6
+Goblin Lackey                            8.17     32.68
+Goblin Offensive                         0.92      3.68
+Titania's Chosen                         0.84      3.36
+Turnabout                                2.19      8.76
+Victimize                                1.25       5.0
+Voltaic Key                              0.92      3.68
+Windfall                                 1.27      5.08
+Worn Powerstone                          2.64     10.56
+
+Common                                 Single   Playset
+Dark Ritual                              0.72      2.88
+Exhume                                   0.79      3.16
+Goblin Matron                             0.6       2.4
+Priest of Titania                        1.68      6.72
+
+

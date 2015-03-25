@@ -1,0 +1,58 @@
+Rare                                   Single   Playset
+Avatar of Hope                           0.65       2.6
+Birds of Paradise                        4.41     17.64
+Blinding Angel                           2.03      8.12
+Blood Moon                              20.93     83.72
+Bribery                                  15.6      62.4
+City of Brass                            2.96     11.84
+Coastal Piracy                           0.63      2.52
+Coat of Arms                             6.99     27.96
+Collective Unconscious                   0.67      2.68
+Defense Grid                             7.23     28.92
+Elvish Champion                          2.94     11.76
+Elvish Piper                             7.52     30.08
+Ensnaring Bridge                        18.94     75.76
+Evacuation                               1.29      5.16
+Furnace of Rath                          0.94      3.76
+Gaea's Herald                            0.56      2.24
+Glorious Anthem                          1.04      4.16
+Goblin King                              1.54      6.16
+Grave Pact                                8.5      34.0
+Howling Mine                             2.44      9.76
+Intrepid Hero                            0.96      3.84
+Intruder Alarm                           3.65      14.6
+Ivory Mask                               0.76      3.04
+Lord of the Undead                       7.28     29.12
+Noble Purpose                            0.52      2.08
+Obliterate                               1.75       7.0
+Persecute                                0.74      2.96
+Phyrexian Arena                          9.18     36.72
+Plague Wind                              2.54     10.16
+Planar Portal                            3.81     15.24
+Plow Under                               1.59      6.36
+Royal Assassin                           0.75       3.0
+Savannah Lions                           0.71      2.84
+Seismic Assault                          1.26      5.04
+Story Circle                             0.95       3.8
+Teferi's Puzzle Box                      2.85      11.4
+Temporal Adept                           0.53      2.12
+Thorn Elemental                          0.63      2.52
+Two-Headed Dragon                        1.52      6.08
+Underworld Dreams                         2.2       8.8
+Vernal Bloom                             1.83      7.32
+Worship                                  1.66      6.64
+Wrath of God                             5.25      21.0
+
+Uncommon                               Single   Playset
+Ambition's Cost                           0.7       2.8
+Choke                                    5.98     23.92
+Curiosity                                0.57      2.28
+Merchant Scroll                          1.17      4.68
+Salt Marsh                               0.51      2.04
+Swarm of Rats                             0.8       3.2
+Urza's Mine                               1.7       6.8
+Urza's Power Plant                       1.85       7.4
+Urza's Tower                             1.71      6.84
+Zombify                                  0.59      2.36
+
+

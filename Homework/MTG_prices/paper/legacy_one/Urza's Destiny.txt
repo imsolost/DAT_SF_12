@@ -1,0 +1,40 @@
+Rare                                   Single   Playset
+Academy Rector                          16.93     67.72
+Apprentice Necromancer                   0.95       3.8
+Attrition                                2.67     10.68
+Aura Thief                                1.6       6.4
+Covetous Dragon                          0.95       3.8
+Donate                                   1.99      7.96
+Elvish Piper                             7.34     29.36
+False Prophet                            0.51      2.04
+Goblin Marshal                           0.71      2.84
+Junk Diver                               0.89      3.56
+Masticore                                1.89      7.56
+Metalworker                             27.02    108.08
+Opalescence                               2.0       8.0
+Opposition                               2.82     11.28
+Pattern of Rebirth                       2.95      11.8
+Phyrexian Negator                        0.94      3.76
+Plow Under                               1.51      6.04
+Powder Keg                               1.32      5.28
+Rayne, Academy Chancellor                0.61      2.44
+Repercussion                             3.36     13.44
+Replenish                               13.29     53.16
+Rofellos, Llanowar Emissary             18.51     74.04
+Temporal Adept                           0.62      2.48
+Tethered Griffin                         0.53      2.12
+Thorn Elemental                          0.67      2.68
+Treachery                               11.12     44.48
+Urza's Incubator                         9.24     36.96
+Wake of Destruction                      1.33      5.32
+Yavimaya Hollow                          9.99     39.96
+Yawgmoth's Bargain                       1.74      6.96
+
+Uncommon                               Single   Playset
+Sowing Salt                              1.63      6.52
+Thran Dynamo                             5.31     21.24
+
+Common                                 Single   Playset
+Yavimaya Elder                           0.53      2.12
+
+

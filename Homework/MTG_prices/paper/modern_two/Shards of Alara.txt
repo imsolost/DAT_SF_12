@@ -1,0 +1,57 @@
+Mythic                                 Single   Playset
+Ajani Vengeant                          11.39     45.56
+Elspeth, Knight-Errant                  14.99     59.96
+Empyrial Archangel                       3.74     14.96
+Godsire                                  7.75      31.0
+Hellkite Overlord                        7.37     29.48
+Kresh the Bloodbraided                   2.49      9.96
+Lich's Mirror                            5.43     21.72
+Mayael the Anima                         1.85       7.4
+Prince of Thralls                        3.65      14.6
+Rafiq of the Many                         7.4      29.6
+Sarkhan Vol                             10.99     43.96
+Sedris, the Traitor King                 2.96     11.84
+Sharuum the Hegemon                      1.52      6.08
+Sphinx Sovereign                         2.09      8.36
+Tezzeret the Seeker                     16.25      65.0
+
+Rare                                   Single   Playset
+Ad Nauseam                               2.53     10.12
+Battlegrace Angel                        2.59     10.36
+Broodmate Dragon                         1.19      4.76
+Cradle of Vitality                       0.75       3.0
+Crucible of Fire                          2.1       8.4
+Cruel Ultimatum                          0.63      2.52
+Death Baron                              12.3      49.2
+Ethersworn Canonist                       4.7      18.8
+Feral Hydra                              1.85       7.4
+Goblin Assault                            1.2       4.8
+Hell's Thunder                           0.89      3.56
+Knight of the White Orchid               3.44     13.76
+Knight-Captain of Eos                    0.85       3.4
+Master of Etherium                       5.53     22.12
+Memory Erosion                           1.75       7.0
+Mycoloth                                 5.69     22.76
+Predator Dragon                          1.15       4.6
+Quietus Spike                            2.82     11.28
+Ranger of Eos                            12.9      51.6
+Scourglass                               1.39      5.56
+Spearbreaker Behemoth                    1.51      6.04
+Stoic Angel                              1.53      6.12
+
+Uncommon                               Single   Playset
+Arcane Sanctum                           1.66      6.64
+Bant Charm                               0.76      3.04
+Crumbling Necropolis                     0.94      3.76
+Fatestitcher                              3.4      13.6
+Jungle Shrine                            0.99      3.96
+Savage Lands                             1.04      4.16
+Seaside Citadel                          1.76      7.04
+Sigiled Paladin                          0.75       3.0
+
+Common                                 Single   Playset
+Blightning                               0.81      3.24
+Relic of Progenitus                      1.09      4.36
+Wild Nacatl                              0.85       3.4
+
+

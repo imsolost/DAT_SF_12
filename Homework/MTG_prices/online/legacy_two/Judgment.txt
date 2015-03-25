@@ -1,0 +1,17 @@
+Rare                                   Single   Playset
+Burning Wish                             1.65       6.6
+Cunning Wish                            13.69     54.76
+Living Wish                              3.03     12.12
+Mirari's Wake                            0.88      3.52
+Spelljack                                0.64      2.56
+Test of Endurance                        0.68      2.72
+
+Uncommon                               Single   Playset
+Cabal Therapy                           11.67     46.68
+
+Common                                 Single   Playset
+Flaring Pain                              1.0       4.0
+Mental Note                              0.91      3.64
+Prismatic Strands                        0.79      3.16
+
+

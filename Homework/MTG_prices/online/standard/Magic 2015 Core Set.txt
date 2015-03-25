@@ -1,0 +1,37 @@
+Mythic                                 Single   Playset
+Ajani Steadfast                          2.84     11.36
+Chandra, Pyromaster                      4.57     18.28
+Garruk, Apex Predator                    8.17     32.68
+Jace, the Living Guildpact                2.2       8.8
+Liliana Vess                             4.87     19.48
+Nissa, Worldwaker                        22.4      89.6
+Perilous Vault                          15.77     63.08
+Sliver Hivelord                          1.06      4.24
+Soul of Innistrad                         0.6       2.4
+Soul of New Phyrexia                     1.35       5.4
+Soul of Shandalar                        0.56      2.24
+Soul of Theros                           1.51      6.04
+The Chain Veil                            0.6       2.4
+
+Rare                                   Single   Playset
+Aetherspouts                             0.53      2.12
+Battlefield Forge                        6.75      27.0
+Caves of Koilos                          3.34     13.36
+Chasm Skulker                            0.52      2.08
+Chord of Calling                         0.88      3.52
+Genesis Hydra                            1.89      7.56
+Goblin Rabblemaster                     13.39     53.56
+Hornet Nest                              1.42      5.68
+Hornet Queen                             1.09      4.36
+Llanowar Wastes                          3.57     14.28
+Obelisk of Urd                            1.0       4.0
+Shivan Reef                               4.2      16.8
+Urborg, Tomb of Yawgmoth                 2.38      9.52
+Waste Not                                 1.4       5.6
+Yavimaya Coast                           2.05       8.2
+
+Uncommon                               Single   Playset
+Sengir Vampire                            5.5      22.0
+Stoke the Flames                         3.85      15.4
+
+

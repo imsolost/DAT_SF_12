@@ -1,0 +1,25 @@
+Rare                                   Single   Playset
+Adarkar Wastes                           1.14      4.56
+Battlefield Forge                        8.11     32.44
+Blood Moon                              16.59     66.36
+Brushland                                0.85       3.4
+Caves of Koilos                          3.51     14.04
+Defense Grid                             2.81     11.24
+Goblin King                              0.97      3.88
+Grave Pact                               0.54      2.16
+Hell's Caretaker                         0.65       2.6
+Howling Mine                             0.73      2.92
+Karplusan Forest                         0.94      3.76
+Llanowar Wastes                          4.13     16.52
+Lord of the Undead                       1.11      4.44
+Phyrexian Arena                          4.81     19.24
+Seedborn Muse                            0.65       2.6
+Shivan Reef                               4.4      17.6
+Sulfurous Springs                        0.73      2.92
+Underground River                        0.85       3.4
+Verduran Enchantress                     0.52      2.08
+Will-o'-the-Wisp                         0.57      2.28
+Wrath of God                             5.72     22.88
+Yavimaya Coast                           2.44      9.76
+
+

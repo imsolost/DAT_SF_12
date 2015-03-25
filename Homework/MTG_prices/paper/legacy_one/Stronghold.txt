@@ -1,0 +1,31 @@
+Rare                                   Single   Playset
+Awakening                                0.81      3.24
+Burgeoning                              10.45      41.8
+Dream Halls                              7.93     31.72
+Ensnaring Bridge                        18.95      75.8
+Evacuation                               1.29      5.16
+Grave Pact                               7.99     31.96
+Hermit Druid                             1.99      7.96
+Horn of Greed                            3.19     12.76
+Intruder Alarm                           3.53     14.12
+Mogg Infestation                         4.75      19.0
+Mox Diamond                             28.16    112.64
+Reins of Power                           0.62      2.48
+Ruination                                0.58      2.32
+Shaman en-Kor                            0.87      3.48
+Sliver Queen                            42.87    171.48
+Soltari Champion                         1.75       7.0
+Thalakos Deceiver                        1.34      5.36
+Volrath's Shapeshifter                   0.69      2.76
+Volrath's Stronghold                    21.09     84.36
+Warrior Angel                             0.7       2.8
+
+Uncommon                               Single   Playset
+Constant Mists                           0.67      2.68
+Crystalline Sliver                       7.34     29.36
+Mogg Maniac                              0.89      3.56
+Primal Rage                              1.02      4.08
+Wall of Blossoms                         1.27      5.08
+Wall of Souls                            1.09      4.36
+
+

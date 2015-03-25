@@ -1,0 +1,23 @@
+Mythic                                 Single   Playset
+Ajani, Caller of the Pride               2.69     10.76
+Archangel of Thune                       8.22     32.88
+Chandra, Pyromaster                      6.04     24.16
+Darksteel Forge                          1.13      4.52
+Devout Invocation                        0.97      3.88
+Garruk, Caller of Beasts                 3.29     13.16
+Jace, Memory Adept                       1.92      7.68
+Kalonian Hydra                           5.89     23.56
+Liliana of the Dark Realms               4.53     18.12
+Primeval Bounty                          3.05      12.2
+Ring of Three Wishes                     1.15       4.6
+Rise of the Dark Realms                  3.22     12.88
+Scourge of Valkas                        2.58     10.32
+Shadowborn Demon                         2.27      9.08
+
+Rare                                   Single   Playset
+Galerider Sliver                         0.59      2.36
+Mutavault                                4.91     19.64
+Scavenging Ooze                          6.15      24.6
+Tidebinder Mage                          0.77      3.08
+
+

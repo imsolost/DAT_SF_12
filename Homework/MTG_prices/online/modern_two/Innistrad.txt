@@ -1,0 +1,20 @@
+Mythic                                 Single   Playset
+Army of the Damned                       0.59      2.36
+Balefire Dragon                          0.96      3.84
+Garruk Relentless                        1.41      5.64
+Geist of Saint Traft                    15.38     61.52
+Liliana of the Veil                     81.53    326.12
+Mikaeus, the Lunarch                     0.74      2.96
+Olivia Voldaren                          2.64     10.56
+Past in Flames                          12.79     51.16
+Skaab Ruinator                           0.78      3.12
+Tree of Redemption                       0.69      2.76
+
+Rare                                   Single   Playset
+Isolated Chapel                           0.9       3.6
+Lord of Lineage                          0.98      3.92
+Snapcaster Mage                         13.99     55.96
+Stony Silence                            1.44      5.76
+Sulfur Falls                             1.61      6.44
+
+

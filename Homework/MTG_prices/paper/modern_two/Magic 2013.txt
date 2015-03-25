@@ -1,0 +1,57 @@
+Mythic                                 Single   Playset
+Ajani, Caller of the Pride               4.99     19.96
+Akroma's Memorial                       10.99     43.96
+Chandra, the Firebrand                   3.79     15.16
+Elderscale Wurm                           2.0       8.0
+Garruk, Primal Hunter                    6.54     26.16
+Jace, Memory Adept                       5.35      21.4
+Liliana of the Dark Realms               5.44     21.76
+Nicol Bolas, Planeswalker                8.28     33.12
+Omniscience                             16.92     67.68
+Primordial Hydra                         6.98     27.92
+Serra Avatar                             1.27      5.08
+Sublime Archangel                        7.96     31.84
+Thundermaw Hellkite                       9.1      36.4
+Vampire Nocturnus                        4.31     17.24
+Worldfire                                1.08      4.32
+
+Rare                                   Single   Playset
+Boundless Realms                         1.21      4.84
+Captain of the Watch                      0.8       3.2
+Cathedral of War                         1.54      6.16
+Diabolic Revelation                      0.85       3.4
+Door to Nothingness                      0.82      3.28
+Dragonskull Summit                        2.1       8.4
+Drowned Catacomb                         2.45       9.8
+Elvish Archdruid                         1.12      4.48
+Faith's Reward                           0.54      2.16
+Gilded Lotus                             5.99     23.96
+Glacial Fortress                         1.71      6.84
+Intrepid Hero                            0.61      2.44
+Krenko, Mob Boss                         3.83     15.32
+Master of the Pearl Trident              3.59     14.36
+Mutilate                                 0.81      3.24
+Nefarox, Overlord of Grixis              0.75       3.0
+Odric, Master Tactician                  0.58      2.32
+Rhox Faithmender                         3.73     14.92
+Rootbound Crag                           1.65       6.6
+Sands of Delirium                         0.6       2.4
+Serra Avenger                             1.6       6.4
+Slumbering Dragon                        1.51      6.04
+Staff of Nin                             0.84      3.36
+Stuffy Doll                              1.45       5.8
+Sunpetal Grove                           2.23      8.92
+Talrand, Sky Summoner                    1.05       4.2
+Thragtusk                                2.24      8.96
+
+Uncommon                               Single   Playset
+Fog Bank                                 0.87      3.48
+Jace's Phantasm                          1.23      4.92
+Rancor                                    2.0       8.0
+Reliquary Tower                          2.52     10.08
+Vampire Nighthawk                        1.03      4.12
+
+Common                                 Single   Playset
+Murder                                   0.56      2.24
+
+

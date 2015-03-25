@@ -1,0 +1,18 @@
+Rare                                   Single   Playset
+Abeyance                                 0.52      2.08
+Doomsday                                28.06    112.24
+Firestorm                               15.38     61.52
+Goblin Bomb                              1.38      5.52
+Lotus Vale                               1.78      7.12
+Mana Web                                 1.41      5.64
+Null Rod                                 4.16     16.64
+Peacekeeper                              2.45       9.8
+Scorched Ruins                           1.03      4.12
+Serenity                                 4.97     19.88
+Winding Canyons                          2.52     10.08
+
+Uncommon                               Single   Playset
+Gemstone Mine                            8.64     34.56
+Veteran Explorer                         0.61      2.44
+
+

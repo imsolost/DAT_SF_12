@@ -1,0 +1,82 @@
+Rare                                   Single   Playset
+Adarkar Wastes                           2.23      8.92
+Battlefield Forge                         8.9      35.6
+Blinding Angel                           2.26      9.04
+Blood Moon                              20.89     83.56
+Booby Trap                               0.56      2.24
+Brushland                                 1.8       7.2
+Caves of Koilos                          2.84     11.36
+Clone                                    0.57      2.28
+Coat of Arms                             7.17     28.68
+Defense Grid                             7.22     28.88
+Early Harvest                            0.71      2.84
+Elvish Champion                          3.44     13.76
+Elvish Piper                              7.4      29.6
+Evacuation                               1.38      5.52
+Form of the Dragon                       0.64      2.56
+Furnace of Rath                           1.0       4.0
+Glorious Anthem                          1.07      4.28
+Goblin King                              1.74      6.96
+Grave Pact                               8.94     35.76
+Greater Good                             7.99     31.96
+Hell's Caretaker                         3.43     13.72
+Howling Mine                              2.5      10.0
+Hypnotic Specter                         1.69      6.76
+Ivory Mask                               0.89      3.56
+Jester's Cap                             1.79      7.16
+Karplusan Forest                         1.97      7.88
+Llanowar Wastes                          6.93     27.72
+Lord of the Undead                        7.6      30.4
+Loxodon Warhammer                        1.49      5.96
+Mindslicer                               0.88      3.52
+Mortivore                                 1.1       4.4
+Paladin en-Vec                           0.93      3.72
+Persecute                                0.84      3.36
+Phyrexian Arena                           9.0      36.0
+Plague Wind                              2.52     10.08
+Polymorph                                0.71      2.84
+Rathi Dragon                             0.56      2.24
+Royal Assassin                           0.76      3.04
+Savannah Lions                           0.89      3.56
+Seedborn Muse                           12.56     50.24
+Shivan Reef                              7.79     31.16
+Silklash Spider                          0.71      2.84
+Slate of Ancestry                        0.89      3.56
+Story Circle                             0.95       3.8
+Sulfurous Springs                         1.5       6.0
+Teferi's Puzzle Box                      3.22     12.88
+Temporal Adept                           0.79      3.16
+Traumatize                               1.89      7.56
+Underground River                        2.38      9.52
+Underworld Dreams                        2.25       9.0
+Utopia Tree                              1.33      5.32
+Verdant Force                            0.82      3.28
+Weathered Wayfarer                       6.25      25.0
+Weird Harvest                            0.68      2.72
+Will-o'-the-Wisp                         2.23      8.92
+Worship                                  1.94      7.76
+Wrath of God                             5.36     21.44
+Yavimaya Coast                           5.41     21.64
+
+Uncommon                               Single   Playset
+Blackmail                                2.71     10.84
+Circle of Protection Red                 0.99      3.96
+Cruel Edict                              0.56      2.24
+Diabolic Tutor                           0.51      2.04
+Gift of Estates                           2.1       8.4
+Kird Ape                                 1.02      4.08
+Rewind                                   0.55       2.2
+Serra's Blessing                         0.97      3.88
+Soul Warden                              0.77      3.08
+Summer Bloom                             4.68     18.72
+Swarm of Rats                            0.99      3.96
+Urza's Mine                              1.99      7.96
+Urza's Power Plant                       2.62     10.48
+Urza's Tower                             1.99      7.96
+Zombify                                  0.63      2.52
+
+Common                                 Single   Playset
+Seething Song                            0.99      3.96
+Sleight of Hand                           2.8      11.2
+
+

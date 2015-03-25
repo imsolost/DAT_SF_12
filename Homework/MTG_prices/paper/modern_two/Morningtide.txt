@@ -1,0 +1,46 @@
+Rare                                   Single   Playset
+Bitterblossom                           46.26    185.04
+Borderland Behemoth                      0.52      2.08
+Chameleon Colossus                       1.91      7.64
+Countryside Crusher                      0.86      3.44
+Cream of the Crop                        1.12      4.48
+Declaration of Naught                    0.56      2.24
+Door of Destinies                        3.85      15.4
+Earwig Squad                             0.64      2.56
+Gilt-Leaf Archdruid                      3.79     15.16
+Greatbow Doyen                           0.55       2.2
+Grimoire Thief                           1.85       7.4
+Idyllic Tutor                           14.98     59.92
+Indomitable Ancients                     1.95       7.8
+Kinsbaile Borderguard                    1.05       4.2
+Kinsbaile Cavalier                       1.89      7.56
+Knowledge Exploitation                   1.75       7.0
+Leaf-Crowned Elder                       3.74     14.96
+Lightning Crafter                        2.37      9.48
+Maralen of the Mornsong                  4.83     19.32
+Murmuring Bosk                           2.84     11.36
+Mutavault                               16.01     64.04
+Notorious Throng                         0.94      3.76
+Preeminent Captain                       2.87     11.48
+Primal Beyond                             0.9       3.6
+Reveillark                               3.55      14.2
+Rhys the Exiled                          1.36      5.44
+Scapeshift                              23.62     94.48
+Sensation Gorger                         0.57      2.28
+Shared Animosity                         6.29     25.16
+Sigil Tracer                             1.05       4.2
+Stonehewer Giant                         2.79     11.16
+Taurean Mauler                           2.67     10.68
+Unstoppable Ash                           0.9       3.6
+Vendilion Clique                        72.45     289.8
+
+Uncommon                               Single   Playset
+Bramblewood Paragon                      1.04      4.16
+Heritage Druid                            5.5      22.0
+Oona's Blackguard                        0.77      3.08
+Thornbite Staff                          0.59      2.36
+
+Common                                 Single   Playset
+Shard Volley                             1.99      7.96
+
+

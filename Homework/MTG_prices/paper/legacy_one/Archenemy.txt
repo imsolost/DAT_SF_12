@@ -1,0 +1,70 @@
+Rare                                   Single   Playset
+Avatar of Discord                        1.25       5.0
+Avatar of Woe                            2.89     11.56
+Beacon of Unrest                         3.88     15.52
+Cemetery Reaper                          1.85       7.4
+Chameleon Colossus                       2.09      8.36
+Duplicant                                8.91     35.64
+Feral Hydra                              2.03      8.12
+Flameblast Dragon                        0.71      2.84
+Forgotten Ancient                        3.46     13.84
+Hellkite Charger                         1.55       6.2
+Imperial Hellkite                        0.61      2.44
+Kaervek the Merciless                     1.5       6.0
+Kamahl, Fist of Krosa                    3.96     15.84
+Kilnmouth Dragon                         1.45       5.8
+Leonin Abunas                            1.53      6.12
+Lodestone Golem                          1.25       5.0
+Magister Sphinx                          0.96      3.84
+Master Transmuter                        8.56     34.24
+Memnarch                                 7.67     30.68
+Molimo, Maro-Sorcerer                    0.56      2.24
+Mosswort Bridge                          2.19      8.76
+Primal Command                           7.51     30.04
+Ryusei, the Falling Star                 1.47      5.88
+Scion of Darkness                        1.82      7.28
+Sundering Titan                          4.74     18.96
+Taurean Mauler                           2.66     10.64
+Thelonite Hermit                         0.76      3.04
+Two-Headed Dragon                        1.55       6.2
+Vampiric Dragon                          2.74     10.96
+Verdeloth the Ancient                    0.66      2.64
+
+Uncommon                               Single   Playset
+Artisan of Kozilek                       1.91      7.64
+Batwing Brume                            1.56      6.24
+Dragonspeaker Shaman                     5.62     22.48
+Everflowing Chalice                       1.1       4.4
+Fires of Yavimaya                        0.77      3.08
+Graypelt Refuge                          0.59      2.36
+Harmonize                                1.75       7.0
+Krosan Verge                             0.71      2.84
+Lightning Greaves                        6.57     26.28
+Llanowar Reborn                          0.59      2.36
+Path to Exile                            6.99     27.96
+Reanimate                                6.47     25.88
+Shriekmaw                                1.41      5.64
+Spin into Myth                           0.78      3.12
+Sun Droplet                              0.61      2.44
+Thran Dynamo                             6.71     26.84
+Volcanic Fallout                          1.0       4.0
+Watchwolf                                0.82      3.28
+Zombie Infestation                       0.74      2.96
+Zombify                                   0.9       3.6
+
+Common                                 Single   Playset
+Armadillo Cloak                           1.0       4.0
+Azorius Signet                           0.74      2.96
+Dimir Signet                             0.92      3.68
+Dragon Fodder                            0.65       2.6
+Fierce Empath                            2.24      8.96
+Oblivion Ring                            0.93      3.72
+Rancor                                   2.37      9.48
+Sakura-Tribe Elder                       0.93      3.72
+Seething Song                             1.4       5.6
+Spider Umbra                             0.74      2.96
+Terminate                                1.15       4.6
+Unmake                                   1.05       4.2
+Wall of Roots                            1.04      4.16
+
+

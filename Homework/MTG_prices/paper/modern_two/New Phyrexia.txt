@@ -1,0 +1,48 @@
+Mythic                                 Single   Playset
+Batterskull                             17.06     68.24
+Elesh Norn, Grand Cenobite              32.99    131.96
+Etched Monstrosity                        0.9       3.6
+Jin-Gitaxias, Core Augur                 8.54     34.16
+Karn Liberated                          47.31    189.24
+Phyrexian Obliterator                   25.99    103.96
+Sheoldred, Whispering One                9.72     38.88
+Sword of War and Peace                   16.5      66.0
+Urabrask the Hidden                      5.45      21.8
+Vorinclex, Voice of Hunger               15.2      60.8
+
+Rare                                   Single   Playset
+Birthing Pod                             5.51     22.04
+Blade Splicer                            2.02      8.08
+Caged Sun                                 3.5      14.0
+Chancellor of the Annex                  0.67      2.68
+Life's Finale                            1.13      4.52
+Melira, Sylvok Outcast                   1.89      7.56
+Myr Superion                             1.09      4.36
+Norn's Annex                             0.99      3.96
+Phyrexian Metamorph                      5.08     20.32
+Phyrexian Unlife                         0.94      3.76
+Puresteel Paladin                        4.49     17.96
+Spellskite                              23.41     93.64
+Surgical Extraction                      6.43     25.72
+Torpor Orb                               2.71     10.84
+Unwinding Clock                          3.49     13.96
+
+Uncommon                               Single   Playset
+Beast Within                             2.34      9.36
+Deceiver Exarch                          0.92      3.68
+Dismember                                1.18      4.72
+Dispatch                                 1.71      6.84
+Gut Shot                                 0.75       3.0
+Mental Misstep                            0.7       2.8
+Mindcrank                                2.37      9.48
+Noxious Revival                          0.81      3.24
+Shattered Angel                          0.81      3.24
+Shrine of Burning Rage                   0.51      2.04
+Tezzeret's Gambit                        0.83      3.32
+
+Common                                 Single   Playset
+Gitaxian Probe                           3.35      13.4
+Mutagenic Growth                         0.87      3.48
+Vapor Snag                               1.03      4.12
+
+

@@ -1,0 +1,23 @@
+Mythic                                 Single   Playset
+Brimaz, King of Oreskos                 15.02     60.08
+Chromanticore                            1.51      6.04
+Ephara, God of the Polis                 0.62      2.48
+Flame-Wreathed Phoenix                   0.56      2.24
+Karametra, God of Harvests               0.52      2.08
+Kiora, the Crashing Wave                  6.1      24.4
+Mogis, God of Slaughter                   1.0       4.0
+Phenax, God of Deception                 0.96      3.84
+Xenagos, God of Revels                   1.55       6.2
+
+Rare                                   Single   Playset
+Courser of Kruphix                        8.7      34.8
+Herald of Torment                        0.56      2.24
+Hero of Iroas                            2.03      8.12
+Temple of Enlightenment                  5.33     21.32
+Temple of Plenty                         1.44      5.76
+
+Uncommon                               Single   Playset
+Bile Blight                              0.95       3.8
+Searing Blood                            1.48      5.92
+
+

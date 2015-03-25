@@ -1,0 +1,21 @@
+Rare                                   Single   Playset
+Bitterblossom                           29.49    117.96
+Chameleon Colossus                       1.01      4.04
+Gilt-Leaf Archdruid                       1.1       4.4
+Idyllic Tutor                            5.32     21.28
+Knowledge Exploitation                   0.52      2.08
+Leaf-Crowned Elder                       3.63     14.52
+Murmuring Bosk                           1.35       5.4
+Mutavault                                5.95      23.8
+Scapeshift                              14.17     56.68
+Shared Animosity                         1.92      7.68
+Taurean Mauler                           1.05       4.2
+Vendilion Clique                        40.04    160.16
+
+Uncommon                               Single   Playset
+Heritage Druid                           2.15       8.6
+
+Common                                 Single   Playset
+Shard Volley                             0.56      2.24
+
+

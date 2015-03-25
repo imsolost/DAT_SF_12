@@ -1,0 +1,40 @@
+Rare                                   Single   Playset
+Abeyance                                 2.09      8.36
+Alabaster Dragon                         0.54      2.16
+Ancestral Knowledge                       0.9       3.6
+Bone Dancer                              1.37      5.48
+Bosium Strip                             0.74      2.96
+Bubble Matrix                            0.94      3.76
+Debt of Loyalty                          1.89      7.56
+Dense Foliage                            0.66      2.64
+Doomsday                                 1.74      6.96
+Fervor                                   0.73      2.92
+Firestorm                                6.32     25.28
+Goblin Bomb                              3.46     13.84
+Infernal Tribute                         0.71      2.84
+Liege of the Hollows                     0.53      2.12
+Lotus Vale                               5.39     21.56
+Mana Web                                 3.78     15.12
+Null Rod                                 6.97     27.88
+Paradigm Shift                           0.78      3.12
+Peacekeeper                               2.9      11.6
+Pendrell Mists                           1.45       5.8
+Scorched Ruins                           2.45       9.8
+Serenity                                 1.36      5.44
+Tariff                                   0.54      2.16
+Tolarian Entrancer                       0.77      3.08
+Tranquil Grove                           0.52      2.08
+Urborg Justice                           0.92      3.68
+Well of Knowledge                        0.69      2.76
+Winding Canyons                          7.96     31.84
+
+Uncommon                               Single   Playset
+Argivian Find                            0.55       2.2
+Aura of Silence                          1.44      5.76
+Buried Alive                             1.64      6.56
+Gaea's Blessing                          0.75       3.0
+Gemstone Mine                            6.44     25.76
+Serra's Blessing                         0.73      2.92
+Veteran Explorer                         1.75       7.0
+
+

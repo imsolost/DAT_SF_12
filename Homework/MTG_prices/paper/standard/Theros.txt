@@ -1,0 +1,48 @@
+Mythic                                 Single   Playset
+Ashen Rider                               1.5       6.0
+Ashiok, Nightmare Weaver                17.58     70.32
+Elspeth, Sun's Champion                  12.0      48.0
+Erebos, God of the Dead                  4.75      19.0
+Heliod, God of the Sun                    2.5      10.0
+Hythonia the Cruel                       0.72      2.88
+Master of Waves                          7.34     29.36
+Medomai the Ageless                      0.86      3.44
+Nylea, God of the Hunt                   4.66     18.64
+Polukranos, World Eater                  5.46     21.84
+Purphoros, God of the Forge              7.15      28.6
+Stormbreath Dragon                      16.54     66.16
+Thassa, God of the Sea                   8.34     33.36
+Underworld Cerberus                      0.88      3.52
+Xenagos, the Reveler                     6.15      24.6
+
+Rare                                   Single   Playset
+Anger of the Gods                        2.36      9.44
+Boon Satyr                               0.99      3.96
+Bow of Nylea                             1.32      5.28
+Chained to the Rocks                     1.79      7.16
+Colossus of Akros                         1.0       4.0
+Fabled Hero                              0.79      3.16
+Firedrinker Satyr                        0.83      3.32
+Fleecemane Lion                          2.68     10.72
+Hero's Downfall                           7.5      30.0
+Mistcutter Hydra                         0.89      3.56
+Nykthos, Shrine to Nyx                   6.16     24.64
+Prognostic Sphinx                        0.53      2.12
+Prophet of Kruphix                       1.42      5.68
+Soldier of the Pantheon                  0.81      3.24
+Spear of Heliod                          0.55       2.2
+Swan Song                                0.99      3.96
+Sylvan Caryatid                           7.2      28.8
+Temple of Abandon                         1.6       6.4
+Temple of Deceit                         2.65      10.6
+Temple of Mystery                        1.47      5.88
+Temple of Silence                        3.35      13.4
+Temple of Triumph                        4.48     17.92
+Thoughtseize                             20.0      80.0
+Whip of Erebos                           2.99     11.96
+
+Uncommon                               Single   Playset
+Dissolve                                 1.42      5.68
+Favored Hoplite                          1.33      5.32
+
+

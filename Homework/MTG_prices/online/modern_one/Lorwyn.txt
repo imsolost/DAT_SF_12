@@ -1,0 +1,24 @@
+Rare                                   Single   Playset
+Ajani Goldmane                           1.05       4.2
+Austere Command                          1.32      5.28
+Cryptic Command                         19.72     78.88
+Doran, the Siege Tower                   7.58     30.32
+Gaddock Teeg                             4.38     17.52
+Garruk Wildspeaker                       3.78     15.12
+Immaculate Magistrate                    0.87      3.48
+Jace Beleren                             1.46      5.84
+Liliana Vess                             4.82     19.28
+Mirror Entity                            1.08      4.32
+Mistbind Clique                          0.98      3.92
+Mosswort Bridge                          0.84      3.36
+Primal Command                            3.8      15.2
+Rings of Brighthearth                    1.15       4.6
+Sower of Temptation                     15.88     63.52
+Thorn of Amethyst                        2.37      9.48
+Thoughtseize                            11.15      44.6
+Thousand-Year Elixir                     0.54      2.16
+Vigor                                     0.9       3.6
+Wanderwine Hub                           3.33     13.32
+Windbrisk Heights                        7.37     29.48
+
+

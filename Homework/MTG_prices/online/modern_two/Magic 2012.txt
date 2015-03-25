@@ -1,0 +1,25 @@
+Mythic                                 Single   Playset
+Angelic Destiny                          2.64     10.56
+Chandra, the Firebrand                   1.27      5.08
+Frost Titan                              0.82      3.28
+Garruk, Primal Hunter                     2.6      10.4
+Gideon Jura                              2.66     10.64
+Grave Titan                              3.69     14.76
+Inferno Titan                            3.37     13.48
+Jace, Memory Adept                       0.71      2.84
+Primeval Titan                          34.65     138.6
+Primordial Hydra                         3.29     13.16
+Sorin Markov                             2.68     10.72
+Sun Titan                                2.69     10.76
+
+Rare                                   Single   Playset
+Birds of Paradise                        1.92      7.68
+Dungrove Elder                           1.61      6.44
+Grim Lavamancer                           4.0      16.0
+Honor of the Pure                         0.9       3.6
+Phantasmal Image                         1.96      7.84
+Solemn Simulacrum                        2.04      8.16
+Vengeful Pharaoh                         0.78      3.12
+Visions of Beyond                        1.04      4.16
+
+

@@ -1,0 +1,17 @@
+Rare                                   Single   Playset
+Arcanis the Omnipotent                   0.67      2.68
+Blatant Thievery                         1.04      4.16
+Bloodstained Mire                        5.03     20.12
+Enchantress's Presence                   1.63      6.52
+Flooded Strand                           9.51     38.04
+Goblin Piledriver                         0.9       3.6
+Goblin Sharpshooter                       1.4       5.6
+Kamahl, Fist of Krosa                    0.91      3.64
+Patriarch's Bidding                      1.38      5.52
+Polluted Delta                           9.86     39.44
+Riptide Laboratory                       0.91      3.64
+Unholy Grotto                            0.72      2.88
+Windswept Heath                           6.0      24.0
+Wooded Foothills                         5.99     23.96
+
+

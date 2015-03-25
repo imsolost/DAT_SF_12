@@ -1,0 +1,75 @@
+Mythic                                 Single   Playset
+Clone Legion                             1.74      6.96
+Deathmist Raptor                        14.73     58.92
+Descent of the Dragons                   3.39     13.56
+Dragon Whisperer                         6.44     25.76
+Dragonlord Atarka                        5.94     23.76
+Dragonlord Dromoka                       6.09     24.36
+Dragonlord Kolaghan                      3.94     15.76
+Dragonlord Ojutai                        6.62     26.48
+Dragonlord Silumgar                      5.38     21.52
+Narset Transcendent                      36.7     146.8
+Ojutai Exemplars                         6.97     27.88
+Risen Executioner                        2.91     11.64
+Sarkhan Unbroken                        21.89     87.56
+Shaman of Forgotten Ways                 5.65      22.6
+Shorecrasher Elemental                   6.29     25.16
+
+Rare                                   Single   Playset
+Anafenza, Kin-Tree Spirit                3.77     15.08
+Arashin Foremost                         1.59      6.36
+Assault Formation                        1.93      7.72
+Atarka's Command                         4.85      19.4
+Avatar of the Resolute                   2.51     10.04
+Berserkers' Onslaught                    0.52      2.08
+Blood-Chin Fanatic                        0.9       3.6
+Boltwing Marauder                        0.53      2.12
+Collected Company                        4.29     17.16
+Commune with Lava                        1.86      7.44
+Corpseweft                               0.77      3.08
+Damnable Pact                            1.81      7.24
+Deathbringer Regent                      0.64      2.56
+Den Protector                            1.63      6.52
+Dragon Tempest                           2.29      9.16
+Dragonlord's Prerogative                 0.59      2.36
+Dromoka's Command                        3.87     15.48
+Foul Renewal                             0.54      2.16
+Gleam of Authority                       0.73      2.92
+Harbinger of the Hunt                     0.6       2.4
+Haven of the Spirit Dragon               2.89     11.56
+Hidden Dragonslayer                       1.4       5.6
+Icefall Regent                           1.47      5.88
+Ire Shaman                               1.25       5.0
+Kolaghan's Command                       2.58     10.32
+Living Lore                              0.86      3.44
+Mirror Mockery                           1.24      4.96
+Myth Realized                            3.99     15.96
+Necromaster Dragon                       0.75       3.0
+Obscuring Aether                         0.69      2.76
+Ojutai's Command                         4.01     16.04
+Pitiless Horde                            0.6       2.4
+Pristine Skywise                         0.54      2.16
+Profaner of the Dead                     0.65       2.6
+Profound Journey                         0.54      2.16
+Radiant Purge                            1.19      4.76
+Secure the Wastes                        3.66     14.64
+Sidisi, Undead Vizier                    3.79     15.16
+Silumgar Assassin                        0.74      2.96
+Silumgar's Command                       2.24      8.96
+Stratus Dancer                           1.99      7.96
+Sunscorch Regent                         1.11      4.44
+Surrak, the Hunt Caller                  1.86      7.44
+Thunderbreak Regent                      5.18     20.72
+Zurgo Bellstriker                        2.35       9.4
+
+Uncommon                               Single   Playset
+Blood-Chin Rager                         0.56      2.24
+Dragon Hunter                            0.58      2.32
+Dragonlord's Servant                     1.04      4.16
+Lightning Berserker                      0.75       3.0
+Rending Volley                           0.51      2.04
+Roast                                    0.78      3.12
+Sarkhan's Triumph                        0.58      2.32
+Savage Ventmaw                           0.51      2.04
+
+
